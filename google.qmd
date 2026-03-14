@@ -1,0 +1,80 @@
+---
+title: "Google Organizational Behavior Analysis"
+---
+
+## Business Context
+
+Google operates within a highly competitive global technology environment where innovation, talent retention, and organizational adaptability are critical to sustained market leadership.
+
+The company’s organizational culture has historically been positioned as a key strategic asset supporting product innovation, employee engagement, and long-term brand equity.
+
+
+## Strategic Question
+
+The central analytical focus of this project was:
+
+How does Google’s organizational culture influence its innovation capacity and long-term competitive positioning?
+
+Understanding the relationship between internal culture and external market performance is essential for evaluating technology-driven firms.
+
+
+## Organizational Culture Analysis
+
+Google’s culture is characterized by:
+
+• Emphasis on psychological safety and collaborative problem solving  
+• Strong focus on employee autonomy and intrinsic motivation  
+• Data-informed decision-making processes across teams  
+• Continuous experimentation supporting product innovation  
+
+
+## Motivation & Performance Systems
+
+The company’s use of structured goal frameworks, including OKR systems, aligns individual performance with broader organizational strategy.
+
+These mechanisms contribute to:
+
+• Clear performance expectations  
+• Alignment between innovation initiatives and business objectives  
+• Increased accountability across cross-functional teams  
+
+
+## Diversity & Inclusion Strategy
+
+Google’s diversity initiatives reflect recognition of the relationship between inclusive organizational environments and innovative output.
+
+However, maintaining meaningful progress requires:
+
+• Continued investment in inclusive leadership practices  
+• Transparent measurement of diversity outcomes  
+• Alignment between stated values and operational implementation  
+
+
+## Strategic Implications
+
+This analysis highlights the importance of:
+
+• Organizational culture as a driver of innovation capability  
+• Structured performance systems supporting strategic alignment  
+• Diversity initiatives contributing to long-term competitive strength  
+• Leadership influence in shaping adaptive organizational environments  
+
+
+## Skills Demonstrated
+
+• Organizational behavior analysis  
+• Culture-performance relationship evaluation  
+• Motivation framework application  
+• Strategic HR insight  
+• Corporate innovation assessment  
+• Analytical synthesis of qualitative data  
+
+## Project Presentation Slides
+<a href="https://brianamaximino.my.canva.site" class="btn btn-secondary">View Presentation Slides</a>
+
+
+## Next Project
+
+<div class="project-nav">
+<a href="soackerz.html">Next: Brand Strategy Analysis →</a>
+</div>

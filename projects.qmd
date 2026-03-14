@@ -1,0 +1,42 @@
+---
+title: "Marketing Strategy & Campaign Portfolio"
+---
+
+## Featured Campaign Strategy
+
+### LA Galaxy Fan Engagement Strategy
+
+A strategic campaign concept focused on strengthening Gen Z fan loyalty through experiential 
+engagement, digital storytelling, and insight-driven marketing initiatives.
+
+This project demonstrates applied sports marketing strategy and brand positioning development.
+
+<a href="lagalaxy.html" class="primary-link">View Full Case Study →</a>
+
+
+## Strategic Marketing Analyses
+
+<div class="strategy-grid">
+
+<div class="strategy-card">
+<div class="strategy-tag">Corporate Strategy</div>
+<h3>Tesla Corporate Strategy Analysis</h3>
+<p>Sustainability positioning, leadership influence, and competitive strategy evaluation.</p>
+<a href="tesla.html" class="secondary-link">View Analysis →</a>
+</div>
+
+<div class="strategy-card">
+<div class="strategy-tag">Organizational Strategy</div>
+<h3>Google Organizational Behavior Analysis</h3>
+<p>Innovation culture, motivation systems, and organizational performance analysis.</p>
+<a href="google.html" class="secondary-link">View Analysis →</a>
+</div>
+
+<div class="strategy-card">
+<div class="strategy-tag">Brand Strategy</div>
+<h3>Super Soaker Brand Strategy</h3>
+<p>Consumer insight-driven brand positioning and experiential marketing concept.</p>
+<a href="soackerz.html" class="secondary-link">View Analysis →</a>
+</div>
+
+</div>

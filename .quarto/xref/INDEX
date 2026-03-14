@@ -1,0 +1,35 @@
+{
+  "presentation.qmd": {
+    "presentation.html": "600fe4a4"
+  },
+  "dashboard.qmd": {
+    "dashboard.html": "0fc97521"
+  },
+  "projects.qmd": {
+    "projects.html": "a2d14f66"
+  },
+  "index.qmd": {
+    "index.html": "6e530e67"
+  },
+  "analytics.qmd": {
+    "analytics.html": "62ed5e5d"
+  },
+  "lagalaxy.qmd": {
+    "lagalaxy.html": "0e2e4bff"
+  },
+  "tesla.qmd": {
+    "tesla.html": "84d3b577"
+  },
+  "soackerz.qmd": {
+    "soackerz.html": "fcc85078"
+  },
+  "google.qmd": {
+    "google.html": "9f7de3cb"
+  },
+  "resume.qmd": {
+    "resume.html": "6fa7544d"
+  },
+  " supersoakerz.qmd": {
+    " supersoakerz.html": "012f97a4"
+  }
+}

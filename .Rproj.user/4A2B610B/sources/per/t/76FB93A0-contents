@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Briana Maximino | Marketing Portfolio"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+
+      - text: Marketing Projects
+        href: projects.qmd
+
+      - text: Resume
+        href: resume.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+

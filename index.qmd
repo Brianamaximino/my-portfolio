@@ -1,0 +1,102 @@
+---
+title: "Briana Maximino"
+---
+
+<div class="hero">
+
+<h1>Briana Maximino</h1>
+
+<p class="subtitle">
+Future Marketing Strategist focused on campaign development, brand positioning, 
+and consumer insight-driven marketing strategy.
+</p>
+
+<div class="hero-buttons">
+<a href="projects.html" class="primary-btn">View Portfolio</a>
+<a href="resume.html" class="secondary-btn">View Resume</a>
+</div>
+
+</div>
+
+## Strategic Focus
+
+My work explores how organizations strengthen brand relevance and consumer engagement 
+through strategic marketing thinking, behavioral insight analysis, and experiential campaign concepts.
+
+I am particularly interested in sports marketing, brand strategy, and consumer-focused campaign development.
+
+
+## Portfolio Overview
+
+This portfolio presents marketing analyses and campaign strategy concepts developed through 
+academic research and applied business frameworks.
+
+Core areas include:
+
+• Campaign strategy development  
+• Brand positioning analysis  
+• Organizational and corporate evaluation  
+• Consumer behavior integration  
+• Marketing communication strategy  
+
+
+## Professional Development
+
+Through academic projects and independent learning, I have developed experience applying 
+marketing frameworks to real-world business contexts.
+
+My goal is to contribute strategic thinking and analytical support within dynamic marketing teams.
+
+
+## Marketing Impact Perspective
+
+I approach marketing strategy with an emphasis on measurable outcomes and long-term brand value.
+
+This includes evaluating how marketing initiatives influence:
+
+• Consumer engagement  
+• Brand perception  
+• Audience loyalty  
+• Market competitiveness  
+• Digital interaction effectiveness  
+
+
+## Selected Strategic Work
+
+<div class="preview-grid">
+
+<a href="lagalaxy.html" class="preview-card">
+<h3>LA Galaxy Campaign Strategy</h3>
+<p>Gen Z engagement and experiential sports marketing concept.</p>
+</a>
+
+<a href="tesla.html" class="preview-card">
+<h3>Tesla Corporate Strategy</h3>
+<p>Sustainability positioning and competitive analysis.</p>
+</a>
+
+<a href="google.html" class="preview-card">
+<h3>Google Organizational Analysis</h3>
+<p>Innovation culture and performance alignment study.</p>
+</a>
+
+<a href="soackerz.html" class="preview-card">
+<h3>Super Soaker Brand Strategy</h3>
+<p>Consumer insight-driven positioning concept.</p>
+</a>
+
+</div>
+
+
+## Career Direction
+
+I am currently seeking marketing internship opportunities where I can contribute strategic thinking, 
+analytical reasoning, and campaign development support.
+
+
+<div class="personal-hook">
+
+Marketing strategy is about shaping how people experience brands, connect emotionally, 
+and engage with ideas that influence behavior.
+
+</div>
