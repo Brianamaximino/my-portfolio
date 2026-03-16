@@ -1,10 +1,6 @@
 ---
-title: ""
+title: "Briana Maximino"
 ---
-
-<div class="hero">
-
-<h1>Briana Maximino</h1>
 
 <p class="subtitle">
 Marketing student focused on sports marketing, brand strategy, and consumer engagement analytics.
