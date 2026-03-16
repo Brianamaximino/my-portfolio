@@ -103,3 +103,8 @@ Building community-centered brand experiences is essential for sustaining long-t
 
 ![](images/la%20galaxy%20post.png){width="500"}
 
+## Next Project
+
+<div class="project-nav">
+<a href="google.html">Next: Google Organizational Analysis →</a>
+</div>
