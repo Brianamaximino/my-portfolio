@@ -8,7 +8,8 @@ echo: false
 # Briana Maximino  
 ### Marketing Strategy | Sports Marketing | Brand Engagement  
 
-I develop marketing strategies that strengthen brand connection, enhance audience engagement, and support long-term brand growth.
+I explore how brands build emotional relevance through strategy, culture, and audience experience.  
+My work focuses on sports, innovation-driven brands, and experiential marketing concepts.
 
 <div class="hero-buttons">
 <a href="projects.html" class="btn-primary">View Marketing Projects</a>
@@ -87,7 +88,7 @@ ggplot(engagement_data, aes(x = Campaign_Phase, y = Engagement_Score, group = 1)
 
 ## Portfolio Overview  
 
-This portfolio showcases marketing strategy projects focused on brand engagement, experiential marketing concepts, and organizational analysis.
+This portfolio reflects an evolving exploration of marketing strategy, brand experience, and audience engagement in contemporary digital environments.
 
 ---
 

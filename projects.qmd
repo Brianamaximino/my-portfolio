@@ -13,6 +13,7 @@ This project demonstrates applied sports marketing strategy and brand positionin
 
 <a href="lagalaxy.html" class="primary-link">View Full Case Study →</a>
 
+---
 
 ## Strategic Marketing Analyses
 
@@ -25,12 +26,16 @@ This project demonstrates applied sports marketing strategy and brand positionin
 <a href="tesla.html" class="secondary-link">View Analysis →</a>
 </div>
 
+---
+
 <div class="strategy-card">
 <div class="strategy-tag">Organizational Strategy</div>
 <h3>Google Organizational Behavior Analysis</h3>
 <p>Innovation culture, motivation systems, and organizational performance analysis.</p>
 <a href="google.html" class="secondary-link">View Analysis →</a>
 </div>
+
+---
 
 <div class="strategy-card">
 <div class="strategy-tag">Brand Strategy</div>
@@ -39,4 +44,6 @@ This project demonstrates applied sports marketing strategy and brand positionin
 <a href="supersoakerz.html" class="secondary-link">View Analysis →</a>
 </div>
 
+
+---
 </div>

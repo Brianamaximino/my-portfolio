@@ -133,3 +133,30 @@ h2 {
 p {
   line-height: 1.7;
 }
+
+body {
+  letter-spacing: 0.2px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+.hero {
+  background: linear-gradient(120deg, #0f172a, #1e293b);
+  color: white;
+  padding: 120px 20px;
+  border-radius: 14px;
+}
+
+section {
+  margin-bottom: 70px;
+}
+
+p {
+  max-width: 750px;
+}
