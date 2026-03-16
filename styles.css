@@ -124,3 +124,12 @@ p {
 .hero-buttons {
   margin-top: 25px;
 }
+
+h2 {
+  margin-top: 60px;
+  font-weight: 700;
+}
+
+p {
+  line-height: 1.7;
+}
