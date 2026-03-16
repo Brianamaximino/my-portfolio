@@ -1,13 +1,13 @@
 ---
-title: "Home"
+title: "Briana Maximino | Marketing Strategy Portfolio"
 ---
 
 <div class="hero">
 
 # Briana Maximino  
-### Marketing Strategy & Sports Marketing Portfolio  
+### Marketing Strategy | Sports Marketing | Brand Engagement  
 
-I develop marketing strategies that strengthen brand connection, enhance consumer engagement, and support long-term brand growth.
+I develop marketing strategies that strengthen brand connection, enhance audience engagement, and support long-term brand growth.
 
 <div class="hero-buttons">
 <a href="projects.html" class="btn-primary">View Marketing Projects</a>
@@ -18,11 +18,11 @@ I develop marketing strategies that strengthen brand connection, enhance consume
 
 ---
 
-## Strategic Focus  
+## Marketing Focus  
 
-My work focuses on understanding how brands build meaningful relationships with audiences through strategy, data, and experience-driven marketing initiatives.
+My portfolio explores how organizations build meaningful relationships with audiences through strategy, consumer insight, and experience-driven marketing initiatives.
 
-Key interest areas include:
+Primary areas of interest:
 
 - Sports Marketing  
 - Brand Strategy  
@@ -45,10 +45,10 @@ Key interest areas include:
 
 ---
 
-## Featured Work  
+## Portfolio Overview  
 
-This portfolio highlights academic and applied marketing projects focused on strategic analysis, brand engagement, and experiential marketing concepts.
+This portfolio showcases marketing strategy projects focused on brand engagement, experiential marketing concepts, and organizational analysis.
 
 ---
 
-*This portfolio represents ongoing academic and professional development in marketing strategy and consumer engagement.*
+*This portfolio reflects ongoing academic and professional development in marketing strategy and consumer engagement.*
