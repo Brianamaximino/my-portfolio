@@ -1,5 +1,5 @@
 ---
-title: "Briana Maximino"
+title: ""
 ---
 
 <div class="hero">
