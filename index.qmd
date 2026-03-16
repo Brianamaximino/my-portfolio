@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Briana Maximino - Marketing Strategy & Campaign Portfolio"
 ---
 
 <div class="hero">
