@@ -93,6 +93,22 @@ Estimated engagement increase based on campaign modeling:
 - Matchday interest among Gen Z: +18%  
 - Brand interaction rate: +22%
 
+### Engagement Projection Model  
+
+The proposed campaign strategy was modeled using industry engagement benchmarks for Gen Z sports audiences.
+
+| Engagement Metric | Current Baseline | Projected Outcome |
+|------------------|-----------------|------------------|
+| Social Media Interaction | Moderate | High |
+| Matchday Interest | Low–Moderate | Moderate–High |
+| Brand Engagement | Moderate | High |
+| Digital Participation | Low | Moderate |
+
+### Strategic Focus Model  
+
+Fan Engagement Strategy =  
+Digital Experience + Community Connection + Experiential Marketing
+
 ### Key Insight  
 
 Sports organizations must move beyond traditional promotional tactics and adopt experience-driven engagement strategies that align with evolving consumer expectations.  
@@ -106,5 +122,5 @@ Building community-centered brand experiences is essential for sustaining long-t
 ## Next Project
 
 <div class="project-nav">
-<a href="google.html">Next: Google Organizational Analysis →</a>
+<a href="tesla.html">Next: Tesla Marketing Strategy →</a>
 </div>
