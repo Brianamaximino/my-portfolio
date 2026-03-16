@@ -1,19 +1,19 @@
 project:
   type: website
+  output-dir: .
 
 website:
-  title: "Briana Maximino | Marketing Portfolio"
+  title: "Briana Maximino"
   navbar:
     left:
-      - text: Home
-        href: index.qmd
-      - text: Marketing Projects
-        href: projects.qmd
-      - text: Resume
-        href: resume.qmd
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Marketing Projects
+      - href: resume.qmd
+        text: Resume
 
 format:
   html:
-    theme: flatly
+    theme: cosmo
     css: styles.css
-    toc: true
