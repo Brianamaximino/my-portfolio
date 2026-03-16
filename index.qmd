@@ -1,17 +1,16 @@
 ---
-title: "Briana Maximino - Marketing Strategy & Campaign Portfolio"
+title: "Home"
 ---
 
 <div class="hero">
 
 # Briana Maximino  
+### Marketing Strategy & Sports Marketing Portfolio  
 
-**Future Sports Marketing Analyst**
-
-Marketing student focused on sports marketing, brand strategy, and consumer engagement analytics.
+I develop marketing strategies that strengthen brand connection, enhance consumer engagement, and support long-term brand growth.
 
 <div class="hero-buttons">
-<a href="projects.html" class="btn-primary">View Portfolio</a>
+<a href="projects.html" class="btn-primary">View Marketing Projects</a>
 <a href="resume.html" class="btn-secondary">View Resume</a>
 </div>
 
@@ -19,53 +18,37 @@ Marketing student focused on sports marketing, brand strategy, and consumer enga
 
 ---
 
-## Strategic Focus
+## Strategic Focus  
 
-I explore how organizations build strong brand relevance and consumer engagement through data-driven strategy, behavioral insight, and campaign development.
+My work focuses on understanding how brands build meaningful relationships with audiences through strategy, data, and experience-driven marketing initiatives.
 
-My main interests include:
+Key interest areas include:
 
-- Sports marketing  
-- Brand strategy  
-- Consumer analytics  
-- Campaign planning  
-
----
-
-## Featured Work
-
-<div class="project-grid">
-
-<div class="project-card">
-<h3>LA Galaxy Campaign</h3>
-<p>Gen Z engagement and experiential sports marketing strategy.</p>
-<a href="projects.html#la-galaxy">View Project →</a>
-</div>
-
-<div class="project-card">
-<h3>Tesla Strategy Analysis</h3>
-<p>Corporate strategy and management initiative evaluation.</p>
-<a href="projects.html#tesla">View Project →</a>
-</div>
-
-<div class="project-card">
-<h3>Google Organizational Study</h3>
-<p>Organizational structure and strategic leadership insights.</p>
-<a href="projects.html#google">View Project →</a>
-</div>
-
-<div class="project-card">
-<h3>Super Soaker Brand</h3>
-<p>Student-run marketing business focused on campus services.</p>
-<a href="projects.html#super-soaker">View Project →</a>
-</div>
-
-</div>
+- Sports Marketing  
+- Brand Strategy  
+- Consumer Behavior  
+- Campaign Development  
+- Digital Engagement  
 
 ---
 
-## Career Direction
+## Core Skills  
 
-I aim to contribute strategic thinking and analytical support within sports and consumer-focused marketing teams.
+- Marketing Strategy  
+- Consumer Insights  
+- Campaign Planning  
+- Brand Positioning  
+- Market Research  
+- Social Media Strategy  
+- Google Analytics (GA4)  
+- Excel Data Analysis  
 
-My long-term goal is to work in sports marketing where brand storytelling, fan engagement, and performance analytics intersect.
+---
+
+## Featured Work  
+
+This portfolio highlights academic and applied marketing projects focused on strategic analysis, brand engagement, and experiential marketing concepts.
+
+---
+
+*This portfolio represents ongoing academic and professional development in marketing strategy and consumer engagement.*
