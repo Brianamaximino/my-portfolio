@@ -1,5 +1,5 @@
 ---
-title: "Super Soaker Marketing Business Project"
+title: "Super Soaker Gen Z Fan Engagement & Experiential Marketing Strategy "
 ---
 
 ## Business Context
@@ -28,6 +28,13 @@ The primary challenge involved building awareness and trust among students while
 - Consumer engagement execution  
 - Brand awareness development  
 - Small business positioning  
+
+## Strategic Framework Used
+
+- SWOT Analysis  
+- Competitive Positioning Map  
+- Consumer Journey Mapping  
+- Brand Equity Evaluation  
 
 ## Next Project
 

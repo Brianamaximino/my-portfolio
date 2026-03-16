@@ -1,5 +1,5 @@
 ---
-title: "Tesla Corporate Strategy Analysis"
+title: "Tesla Sustainability-Driven Competitive Strategy Analysis"
 ---
 
 ## Business Context
@@ -61,6 +61,12 @@ The analysis suggests that Tesla’s long-term success depends on:
 • Strategic risk identification  
 • Industry context integration  
 
+## Strategic Framework Used
+
+- SWOT Analysis  
+- Competitive Positioning Map  
+- Consumer Journey Mapping  
+- Brand Equity Evaluation  
 
 ## Next Project
 

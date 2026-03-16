@@ -7,8 +7,7 @@ title: "Briana Maximino"
 <h1>Briana Maximino</h1>
 
 <p class="subtitle">
-Future Marketing Strategist focused on campaign development, brand positioning, 
-and consumer insight-driven marketing strategy.
+Marketing student focused on sports marketing, brand strategy, and consumer engagement analytics.
 </p>
 
 <div class="hero-buttons">
@@ -94,8 +93,8 @@ This includes evaluating how marketing initiatives influence:
 
 ## Career Direction
 
-I am currently seeking marketing internship opportunities where I can contribute strategic thinking, 
-analytical reasoning, and campaign development support.
+I am seeking opportunities in sports marketing, brand strategy, and consumer engagement analytics to apply my strategic marketing skills within dynamic organizations that value consumer insight, brand development, and innovative campaign thinking.
+
 
 
 <div class="personal-hook">

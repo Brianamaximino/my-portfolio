@@ -1,5 +1,5 @@
 ---
-title: "Google Organizational Behavior Analysis"
+title: "Google Sustainability-Driven Competitive Strategy Analysis"
 ---
 
 ## Business Context
@@ -72,6 +72,12 @@ This analysis highlights the importance of:
 ## Project Presentation Slides
 <a href="https://brianamaximino.my.canva.site" class="btn btn-secondary">View Presentation Slides</a>
 
+## Strategic Framework Used
+
+- SWOT Analysis  
+- Competitive Positioning Map  
+- Consumer Journey Mapping  
+- Brand Equity Evaluation  
 
 ## Next Project
 
