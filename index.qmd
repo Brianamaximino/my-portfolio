@@ -1,5 +1,6 @@
 ---
 title: "Briana Maximino | Marketing Strategy Portfolio"
+echo: false
 ---
 
 <div class="hero">
@@ -63,6 +64,26 @@ Key focus areas include:
 | Brand Interaction | Increased with interactive digital formats |
 | Campaign Reach | Improved through influencer collaboration |
 ---
+
+### Engagement Trend Example  
+
+```{r}
+library(ggplot2)
+
+engagement_data <- data.frame(
+  Campaign_Phase = c("Pre Campaign", "Launch", "Mid Campaign", "Post Campaign"),
+  Engagement_Score = c(45, 65, 78, 72)
+)
+
+ggplot(engagement_data, aes(x = Campaign_Phase, y = Engagement_Score, group = 1)) +
+  geom_line() +
+  geom_point() +
+  labs(
+    title = "Projected Audience Engagement Trend",
+    x = "Campaign Phase",
+    y = "Engagement Index"
+  )
+```
 
 ## Portfolio Overview  
 
