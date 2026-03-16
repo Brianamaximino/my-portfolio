@@ -2,28 +2,6 @@
 title: ""
 ---
 
-## Super Soaker Student-Led Service Marketing Project
-
-![](images/Buisness%20poster%20.PNG){width="400"}
-
-## Real Service Execution
-
-This project involved live service delivery within a campus parking structure, allowing the marketing strategy to operate through visibility, peer observation, and real-time engagement.
-
-### Before Service
-
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/312hi1Za1IE" frameborder="0" allowfullscreen>
-
-</iframe>
-
-### After Service
-
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/wJenaJfogVE" frameborder="0" allowfullscreen>
-
-</iframe>
-
-------------------------------------------------------------------------
-
 ## Core Insight
 
 College students respond strongly to convenience-driven services that reduce small lifestyle friction, particularly when promoted through visible peer interaction.
@@ -46,13 +24,33 @@ Key strategic elements included:
 ## Target Persona
 
 **Mia, 20**\
-Busy full-time student seeking quick lifestyle solutions. Influenced by peer behavior and convenience-focused services.
+Busy full-time student seeking quick lifestyle solutions. Influenced by peer behavior and convenience-focused services. 
 
 ------------------------------------------------------------------------
 
 ## Strategic Insights
 
 This project demonstrated how localized service marketing can generate awareness through physical visibility, social proof, and community-based promotion within constrained market environments.
+
+## Super Soaker Student-Led Service Marketing Project
+
+![](images/Buisness%20poster%20.PNG){width="400"}
+
+## Real Service Execution
+
+This project involved live service delivery within a campus parking structure, allowing the marketing strategy to operate through visibility, peer observation, and real-time engagement.
+
+### Before Service
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/312hi1Za1IE" frameborder="0" allowfullscreen>
+
+</iframe>
+
+### After Service
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/wJenaJfogVE" frameborder="0" allowfullscreen>
+
+</iframe>
 
 ## Next Project
 
