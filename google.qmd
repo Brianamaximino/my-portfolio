@@ -76,5 +76,5 @@ This analysis highlights the importance of:
 ## Next Project
 
 <div class="project-nav">
-<a href="soackerz.html">Next: Brand Strategy Analysis →</a>
+<a href="supersoakerz.html">Next: Super Soaker Marketing Business Project →</a>
 </div>

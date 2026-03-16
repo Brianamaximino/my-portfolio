@@ -48,7 +48,7 @@ Key proposed initiatives included:
 
 ## Social Media Post Mockup
 
-![](images/la galaxy post.png){width="500"}
+![](images/la%20galaxy%20post.png){width="500"}
 
 ## Expected Marketing Impact
 

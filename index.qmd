@@ -60,33 +60,37 @@ This includes evaluating how marketing initiatives influence:
 • Market competitiveness  
 • Digital interaction effectiveness  
 
-
 ## Selected Strategic Work
 
-<div class="preview-grid">
-
-<a href="lagalaxy.html" class="preview-card">
+::: {.grid}
+::: {.g-col-6}
+<a href="lagalaxy.html" class="card">
 <h3>LA Galaxy Campaign Strategy</h3>
 <p>Gen Z engagement and experiential sports marketing concept.</p>
 </a>
+:::
 
-<a href="tesla.html" class="preview-card">
+::: {.g-col-6}
+<a href="tesla.html" class="card">
 <h3>Tesla Corporate Strategy</h3>
-<p>Sustainability positioning and competitive analysis.</p>
+<p>Company Analysis on Management and Strategic Initiatives.</p>
 </a>
+:::
 
-<a href="google.html" class="preview-card">
+::: {.g-col-6}
+<a href="google.html" class="card">
 <h3>Google Organizational Analysis</h3>
-<p>Innovation culture and performance alignment study.</p>
+<p>Analyzing organizational structure and strategic initiatives.</p>
 </a>
+:::
 
-<a href="soackerz.html" class="preview-card">
+::: {.g-col-6}
+<a href="supersoakerz.html" class="card">
 <h3>Super Soaker Brand Strategy</h3>
-<p>Consumer insight-driven positioning concept.</p>
+<p>Student ran business project focused on marketing strategy and brand development.</p>
 </a>
-
-</div>
-
+:::
+:::
 
 ## Career Direction
 

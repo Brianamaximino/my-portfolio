@@ -36,7 +36,7 @@ This project demonstrates applied sports marketing strategy and brand positionin
 <div class="strategy-tag">Brand Strategy</div>
 <h3>Super Soaker Brand Strategy</h3>
 <p>Consumer insight-driven brand positioning and experiential marketing concept.</p>
-<a href="soackerz.html" class="secondary-link">View Analysis →</a>
+<a href="supersoakerz.html" class="secondary-link">View Analysis →</a>
 </div>
 
 </div>
