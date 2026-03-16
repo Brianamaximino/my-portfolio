@@ -1,101 +1,71 @@
 ---
-title: "Briana Maximino"
+title: "Home"
 ---
 
-<p class="subtitle">
+<div class="hero">
+
+# Briana Maximino  
+
+**Future Sports Marketing Strategist**
+
 Marketing student focused on sports marketing, brand strategy, and consumer engagement analytics.
-</p>
 
 <div class="hero-buttons">
-<a href="projects.html" class="primary-btn">View Portfolio</a>
-<a href="resume.html" class="secondary-btn">View Resume</a>
+<a href="projects.html" class="btn-primary">View Portfolio</a>
+<a href="resume.html" class="btn-secondary">View Resume</a>
 </div>
 
 </div>
+
+---
 
 ## Strategic Focus
 
-My work explores how organizations strengthen brand relevance and consumer engagement 
-through strategic marketing thinking, behavioral insight analysis, and experiential campaign concepts.
+I explore how organizations build strong brand relevance and consumer engagement through data-driven strategy, behavioral insight, and campaign development.
 
-I am particularly interested in sports marketing, brand strategy, and consumer-focused campaign development.
+My main interests include:
 
+- Sports marketing  
+- Brand strategy  
+- Consumer analytics  
+- Campaign planning  
 
-## Portfolio Overview
+---
 
-This portfolio presents marketing analyses and campaign strategy concepts developed through 
-academic research and applied business frameworks.
+## Featured Work
 
-Core areas include:
+<div class="project-grid">
 
-• Campaign strategy development  
-• Brand positioning analysis  
-• Organizational and corporate evaluation  
-• Consumer behavior integration  
-• Marketing communication strategy  
+<div class="project-card">
+<h3>LA Galaxy Campaign</h3>
+<p>Gen Z engagement and experiential sports marketing strategy.</p>
+<a href="projects.html#la-galaxy">View Project →</a>
+</div>
 
+<div class="project-card">
+<h3>Tesla Strategy Analysis</h3>
+<p>Corporate strategy and management initiative evaluation.</p>
+<a href="projects.html#tesla">View Project →</a>
+</div>
 
-## Professional Development
+<div class="project-card">
+<h3>Google Organizational Study</h3>
+<p>Organizational structure and strategic leadership insights.</p>
+<a href="projects.html#google">View Project →</a>
+</div>
 
-Through academic projects and independent learning, I have developed experience applying 
-marketing frameworks to real-world business contexts.
+<div class="project-card">
+<h3>Super Soaker Brand</h3>
+<p>Student-run marketing business focused on campus services.</p>
+<a href="projects.html#super-soaker">View Project →</a>
+</div>
 
-My goal is to contribute strategic thinking and analytical support within dynamic marketing teams.
+</div>
 
-
-## Marketing Impact Perspective
-
-I approach marketing strategy with an emphasis on measurable outcomes and long-term brand value.
-
-This includes evaluating how marketing initiatives influence:
-
-• Consumer engagement  
-• Brand perception  
-• Audience loyalty  
-• Market competitiveness  
-• Digital interaction effectiveness  
-
-## Selected Strategic Work
-
-::: {.grid}
-::: {.g-col-6}
-<a href="lagalaxy.html" class="card">
-<h3>LA Galaxy Campaign Strategy</h3>
-<p>Gen Z engagement and experiential sports marketing concept.</p>
-</a>
-:::
-
-::: {.g-col-6}
-<a href="tesla.html" class="card">
-<h3>Tesla Corporate Strategy</h3>
-<p>Company Analysis on Management and Strategic Initiatives.</p>
-</a>
-:::
-
-::: {.g-col-6}
-<a href="google.html" class="card">
-<h3>Google Organizational Analysis</h3>
-<p>Analyzing organizational structure and strategic initiatives.</p>
-</a>
-:::
-
-::: {.g-col-6}
-<a href="supersoakerz.html" class="card">
-<h3>Super Soaker Brand Strategy</h3>
-<p>Student ran business project focused on marketing strategy and brand development.</p>
-</a>
-:::
-:::
+---
 
 ## Career Direction
 
-I am seeking opportunities in sports marketing, brand strategy, and consumer engagement analytics to apply my strategic marketing skills within dynamic organizations that value consumer insight, brand development, and innovative campaign thinking.
+I aim to contribute strategic thinking and analytical support within sports and consumer-focused marketing teams.
 
-
-
-<div class="personal-hook">
-
-Marketing strategy is about shaping how people experience brands, connect emotionally, 
-and engage with ideas that influence behavior.
-
-</div>
+My long-term goal is to work in sports marketing where brand storytelling, fan engagement, and performance analytics intersect.
