@@ -1,108 +1,58 @@
 ---
-title: "Super Soaker Gen Z Fan Engagement & Experiential Marketing Strategy "
+title: ""
 ---
 
+## Super Soaker Student-Led Service Marketing Project
 
+![](images/Buisness%20poster%20.PNG){width="400"}
 
-## Super Soaker Student-Led Service Marketing Project  
+## Real Service Execution
 
-![](Buisness poster .PNG)
+This project involved live service delivery within a campus parking structure, allowing the marketing strategy to operate through visibility, peer observation, and real-time engagement.
 
-## Service Execution Proof  
+### Before Service
 
-The project involved real-time service delivery within a campus parking structure, allowing direct observation of consumer response and peer-driven visibility.
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/312hi1Za1IE" frameborder="0" allowfullscreen>
 
-### Before Service  
+</iframe>
 
-<video src="before.MOV" controls width="100%"></video>
+### After Service
 
-### After Service  
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/wJenaJfogVE" frameborder="0" allowfullscreen>
 
-<video src="after.MOV" controls width="100%"></video>
+</iframe>
 
-### Project Context  
+------------------------------------------------------------------------
 
-Super Soaker was developed as part of an introductory marketing course in which students created and promoted a small service-based business.  
+## Core Insight
 
-The venture focused on washing car windows for fellow students on campus, providing practical experience in localized marketing, service promotion, and consumer engagement within a defined community environment.
+College students respond strongly to convenience-driven services that reduce small lifestyle friction, particularly when promoted through visible peer interaction.
 
----
+------------------------------------------------------------------------
 
-## Core Insight  
+## Marketing Strategy
 
-College students respond strongly to convenience-based services that reduce small but recurring lifestyle friction, particularly when promoted through peer visibility and campus presence.
+The campaign relied on grassroots visibility-based promotion where the service itself functioned as a live marketing activation within high-traffic campus environments.
 
----
+Key strategic elements included:
 
-## Brand Concept  
+-   Parking structure service visibility\
+-   Peer observation and word-of-mouth influence\
+-   Simple flyer-based awareness tactics\
+-   Real-time service demonstration marketing
 
-**Super Soaker** was positioned as a simple, affordable, student-operated service designed to provide quick car window cleaning solutions while building trust through peer-to-peer interaction.
+------------------------------------------------------------------------
 
----
+## Target Persona
 
-## Marketing Objectives  
+**Mia, 20**\
+Busy full-time student seeking quick lifestyle solutions. Influenced by peer behavior and convenience-focused services.
 
-- Generate awareness of the service among students  
-- Communicate convenience and affordability  
-- Encourage peer-driven promotion  
-- Test localized grassroots marketing tactics  
+------------------------------------------------------------------------
 
----
+## Strategic Insights
 
-## Activation Strategy  
-
-**Grassroots Campus Promotion**  
-Direct outreach in parking lots and student housing areas to increase visibility.
-
-**Flyer-Based Awareness**  
-Simple promotional materials designed for high-traffic campus locations.
-
-**Peer Interaction Marketing**  
-Leveraging social proof through visible service execution.
-
-**Service Demonstration Effect**  
-Using real-time service delivery as a marketing tool.
-
----
-
-## Target Persona  
-
-**Name:** Mia, 20  
-**Profile:** Full-time college student with busy schedule  
-**Motivation:** Convenience and time efficiency  
-**Behavior:** Influenced by peer recommendations and visible services  
-**Opportunity:** Position service as quick lifestyle solution
-
----
-
-## Campaign Moodboard  
-
-The visual direction reflects a practical, student-run service startup focused on real execution rather than aspirational branding.
-
-Visual themes explored:
-
-- Campus parking environments  
-- Service-based before-and-after transformation cues  
-- Simple grassroots promotional aesthetics  
-- Peer interaction moments  
-- Low-budget startup marketing visuals  
-
-This moodboard supports positioning the service as functional, accessible, and community-driven.
-
----
-
-## Learning Outcomes  
-
-- Applied localized marketing strategy in real-world setting  
-- Developed understanding of consumer response to service promotion  
-- Gained experience in grassroots marketing execution  
-- Observed impact of peer-driven awareness within niche audience  
-
----
-
-## Strategic Takeaway  
-
-Small-scale service ventures demonstrate how visibility, convenience messaging, and localized promotion can effectively drive awareness within constrained market environments.
+This project demonstrated how localized service marketing can generate awareness through physical visibility, social proof, and community-based promotion within constrained market environments.
 
 ## Next Project
 

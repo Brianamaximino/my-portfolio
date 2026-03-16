@@ -1,95 +1,50 @@
 ---
-title: "Briana Maximino | Marketing Strategy Portfolio"
-echo: false
+title: ""
 ---
 
-<div class="hero">
-
+::: {.hero}
 # Briana Maximino  
-### Marketing Strategy | Sports Marketing | Brand Engagement  
+### Marketing Strategy | Sports Marketing | Brand Experience  
 
-I explore how brands build emotional relevance through strategy, culture, and audience experience.  
-My work focuses on sports, innovation-driven brands, and experiential marketing concepts.
+I explore how brands build cultural relevance through strategy, experience design, and audience behavior insights.
 
-<div class="hero-buttons">
-<a href="projects.html" class="btn-primary">View Marketing Projects</a>
-<a href="resume.html" class="btn-secondary">View Resume</a>
-</div>
+<a href="projects.html" class="btn-primary">View Projects</a>
+:::
 
-</div>
+## About  
+
+I am a marketing student focused on understanding how organizations create meaningful audience engagement through strategic thinking and experiential marketing concepts.  
+
+My interests include sports marketing, brand positioning, and consumer behavior analysis.
 
 ---
 
-## Marketing Focus  
+## Focus Areas  
 
-My portfolio explores how organizations build meaningful relationships with audiences through strategy, consumer insight, and experience-driven marketing initiatives.
-
-Primary areas of interest:
-
-- Sports Marketing  
-- Brand Strategy  
-- Consumer Behavior  
+- Sports Marketing Strategy  
+- Brand Experience & Engagement  
+- Consumer Behavior Insights  
 - Campaign Development  
-- Digital Engagement  
+- Experiential Marketing  
 
 ---
 
-## Core Skills  
+## Skills  
 
 - Marketing Strategy  
-- Consumer Insights  
+- Market Research  
 - Campaign Planning  
 - Brand Positioning  
-- Market Research  
-- Social Media Strategy  
 - Google Analytics (GA4)  
-- Excel Data Analysis  
+- Excel & Data Analysis  
+- Social Media Strategy  
 
-## Analytics & Measurement Approach  
-
-My marketing work emphasizes data-informed decision making, audience insight development, and performance evaluation using analytical frameworks.
-
-Key focus areas include:
-
-- Measuring engagement trends across digital platforms  
-- Evaluating campaign performance indicators  
-- Understanding audience behavior patterns  
-- Applying data insights to improve marketing strategy outcomes  
-
-### Sample Engagement Analysis  
-
-| Metric | Insight |
-|--------|--------|
-| Social Media Engagement | High responsiveness to experiential content |
-| Audience Retention | Stronger with community-driven campaigns |
-| Brand Interaction | Increased with interactive digital formats |
-| Campaign Reach | Improved through influencer collaboration |
 ---
-
-### Engagement Trend Example  
-
-```{r}
-library(ggplot2)
-
-engagement_data <- data.frame(
-  Campaign_Phase = c("Pre Campaign", "Launch", "Mid Campaign", "Post Campaign"),
-  Engagement_Score = c(45, 65, 78, 72)
-)
-
-ggplot(engagement_data, aes(x = Campaign_Phase, y = Engagement_Score, group = 1)) +
-  geom_line() +
-  geom_point() +
-  labs(
-    title = "Projected Audience Engagement Trend",
-    x = "Campaign Phase",
-    y = "Engagement Index"
-  )
-```
 
 ## Portfolio Overview  
 
-This portfolio reflects an evolving exploration of marketing strategy, brand experience, and audience engagement in contemporary digital environments.
+This portfolio presents marketing strategy projects exploring brand engagement, experiential campaigns, and organizational positioning within contemporary digital environments.
 
 ---
 
-*This portfolio reflects ongoing academic and professional development in marketing strategy and consumer engagement.*
+*This portfolio reflects ongoing development in marketing strategy, creative thinking, and real-world application.*
