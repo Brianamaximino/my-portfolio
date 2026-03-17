@@ -1,88 +1,113 @@
 ---
 title: "Resume"
+page-layout: full
 ---
 
 # Briana Maximino  
-Los Angeles, CA (323)-568-7781 brianamaximino1@gmail.com  
-www.linkedin.com/in/brianamaximino  
+
+Los Angeles, CA  
+(323) 568-7781  
+brianamaximino1@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/brianamaximino)
 
 ---
 
-## EDUCATION  
+## Education  
 
-**California State Polytechnic University, Pomona — Pomona, CA**  
-Bachelor of Science, Business Administration -, Marketing — 2027  
-• GPA: 3.6 | Dean’s List (Fall 2024, Spring 2025)  
-• Dean’s List (Spring 2025)  
+**California State Polytechnic University, Pomona**  
+Bachelor of Science in Business Administration – Marketing  
+Expected Graduation: 2027  
+GPA: 3.6  
+Dean’s List: Fall 2024, Spring 2025  
 
-**John C. Fremont STEAM Magnet High School — Los Angeles, CA**  
-High School Diploma — 2023  
-• Honors Graduate (3.9 GPA) | Jaime Escalante Math Program  
-
----
-
-## WORK EXPERIENCE  
-
-**GAP Factory, Sales Associate / Customer Service — Los Angeles, CA**  
-October 2024 - Present  
-
-• Guide 40+ customers per shift by answering questions, and locating merchandise to support a positive shopping experience.  
-• Lead team members in handling high-volume traffic during peak hours, sustaining smooth store flow and cutting down wait times.  
-• Set shelves and promotional displays to merchandising standards, decreasing misplaced items by 25%.  
-• Promote sales by highlighting promotions and upselling complementary products, contributing to weekly revenue goals.  
-
-**Dollar Tree, Cashier/Stock Associate — Los Angeles, CA**  
-September 2023 - February 2024  
-
-• Reduced average wait times by 15% while upholding store service standards and customer satisfaction.  
-• Supervised daily service standards and resolved an average of customer needs per shift in a fast-paced retail environment, improved checkout flow and overall customer satisfaction.  
-• Addressed visual merchandising standards by setting up shelves and promotional displays, decreased misplaced items by 25%.  
-
-**Student2Student Program, Peer Tutor & Student Mentor — Los Angeles, CA**  
-September 2022 - July 2023  
-
-• Promoted a positive and supportive environment for student growth and development and engaged with two trustees.  
-• Enhanced daily math and reading instruction, reinforced lesson objective and fostered measurable growth in academic performance.  
-• Delivered one-on-one and small-group tutoring sessions for elementary and middle school students, tailoring lessons to diverse learning styles.  
+**John C. Fremont STEAM Magnet High School**  
+High School Diploma, 2023  
+Honors Graduate (3.9 GPA)  
+Jaime Escalante Math Program  
 
 ---
 
-## LEADERSHIP EXPERIENCE & ACTIVITIES  
+## Work Experience  
 
-**Girls Soccer Team - John C. Fremont HS, Team Member**  
-August 2019 - February 2023  
+**GAP Factory — Sales Associate / Customer Service**  
+Los Angeles, CA | Oct 2024 – Present  
 
-• Participated in 100+ practices and 40+ games over four seasons, balancing athletics with academics while demonstrating time management and discipline.  
-• Supported and motivated 20+ teammates during practices and games, contributing to a stronger sense of collaboration and team spirit.  
-• Gained leadership and communication skills by serving as an informal peer leader, helping teammates improve performance during drills and matches.  
-• Contributed to overall team success, helping secure multiple league wins and consistent playoff appearances.  
+- Assist 40+ customers per shift, improving overall shopping experience through product knowledge and service support  
+- Support store operations during peak traffic, helping maintain efficient customer flow and reduced wait times  
+- Maintain merchandising displays aligned with company standards, reducing misplaced inventory by 25%  
+- Drive sales performance by promoting offers and upselling complementary products  
 
-**Just Keep Livin (JKL) Program - John C. Fremont HS, Participant**  
-August 2019 - February 2023  
+**Dollar Tree — Cashier / Stock Associate**  
+Los Angeles, CA | Sept 2023 – Feb 2024  
 
-• Engaged in weekly wellness and leadership workshops across four years, covering goal setting, health, self-development, and decision-making.  
-• Facilitated small-group discussions and fitness activities for 10–15 peers, creating a safe and supportive environment for personal growth.  
-• Developed resilience and self-awareness by completing multiple community service and reflection projects, building confidence and leadership potential.  
+- Reduced average checkout wait time by 15% through efficient transaction handling  
+- Supported daily store operations in a fast-paced retail environment  
+- Maintained visual merchandising standards and inventory organization  
+
+**Student2Student Program — Peer Tutor & Mentor**  
+Los Angeles, CA | Sept 2022 – Jul 2023  
+
+- Delivered individualized tutoring sessions in math and reading for elementary and middle school students  
+- Created supportive learning environments that improved student academic performance  
+- Facilitated small group instruction tailored to different learning styles  
+
+---
+
+## Leadership & Activities  
+
+**Girls Soccer Team — Team Member**  
+John C. Fremont HS | 2019 – 2023  
+
+- Participated in 100+ practices and 40+ games across four seasons  
+- Supported team collaboration and communication during competitions  
+- Demonstrated strong time management balancing academics and athletics  
+
+**Just Keep Livin Program (JKL)**  
+Participant | 2019 – 2023  
+
+- Attended weekly leadership and wellness workshops  
+- Facilitated peer discussions and group activities  
+- Completed community service and self-development projects  
 
 ---
 
-## SKILLS & INTERESTS  
+## Skills  
 
-Computer: Microsoft , Google Docs /Slide  
-Languages: English (Fluent) , Spanish (Intermediate)  
-Skills: Customer service, Communication skills, Time management , Team collaboration  
+Marketing Analytics  
+Market Research  
+Content Marketing  
+Social Media Strategy  
+Google Analytics 4  
+Excel (Pivot Tables)  
+Power BI (Beginner)  
+Bilingual: English & Spanish  
+
+---
+
+## Certifications  
+
+Google Analytics 4 Certification — Google Digital Academy  
+Feb 2026 – Feb 2027  
+
+Power BI Essential Training — LinkedIn Learning  
+Feb 2026  
+
+Excel PivotTables in Depth — LinkedIn Learning  
+Jan 2026  
+
+Project Management Foundations — LinkedIn Learning  
+Feb 2025  
 
 ---
 
-## LICENSES & CERTIFICATIONS  
+## Relevant Coursework  
 
-• Google Analytics 4 (GA4) Certification – Google Digital Academy (Skillshop), Feb 2026 – Feb 2027  
-• Power BI Essential Training – LinkedIn Learning, Feb 2026  
-• Excel: PivotTables in Depth – LinkedIn Learning, Jan 2026  
-• Project Management Foundations – LinkedIn Learning, Feb 2025  
-
----
+Marketing Research  
+Marketing Analytics  
+Consumer Behavior  
+Digital Marketing  
+Business Statistics  
 
 ## Download Resume  
 
-<a href="files/resume 3.pdf" class="btn btn-primary">Download PDF Resume</a>
+<a href="images/Final Resume.pdf" class="btn btn-primary">Download PDF Resume</a>
