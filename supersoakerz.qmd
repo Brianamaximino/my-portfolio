@@ -1,5 +1,6 @@
 ---
 title: "Student-Led Service Marketing Business: Super Soakerz"
+echo: false
 ---
 
 ## Super Soakerz Marketing Campaign
@@ -23,6 +24,62 @@ Our team promoted the service through on campus signage, hand held posters, peer
 
 #### Analytics and Results
 The campaign served 18 customers total, with 9 Basic Package sales and 9 Premium Package sales. The Basic Package was priced at $2 and the Premium Package was priced at $5. In total, the project generated $63 in revenue and $49.50 in profit.
+
+```{r}
+library(ggplot2)
+
+package_data <- data.frame(
+  Package = c("Basic", "Premium"),
+  Sales = c(9, 9),
+  Revenue = c(18, 45)
+)
+
+ggplot(package_data, aes(x = Package, y = Revenue)) +
+  geom_col() +
+  labs(
+    title = "Revenue by Package",
+    x = "Package Type",
+    y = "Revenue ($)"
+  )
+```
+
+```{r}
+ggplot(package_data, aes(x = Package, y = Sales)) +
+  geom_col() +
+  labs(
+    title = "Customer Distribution",
+    x = "Package Type",
+    y = "Number of Customers"
+  )
+```
+
+```{r}
+performance <- data.frame(
+  Metric = c("Revenue", "Profit"),
+  Value = c(63, 49.5)
+)
+
+ggplot(performance, aes(x = Metric, y = Value)) +
+  geom_col() +
+  labs(
+    title = "Overall Financial Performance",
+    x = "",
+    y = "Amount ($)"
+  )
+```
+
+```{r}
+library(leaflet)
+
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(
+    lng = -117.819,
+    lat = 34.056,
+    popup = "Cal Poly Pomona Activation Location"
+  )
+```
+
 
 #### Key Insights
 This project showed that convenience, affordability, and clear branding were the strongest factors driving interest. Students also responded positively to the eco friendly aspect of the service. The balanced sales split between both packages suggested that customers saw value in both price options. Social media and in person promotion worked best when combined.
