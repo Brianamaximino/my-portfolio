@@ -80,9 +80,51 @@ leaflet() %>%
   )
 ```
 
+```{r}
+```{r}
+library(tidyverse)
 
-#### Key Insights
+funnel <- data.frame(
+  stage = c("Awareness", "Interest", "Sign Ups", "Bookings", "Repeat Customers"),
+  value = c(1200, 700, 320, 150, 60)
+)
+
+ggplot(funnel, aes(x = stage, y = value, fill = stage)) +
+  geom_bar(stat = "identity") +
+  theme_minimal() +
+  labs(
+    title = "Super Soakerz Marketing Funnel",
+    x = "Customer Journey Stage",
+    y = "Number of Customers"
+  )
+```
+
+```{r}
+library(leaflet)
+
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(
+    lng = -117.819,
+    lat = 34.056,
+    popup = "Cal Poly Pomona Activation Location"
+  )
+```
+
+
+#### Key Performance Indicators
 This project showed that convenience, affordability, and clear branding were the strongest factors driving interest. Students also responded positively to the eco friendly aspect of the service. The balanced sales split between both packages suggested that customers saw value in both price options. Social media and in person promotion worked best when combined.
+
+```{r}
+library(gt)
+
+kpi <- data.frame(
+  Metric = c("Total Leads", "Bookings", "Conversion Rate", "Revenue Generated", "Repeat Customers"),
+  Value = c("1200", "150", "12.5%", "$4,500", "60")
+)
+
+gt(kpi)
+```
 
 #### Reflection
 Super Soakerz helped me strengthen my skills in campaign planning, customer engagement, brand positioning, and marketing analysis. It gave me hands on experience with real promotion, real customer response, and real business results. This project also showed me how marketing strategy, live activation, and analytics can work together, which is why it connects strongly to my interest in sports marketing, partnerships, and fan engagement.
