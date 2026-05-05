@@ -43,5 +43,26 @@
   },
   "Dashboard.qmd": {
     "Dashboard.html": "548edfc3"
+  },
+  "my-portfolio/resume.qmd": {
+    "resume.html": "3ccd15ab"
+  },
+  "my-portfolio/supersoakerz.qmd": {
+    "supersoakerz.html": "2aa24bde"
+  },
+  "my-portfolio/tesla.qmd": {
+    "tesla.html": "689af1a1"
+  },
+  "my-portfolio/projects.qmd": {
+    "projects.html": "5b137f06"
+  },
+  "my-portfolio/index.qmd": {
+    "index.html": "698f2680"
+  },
+  "my-portfolio/google.qmd": {
+    "google.html": "8f36883f"
+  },
+  "my-portfolio/lagalaxy.qmd": {
+    "lagalaxy.html": "db4f6d86"
   }
 }

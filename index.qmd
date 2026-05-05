@@ -1,50 +1,79 @@
 ---
-title: ""
+title: "Briana Maximino | Marketing Portfolio"
+description: "Marketing portfolio showcasing brand strategy, campaign projects, dashboards, analytics, and presentations."
 ---
 
 ::: {.hero}
-# Briana Maximino  
-### Marketing Strategy | Sports Marketing | Brand Experience  
+# Briana Maximino
 
-I explore how brands build cultural relevance through strategy, experience design, and audience behavior insights.
+### Marketing Strategy • Sports Marketing • Brand Engagement
 
-<a href="projects.html" class="btn-primary">View Projects</a>
+I’m a Business Administration student with a concentration in Marketing at Cal Poly Pomona. My portfolio highlights my work in brand strategy, campaign planning, consumer insights, and data-driven marketing projects.
+
+My goal is to grow in marketing strategy, especially in sports marketing, brand engagement, and digital campaign development.
+
+[View My Projects](projects.qmd){.btn .btn-primary} [View My Resume](resume.qmd){.btn .btn-outline-primary}
 :::
 
-## About  
+<div class="section-label">Portfolio Focus</div>
 
-I am a marketing student focused on understanding how organizations create meaningful audience engagement through strategic thinking and experiential marketing concepts.  
+## Turning Marketing Ideas Into Strategy
 
-My interests include sports marketing, brand positioning, and consumer behavior analysis.
+My work combines creative thinking with data, visuals, and clear communication. I use this portfolio to show how I plan campaigns, explain marketing ideas, organize insights, and present projects in a professional way.
 
----
+::: {.highlight-box}
+This website is built for professors, employers, and professional connections who want to see my marketing skills, technical growth, and project experience.
+:::
 
-## Focus Areas  
+## Featured Work
 
-- Sports Marketing Strategy  
-- Brand Experience & Engagement  
-- Consumer Behavior Insights  
-- Campaign Development  
-- Experiential Marketing  
+<div class="card-grid">
 
----
+<div class="portfolio-card">
+<h3>Marketing Projects</h3>
+<p>Campaigns and case studies focused on branding, audience engagement, service marketing, and strategy.</p>
+<a href="projects.html">View Projects →</a>
+</div>
 
-## Skills  
+<div class="portfolio-card">
+<h3>Dashboard</h3>
+<p>A marketing dashboard showing how data can be organized into clear visuals and useful business insights.</p>
+<a href="Dashboard.html">View Dashboard →</a>
+</div>
 
-- Marketing Strategy  
-- Market Research  
-- Campaign Planning  
-- Brand Positioning  
-- Google Analytics (GA4)  
-- Excel & Data Analysis  
-- Social Media Strategy  
+<div class="portfolio-card">
+<h3>Revealjs Presentation</h3>
+<p>A web-based presentation created with Quarto Revealjs to show technical and communication skills.</p>
+<a href="Revealjs Presentation.html">View Presentation →</a>
+</div>
 
----
+<div class="portfolio-card">
+<h3>Google Analytics</h3>
+<p>A page showing my understanding of digital analytics, website traffic, engagement, and performance tracking.</p>
+<a href="analytics.html">View Analytics →</a>
+</div>
 
-## Portfolio Overview  
+</div>
 
-This portfolio presents marketing strategy projects exploring brand engagement, experiential campaigns, and organizational positioning within contemporary digital environments.
+## Skills
 
----
+<div class="tag-list">
+<span class="tag">Marketing Strategy</span>
+<span class="tag">Brand Positioning</span>
+<span class="tag">Campaign Planning</span>
+<span class="tag">Consumer Insights</span>
+<span class="tag">Sports Marketing</span>
+<span class="tag">Social Media Strategy</span>
+<span class="tag">R</span>
+<span class="tag">Quarto</span>
+<span class="tag">ggplot2</span>
+<span class="tag">Excel</span>
+<span class="tag">Google Analytics</span>
+<span class="tag">GitHub Pages</span>
+</div>
 
-*This portfolio reflects ongoing development in marketing strategy, creative thinking, and real-world application.*
+## About Me
+
+I am interested in how brands connect with people through storytelling, data, and real experiences. My academic projects have helped me practice campaign planning, marketing research, data visualization, and professional presentation design.
+
+Through this portfolio, I want to show both sides of my marketing work: the creative side and the analytical side.

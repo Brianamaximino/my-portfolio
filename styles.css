@@ -1,66 +1,233 @@
-/* GLOBAL */
+/* =========================
+   Briana Maximino Portfolio
+   Professional Styling
+   ========================= */
+
+/* Main colors */
+:root {
+  --navy: #0b132b;
+  --blue: #1f4e79;
+  --light-blue: #eaf2ff;
+  --gray: #f6f8fb;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --white: #ffffff;
+  --border: #e5e7eb;
+}
+
+/* Overall page */
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  background: #f8fafc;
-  color: #0f172a;
-  line-height: 1.6;
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  color: var(--text);
+  background-color: #ffffff;
+  line-height: 1.7;
 }
 
-/* NAV */
+/* Navbar */
 .navbar {
-  background: white;
-  border-bottom: 1px solid #e2e8f0;
+  background-color: var(--white) !important;
+  border-bottom: 1px solid var(--border);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
 }
 
-/* HERO */
+.navbar-title {
+  font-weight: 800;
+  color: var(--navy) !important;
+  letter-spacing: 0.2px;
+}
+
+.navbar-nav .nav-link {
+  color: var(--text) !important;
+  font-weight: 600;
+  margin-left: 0.6rem;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--blue) !important;
+}
+
+/* Page width */
+.quarto-container {
+  max-width: 1200px;
+}
+
+/* Hero section */
 .hero {
-  background: linear-gradient(135deg, #0f172a, #1e3a8a);
-  padding: 80px 20px;
-  border-radius: 16px;
-  margin-bottom: 60px;
-  text-align: center;
+  background: linear-gradient(135deg, #0b132b 0%, #1f4e79 100%);
+  color: white;
+  padding: 4rem 3rem;
+  border-radius: 24px;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  box-shadow: 0 16px 40px rgba(11, 19, 43, 0.18);
 }
 
-.hero img {
-  border-radius: 12px;
-  max-width: 700px;
+.hero h1 {
+  color: white;
+  font-size: 3rem;
+  font-weight: 850;
+  margin-bottom: 0.5rem;
 }
 
-/* HEADINGS */
-h1, h2, h3 {
+.hero h3 {
+  color: #dbeafe;
+  font-weight: 500;
+  margin-bottom: 1.5rem;
+}
+
+.hero p {
+  color: #f8fafc;
+  font-size: 1.08rem;
+  max-width: 780px;
+}
+
+/* Buttons */
+.btn {
+  border-radius: 999px;
+  padding: 0.75rem 1.25rem;
   font-weight: 700;
+  text-decoration: none;
+  margin-right: 0.5rem;
+}
+
+.btn-primary {
+  background-color: white;
+  border-color: white;
+  color: var(--navy);
+}
+
+.btn-primary:hover {
+  background-color: #eaf2ff;
+  border-color: #eaf2ff;
+  color: var(--navy);
+}
+
+.btn-outline-primary {
+  border-color: white;
+  color: white;
+}
+
+.btn-outline-primary:hover {
+  background-color: white;
+  color: var(--navy);
+}
+
+/* Headings */
+h1 {
+  color: var(--navy);
+  font-weight: 850;
 }
 
 h2 {
-  font-size: 32px;
-  margin-top: 60px;
+  color: var(--navy);
+  font-weight: 800;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  border-bottom: none;
 }
 
 h3 {
-  font-size: 20px;
-  margin-top: 30px;
+  color: var(--blue);
+  font-weight: 750;
 }
 
-/* SECTIONS */
-section {
-  margin-bottom: 70px;
+/* Section label */
+.section-label {
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--blue);
+  font-size: 0.8rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
 }
 
-/* PARAGRAPHS */
-p {
-  max-width: 760px;
+/* Cards */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.5rem;
 }
 
-/* DIVIDERS */
-hr {
-  border: none;
-  border-top: 1px solid #e2e8f0;
-  margin: 60px 0;
+.portfolio-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 1.5rem;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* LINKS */
+.portfolio-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 34px rgba(15, 23, 42, 0.11);
+}
+
+.portfolio-card h3 {
+  margin-top: 0;
+  color: var(--navy);
+}
+
+.portfolio-card p {
+  color: var(--muted);
+}
+
+/* Skill tags */
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 1rem;
+}
+
+.tag {
+  background-color: var(--light-blue);
+  color: var(--blue);
+  padding: 0.45rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+/* Content callout blocks */
+.highlight-box {
+  background-color: var(--gray);
+  border: 1px solid var(--border);
+  border-left: 5px solid var(--blue);
+  padding: 1.4rem;
+  border-radius: 16px;
+  margin: 1.5rem 0;
+}
+
+/* Tables */
+table {
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+
+th {
+  background-color: var(--navy);
+  color: white;
+  font-weight: 700;
+}
+
+td, th {
+  padding: 0.85rem;
+}
+
+/* Images */
+img {
+  border-radius: 16px;
+  box-shadow: 0 8px 22px rgba(15, 23, 42, 0.08);
+}
+
+/* Links */
 a {
-  color: #2563eb;
+  color: var(--blue);
+  font-weight: 700;
   text-decoration: none;
 }
 
@@ -68,18 +235,20 @@ a:hover {
   text-decoration: underline;
 }
 
-/* VIDEO */
+/* Iframes */
 iframe {
-  border-radius: 12px;
-  margin-bottom: 40px;
+  border-radius: 18px;
+  box-shadow: 0 10px 26px rgba(15, 23, 42, 0.1);
+  margin-top: 0.5rem;
 }
 
-/* POSTER IMAGE */
-img {
-  border-radius: 12px;
-}
+/* Mobile */
+@media (max-width: 768px) {
+  .hero {
+    padding: 2.5rem 1.5rem;
+  }
 
-/* PROJECT PAGES */
-.quarto-title-banner {
-  display: none;
+  .hero h1 {
+    font-size: 2.2rem;
+  }
 }
