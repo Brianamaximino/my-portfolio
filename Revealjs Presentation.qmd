@@ -1,0 +1,53 @@
+---
+title: "Revealjs Presentation"
+description: "Quarto Revealjs presentation showcasing technical and communication skills."
+---
+
+# Revealjs Presentation
+
+This page showcases my technical ability to create professional presentations using Quarto Revealjs.
+
+Revealjs presentations are useful because they allow users to combine writing, visuals, code, and design into one polished presentation.
+
+---
+
+## Presentation Overview
+
+For this portfolio, the Revealjs presentation demonstrates my ability to:
+
+- Organize information clearly  
+- Present marketing ideas professionally  
+- Use Quarto as a technical publishing tool  
+- Combine design and communication skills  
+- Build a web-based presentation  
+
+---
+
+## Why This Matters
+
+In marketing, communication is just as important as strategy. A strong presentation helps explain ideas, support recommendations, and make information easier for an audience to understand.
+
+---
+
+## Technical Skills Shown
+
+- Quarto  
+- Revealjs  
+- Markdown  
+- GitHub Pages  
+- Website publishing  
+- Professional slide design  
+
+---
+
+## Presentation Link
+
+Add your presentation link here:
+
+[View My Revealjs Presentation](#)
+
+---
+
+## Reflection
+
+This presentation shows my ability to use a professional publishing tool while also communicating marketing ideas in a clear and organized way.

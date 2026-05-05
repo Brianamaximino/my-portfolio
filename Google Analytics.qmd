@@ -1,0 +1,50 @@
+---
+title: "Google Analytics"
+description: "Google Analytics page showing digital marketing and analytics knowledge."
+---
+
+# Google Analytics
+
+This page highlights my understanding of Google Analytics and how it connects to digital marketing strategy.
+
+Google Analytics helps marketers understand how users find, visit, and interact with websites. It can be used to measure traffic, engagement, conversions, and audience behavior.
+
+---
+
+## Why Google Analytics Matters
+
+Google Analytics is important because it helps marketers make decisions based on data instead of guessing. It can show which pages are getting attention, where visitors are coming from, and what content is helping reach marketing goals.
+
+---
+
+## Skills Demonstrated
+
+- Understanding website traffic  
+- Measuring user engagement  
+- Identifying audience behavior  
+- Evaluating campaign performance  
+- Connecting data to marketing strategy  
+
+---
+
+## Key Analytics Terms
+
+| Term | Meaning |
+|---|---|
+| Users | People who visit the website |
+| Sessions | Visits to the website |
+| Engagement Rate | How often users interact with the site |
+| Traffic Source | Where visitors came from |
+| Conversions | Important actions users complete |
+
+---
+
+## Portfolio Connection
+
+For my portfolio, Google Analytics connects to the goal of understanding how visitors interact with my website. This can help me improve the site, strengthen my personal brand, and make the portfolio more useful for future employers.
+
+---
+
+## Reflection
+
+Learning Google Analytics helps me connect marketing strategy with measurable results. It also shows that I can think beyond creative ideas and understand how performance is tracked.

@@ -1,0 +1,50 @@
+---
+title: "Dashboard"
+description: "Marketing dashboard project showing data visualization and analytics skills."
+---
+
+# Marketing Dashboard
+
+This dashboard shows my ability to organize data, create visual summaries, and communicate insights in a clear way.
+
+The goal of this page is to demonstrate how marketing data can be used to understand audience behavior, engagement, and performance trends.
+
+---
+
+## Dashboard Purpose
+
+A dashboard helps marketers quickly understand what is working and what needs improvement. For this project, I focused on simple performance indicators that could be useful in a campaign or digital marketing setting.
+
+---
+
+## Key Metrics
+
+| Metric | What It Shows |
+|---|---|
+| Engagement | How much the audience interacts with content |
+| Reach | How many people saw the campaign or post |
+| Audience Interest | What type of content performs best |
+| Performance Trend | Whether results improved or decreased over time |
+
+---
+
+## Sample Dashboard Insight
+
+Based on the sample analysis, content that feels more personal, visual, and community-focused tends to create stronger engagement. This matters because marketing is not just about posting content, but about understanding what the audience responds to.
+
+---
+
+## Tools Used
+
+- Quarto  
+- R  
+- ggplot2  
+- Excel  
+- Data Visualization  
+- Marketing Analytics  
+
+---
+
+## Reflection
+
+This dashboard helped me practice turning information into visuals and short insights. It also helped me understand how marketers can use data to make better campaign decisions.

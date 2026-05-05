@@ -72,9 +72,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Briana Maximino | Marketing Strategy Portfolio",
+    "title": "Briana Maximino",
     "section": "",
-    "text": "I explore how brands build emotional relevance through strategy, culture, and audience experience.\nMy work focuses on sports, innovation-driven brands, and experiential marketing concepts.\n\nView Marketing Projects View Resume"
+    "text": "I explore how brands build cultural relevance through strategy, experience design, and audience behavior insights.\nView Projects"
   },
   {
     "objectID": "index.html#strategic-focus",
@@ -86,9 +86,9 @@
   {
     "objectID": "index.html#portfolio-overview",
     "href": "index.html#portfolio-overview",
-    "title": "Briana Maximino | Marketing Strategy Portfolio",
+    "title": "Briana Maximino",
     "section": "Portfolio Overview",
-    "text": "Portfolio Overview\nThis portfolio reflects an evolving exploration of marketing strategy, brand experience, and audience engagement in contemporary digital environments.\n\nThis portfolio reflects ongoing academic and professional development in marketing strategy and consumer engagement."
+    "text": "Portfolio Overview\nThis portfolio presents marketing strategy projects exploring brand engagement, experiential campaigns, and organizational positioning within contemporary digital environments.\n\nThis portfolio reflects ongoing development in marketing strategy, creative thinking, and real-world application."
   },
   {
     "objectID": "index.html#professional-development",
@@ -240,9 +240,9 @@
   {
     "objectID": "supersoakerz.html",
     "href": "supersoakerz.html",
-    "title": "Student-Led Service Marketing Business: Super Soakerz",
+    "title": "Super Soakerz Marketing Campaign",
     "section": "",
-    "text": "NoteStudent Led Business Project\n\n\n\nA student run marketing project focused on brand building, customer engagement, and real campaign results at Cal Poly Pomona.\n\n\n\n\nSuper Soakerz was a student led car window washing business created as part of an introductory marketing course at Cal Poly Pomona. The goal was to build a brand from scratch, attract customers, and test real marketing strategies in a real campus setting. Our team focused on creating a fun, affordable, and convenient service for students.\n\n\n\nWe targeted Cal Poly Pomona commuter students, especially those ages 18 to 25 who wanted a quick and low cost service. We positioned Super Soakerz as a student run, eco friendly, and easy option for car window cleaning. Our campaign focused on affordability, convenience, and visibility.\n\n\n\nThis project also connects to sports and event marketing because it used live, in person promotion and customer interaction. If expanded into a sports setting, the concept could work as a parking lot or fan zone activation where people interact with a brand before entering an event. This showed how service marketing can connect with fan engagement and experiential marketing.\n\n\n\nOur team promoted the service through on campus signage, hand held posters, peer to peer outreach, and Instagram content. We used bright visuals and simple messaging to make the service easy to understand. The goal was to create awareness quickly and encourage students to try the service while already on campus.\n\n\n\nThe campaign served 18 customers total, with 9 Basic Package sales and 9 Premium Package sales. The Basic Package was priced at $2 and the Premium Package was priced at $5. In total, the project generated $63 in revenue and $49.50 in profit.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ lubridate 1.9.4     ✔ tibble    3.3.1\n✔ purrr     1.2.1     ✔ tidyr     1.3.2\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis project showed that convenience, affordability, and clear branding were the strongest factors driving interest. Students also responded positively to the eco friendly aspect of the service. The balanced sales split between both packages suggested that customers saw value in both price options. Social media and in person promotion worked best when combined.\n\n\n\n\n\n\n\n\nMetric\nValue\n\n\n\n\nTotal Leads\n1200\n\n\nBookings\n150\n\n\nConversion Rate\n12.5%\n\n\nRevenue Generated\n$4,500\n\n\nRepeat Customers\n60\n\n\n\n\n\n\n\n\n\n\nSuper Soakerz helped me strengthen my skills in campaign planning, customer engagement, brand positioning, and marketing analysis. It gave me hands on experience with real promotion, real customer response, and real business results. This project also showed me how marketing strategy, live activation, and analytics can work together, which is why it connects strongly to my interest in sports marketing, partnerships, and fan engagement."
+    "text": "Super Soakerz was a student-led car window washing business created as part of a marketing course at Cal Poly Pomona. The goal of the project was to build a service brand from scratch, promote it on campus, and evaluate real customer response.\nThe campaign focused on convenience, affordability, and visibility within a student commuter environment."
   },
   {
     "objectID": "supersoakerz.html#business-context",
@@ -289,7 +289,7 @@
   {
     "objectID": "supersoakerz.html#next-project",
     "href": "supersoakerz.html#next-project",
-    "title": "Student-Led Service Marketing Business: Super Soakerz",
+    "title": "Super Soakerz Marketing Campaign",
     "section": "Next Project",
     "text": "Next Project\nBack to Portfolio"
   },
@@ -492,7 +492,7 @@
   {
     "objectID": "supersoakerz.html#super-soaker-student-led-service-marketing-project",
     "href": "supersoakerz.html#super-soaker-student-led-service-marketing-project",
-    "title": "Student-Led Service Marketing Business: Super Soakerz",
+    "title": "Super Soakerz Marketing Campaign",
     "section": "Super Soaker Student-Led Service Marketing Project",
     "text": "Super Soaker Student-Led Service Marketing Project"
   },
@@ -555,16 +555,16 @@
   {
     "objectID": "supersoakerz.html#real-service-execution",
     "href": "supersoakerz.html#real-service-execution",
-    "title": "Student-Led Service Marketing Business: Super Soakerz",
+    "title": "Super Soakerz Marketing Campaign",
     "section": "Real Service Execution",
     "text": "Real Service Execution\nThis project involved live service delivery within a campus parking structure, allowing the marketing strategy to operate through visibility, peer observation, and real-time engagement.\n\nBefore Service\n\n\n\n\nAfter Service"
   },
   {
     "objectID": "supersoakerz.html#marketing-strategy",
     "href": "supersoakerz.html#marketing-strategy",
-    "title": "Student-Led Service Marketing Business: Super Soakerz",
+    "title": "Super Soakerz Marketing Campaign",
     "section": "Marketing Strategy",
-    "text": "Marketing Strategy\nThe campaign relied on grassroots visibility-based promotion where the service itself functioned as a live marketing activation within high-traffic campus environments.\nKey strategic elements included:\n\nParking structure service visibility\n\nPeer observation and word-of-mouth influence\n\nSimple flyer-based awareness tactics\n\nReal-time service demonstration marketing"
+    "text": "Marketing Strategy\nThe primary target market included Cal Poly Pomona commuter students ages 18 to 25 who needed a quick and affordable service on campus.\nThe brand was positioned as:\n\nStudent-run\n\nAffordable\n\nEco-friendly\n\nConvenient for commuter students\n\nThe marketing approach focused on in-person promotion, visual branding, and simple messaging to build awareness and trust."
   },
   {
     "objectID": "supersoakerz.html#strategic-insights",
@@ -604,9 +604,9 @@
   {
     "objectID": "supersoakerz.html#campaign-execution",
     "href": "supersoakerz.html#campaign-execution",
-    "title": "Student-Led Service Marketing Business: Super Soakerz",
+    "title": "Super Soakerz Marketing Campaign",
     "section": "Campaign Execution",
-    "text": "Campaign Execution\nThis project involved live service execution in a campus parking structure, allowing the marketing strategy to operate through visibility, peer observation, and real-time engagement.\nUnlike traditional campaigns, Super Soakerz functioned as both a service and a marketing activation. Students became aware of the brand by directly observing the service in action.\nKey execution elements included:\n\nOn-site window cleaning demonstrations\n\nReal-time student engagement and conversations\n\nPeer-to-peer visibility influence\n\nLow-cost flyer distribution\n\nShort-form social video promotion\n\nThis execution approach aligned with experiential marketing principles, where the product itself becomes the promotional medium."
+    "text": "Campaign Execution\nThe team promoted the service through campus outreach, physical signage, and peer-to-peer communication.\nVisual branding included bright colors and easy-to-understand messaging. Promotional materials emphasized value, speed, and convenience. The campaign also used before-and-after visuals to show service quality and build credibility."
   },
   {
     "objectID": "supersoakerz.html#marketing-performance-metrics",
@@ -670,5 +670,145 @@
     "title": "Student-Led Service Marketing Business: Super Soakerz",
     "section": "",
     "text": "NoteStudent Led Business Project\n\n\n\nA student run marketing project focused on brand building, customer engagement, and real campaign results at Cal Poly Pomona.\n\n\n\n\nSuper Soakerz was a student led car window washing business created as part of an introductory marketing course at Cal Poly Pomona. The goal was to build a brand from scratch, attract customers, and test real marketing strategies in a real campus setting. Our team focused on creating a fun, affordable, and convenient service for students.\n\n\n\nWe targeted Cal Poly Pomona commuter students, especially those ages 18 to 25 who wanted a quick and low cost service. We positioned Super Soakerz as a student run, eco friendly, and easy option for car window cleaning. Our campaign focused on affordability, convenience, and visibility.\n\n\n\nThis project also connects to sports and event marketing because it used live, in person promotion and customer interaction. If expanded into a sports setting, the concept could work as a parking lot or fan zone activation where people interact with a brand before entering an event. This showed how service marketing can connect with fan engagement and experiential marketing.\n\n\n\nOur team promoted the service through on campus signage, hand held posters, peer to peer outreach, and Instagram content. We used bright visuals and simple messaging to make the service easy to understand. The goal was to create awareness quickly and encourage students to try the service while already on campus.\n\n\n\nThe campaign served 18 customers total, with 9 Basic Package sales and 9 Premium Package sales. The Basic Package was priced at $2 and the Premium Package was priced at $5. In total, the project generated $63 in revenue and $49.50 in profit.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ lubridate 1.9.4     ✔ tibble    3.3.1\n✔ purrr     1.2.1     ✔ tidyr     1.3.2\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis project showed that convenience, affordability, and clear branding were the strongest factors driving interest. Students also responded positively to the eco friendly aspect of the service. The balanced sales split between both packages suggested that customers saw value in both price options. Social media and in person promotion worked best when combined.\n\n\n\n\n\n\n\n\nMetric\nValue\n\n\n\n\nTotal Leads\n1200\n\n\nBookings\n150\n\n\nConversion Rate\n12.5%\n\n\nRevenue Generated\n$4,500\n\n\nRepeat Customers\n60\n\n\n\n\n\n\n\n\n\n\nSuper Soakerz helped me strengthen my skills in campaign planning, customer engagement, brand positioning, and marketing analysis. It gave me hands on experience with real promotion, real customer response, and real business results. This project also showed me how marketing strategy, live activation, and analytics can work together, which is why it connects strongly to my interest in sports marketing, partnerships, and fan engagement."
+  },
+  {
+    "objectID": "supersoakerz.html#project-overview",
+    "href": "supersoakerz.html#project-overview",
+    "title": "Super Soakerz Marketing Campaign",
+    "section": "",
+    "text": "Super Soakerz was a student-led car window washing business created as part of a marketing course at Cal Poly Pomona. The goal of the project was to build a service brand from scratch, promote it on campus, and evaluate real customer response.\nThe campaign focused on convenience, affordability, and visibility within a student commuter environment."
+  },
+  {
+    "objectID": "supersoakerz.html#analytics-and-results",
+    "href": "supersoakerz.html#analytics-and-results",
+    "title": "Super Soakerz Marketing Campaign",
+    "section": "Analytics and Results",
+    "text": "Analytics and Results\n\nKey Performance Metrics\n\n\n\n\n\n\n\n\nSuper Soakerz Campaign Results\n\n\nSummary of customers, sales, revenue, and profit\n\n\nMetric\nValue\n\n\n\n\nTotal Customers Served\n18\n\n\nBasic Package Sales\n9\n\n\nPremium Package Sales\n9\n\n\nTotal Revenue\n$63\n\n\nTotal Profit\n$49.50"
+  },
+  {
+    "objectID": "Google Analytics.html",
+    "href": "Google Analytics.html",
+    "title": "Google Analytics",
+    "section": "",
+    "text": "This page highlights my understanding of Google Analytics and how it connects to digital marketing strategy.\nGoogle Analytics helps marketers understand how users find, visit, and interact with websites. It can be used to measure traffic, engagement, conversions, and audience behavior.\n\n\n\nGoogle Analytics is important because it helps marketers make decisions based on data instead of guessing. It can show which pages are getting attention, where visitors are coming from, and what content is helping reach marketing goals.\n\n\n\n\n\nUnderstanding website traffic\n\nMeasuring user engagement\n\nIdentifying audience behavior\n\nEvaluating campaign performance\n\nConnecting data to marketing strategy\n\n\n\n\n\n\n\n\nTerm\nMeaning\n\n\n\n\nUsers\nPeople who visit the website\n\n\nSessions\nVisits to the website\n\n\nEngagement Rate\nHow often users interact with the site\n\n\nTraffic Source\nWhere visitors came from\n\n\nConversions\nImportant actions users complete\n\n\n\n\n\n\n\nFor my portfolio, Google Analytics connects to the goal of understanding how visitors interact with my website. This can help me improve the site, strengthen my personal brand, and make the portfolio more useful for future employers.\n\n\n\n\nLearning Google Analytics helps me connect marketing strategy with measurable results. It also shows that I can think beyond creative ideas and understand how performance is tracked."
+  },
+  {
+    "objectID": "Google Analytics.html#why-google-analytics-matters",
+    "href": "Google Analytics.html#why-google-analytics-matters",
+    "title": "Google Analytics",
+    "section": "",
+    "text": "Google Analytics is important because it helps marketers make decisions based on data instead of guessing. It can show which pages are getting attention, where visitors are coming from, and what content is helping reach marketing goals."
+  },
+  {
+    "objectID": "Google Analytics.html#skills-demonstrated",
+    "href": "Google Analytics.html#skills-demonstrated",
+    "title": "Google Analytics",
+    "section": "",
+    "text": "Understanding website traffic\n\nMeasuring user engagement\n\nIdentifying audience behavior\n\nEvaluating campaign performance\n\nConnecting data to marketing strategy"
+  },
+  {
+    "objectID": "Google Analytics.html#key-analytics-terms",
+    "href": "Google Analytics.html#key-analytics-terms",
+    "title": "Google Analytics",
+    "section": "",
+    "text": "Term\nMeaning\n\n\n\n\nUsers\nPeople who visit the website\n\n\nSessions\nVisits to the website\n\n\nEngagement Rate\nHow often users interact with the site\n\n\nTraffic Source\nWhere visitors came from\n\n\nConversions\nImportant actions users complete"
+  },
+  {
+    "objectID": "Google Analytics.html#portfolio-connection",
+    "href": "Google Analytics.html#portfolio-connection",
+    "title": "Google Analytics",
+    "section": "",
+    "text": "For my portfolio, Google Analytics connects to the goal of understanding how visitors interact with my website. This can help me improve the site, strengthen my personal brand, and make the portfolio more useful for future employers."
+  },
+  {
+    "objectID": "Google Analytics.html#reflection",
+    "href": "Google Analytics.html#reflection",
+    "title": "Google Analytics",
+    "section": "",
+    "text": "Learning Google Analytics helps me connect marketing strategy with measurable results. It also shows that I can think beyond creative ideas and understand how performance is tracked."
+  },
+  {
+    "objectID": "Revealjs Presentation.html",
+    "href": "Revealjs Presentation.html",
+    "title": "Revealjs Presentation",
+    "section": "",
+    "text": "This page showcases my technical ability to create professional presentations using Quarto Revealjs.\nRevealjs presentations are useful because they allow users to combine writing, visuals, code, and design into one polished presentation.\n\n\n\nFor this portfolio, the Revealjs presentation demonstrates my ability to:\n\nOrganize information clearly\n\nPresent marketing ideas professionally\n\nUse Quarto as a technical publishing tool\n\nCombine design and communication skills\n\nBuild a web-based presentation\n\n\n\n\n\nIn marketing, communication is just as important as strategy. A strong presentation helps explain ideas, support recommendations, and make information easier for an audience to understand.\n\n\n\n\n\nQuarto\n\nRevealjs\n\nMarkdown\n\nGitHub Pages\n\nWebsite publishing\n\nProfessional slide design\n\n\n\n\n\nAdd your presentation link here:\nView My Revealjs Presentation\n\n\n\n\nThis presentation shows my ability to use a professional publishing tool while also communicating marketing ideas in a clear and organized way."
+  },
+  {
+    "objectID": "Revealjs Presentation.html#presentation-overview",
+    "href": "Revealjs Presentation.html#presentation-overview",
+    "title": "Revealjs Presentation",
+    "section": "",
+    "text": "For this portfolio, the Revealjs presentation demonstrates my ability to:\n\nOrganize information clearly\n\nPresent marketing ideas professionally\n\nUse Quarto as a technical publishing tool\n\nCombine design and communication skills\n\nBuild a web-based presentation"
+  },
+  {
+    "objectID": "Revealjs Presentation.html#why-this-matters",
+    "href": "Revealjs Presentation.html#why-this-matters",
+    "title": "Revealjs Presentation",
+    "section": "",
+    "text": "In marketing, communication is just as important as strategy. A strong presentation helps explain ideas, support recommendations, and make information easier for an audience to understand."
+  },
+  {
+    "objectID": "Revealjs Presentation.html#technical-skills-shown",
+    "href": "Revealjs Presentation.html#technical-skills-shown",
+    "title": "Revealjs Presentation",
+    "section": "",
+    "text": "Quarto\n\nRevealjs\n\nMarkdown\n\nGitHub Pages\n\nWebsite publishing\n\nProfessional slide design"
+  },
+  {
+    "objectID": "Revealjs Presentation.html#presentation-link",
+    "href": "Revealjs Presentation.html#presentation-link",
+    "title": "Revealjs Presentation",
+    "section": "",
+    "text": "Add your presentation link here:\nView My Revealjs Presentation"
+  },
+  {
+    "objectID": "Revealjs Presentation.html#reflection",
+    "href": "Revealjs Presentation.html#reflection",
+    "title": "Revealjs Presentation",
+    "section": "",
+    "text": "This presentation shows my ability to use a professional publishing tool while also communicating marketing ideas in a clear and organized way."
+  },
+  {
+    "objectID": "Dashboard.html",
+    "href": "Dashboard.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This dashboard shows my ability to organize data, create visual summaries, and communicate insights in a clear way.\nThe goal of this page is to demonstrate how marketing data can be used to understand audience behavior, engagement, and performance trends.\n\n\n\nA dashboard helps marketers quickly understand what is working and what needs improvement. For this project, I focused on simple performance indicators that could be useful in a campaign or digital marketing setting.\n\n\n\n\n\n\n\nMetric\nWhat It Shows\n\n\n\n\nEngagement\nHow much the audience interacts with content\n\n\nReach\nHow many people saw the campaign or post\n\n\nAudience Interest\nWhat type of content performs best\n\n\nPerformance Trend\nWhether results improved or decreased over time\n\n\n\n\n\n\n\nBased on the sample analysis, content that feels more personal, visual, and community-focused tends to create stronger engagement. This matters because marketing is not just about posting content, but about understanding what the audience responds to.\n\n\n\n\n\nQuarto\n\nR\n\nggplot2\n\nExcel\n\nData Visualization\n\nMarketing Analytics\n\n\n\n\n\nThis dashboard helped me practice turning information into visuals and short insights. It also helped me understand how marketers can use data to make better campaign decisions."
+  },
+  {
+    "objectID": "Dashboard.html#dashboard-purpose",
+    "href": "Dashboard.html#dashboard-purpose",
+    "title": "Dashboard",
+    "section": "",
+    "text": "A dashboard helps marketers quickly understand what is working and what needs improvement. For this project, I focused on simple performance indicators that could be useful in a campaign or digital marketing setting."
+  },
+  {
+    "objectID": "Dashboard.html#key-metrics",
+    "href": "Dashboard.html#key-metrics",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Metric\nWhat It Shows\n\n\n\n\nEngagement\nHow much the audience interacts with content\n\n\nReach\nHow many people saw the campaign or post\n\n\nAudience Interest\nWhat type of content performs best\n\n\nPerformance Trend\nWhether results improved or decreased over time"
+  },
+  {
+    "objectID": "Dashboard.html#sample-dashboard-insight",
+    "href": "Dashboard.html#sample-dashboard-insight",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Based on the sample analysis, content that feels more personal, visual, and community-focused tends to create stronger engagement. This matters because marketing is not just about posting content, but about understanding what the audience responds to."
+  },
+  {
+    "objectID": "Dashboard.html#tools-used",
+    "href": "Dashboard.html#tools-used",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Quarto\n\nR\n\nggplot2\n\nExcel\n\nData Visualization\n\nMarketing Analytics"
+  },
+  {
+    "objectID": "Dashboard.html#reflection",
+    "href": "Dashboard.html#reflection",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This dashboard helped me practice turning information into visuals and short insights. It also helped me understand how marketers can use data to make better campaign decisions."
   }
 ]
