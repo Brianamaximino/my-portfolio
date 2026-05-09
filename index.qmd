@@ -1,110 +1,109 @@
 ---
-title: "Briana Maximino | Marketing Portfolio"
-description: "Marketing portfolio showcasing brand strategy, campaign projects, dashboards, analytics, and presentations."
+title: "Home"
+format:
+  html:
+    toc: false
+    embed-resources: true
 ---
 
-::: {.hero}
+<div class="hero-section">
 
-::: {.hero-copy}
+<div class="hero-text">
 
 # Briana Maximino
 
-## Marketing Strategy • Brand Engagement • Sports Marketing
+## Marketing Portfolio
 
-I’m a Business Administration student concentrating in Marketing at Cal Poly Pomona. My portfolio showcases campaign strategy, brand positioning, marketing analytics, and digital storytelling through academic and hands-on projects.
+Business Administration student at Cal Poly Pomona with a concentration in Marketing Management. This portfolio highlights my work in marketing strategy, sports marketing, brand engagement, analytics, dashboards, and campaign presentations.
 
-[View Projects](projects.qmd){.btn .btn-primary} [View Resume](resume.qmd){.btn .btn-secondary}
+I am interested in building marketing campaigns that connect with real audiences through clear strategy, strong storytelling, and data-driven insights.
 
-:::
+<div class="hero-buttons">
+<a href="projects.html" class="button-primary">View Projects</a>
+<a href="resume.html" class="button-secondary">View Resume</a>
+</div>
 
-::: {.hero-card}
+</div>
+
+<div class="hero-card">
 
 ### Portfolio Snapshot
 
-**Focus:** Marketing strategy, sports marketing, brand engagement  
+**Focus:** Marketing Strategy, Sports Marketing, Brand Engagement  
+**Tools:** Quarto, R, Excel, Google Analytics, Canva  
+**Career Interest:** Sports Marketing, Brand Strategy, Marketing Analytics  
+**Education:** Cal Poly Pomona, Business Administration — Marketing Management  
 
-**Tools:** Quarto, R, Excel, Google Analytics, GitHub Pages  
-
-**Goal:** Build data-informed campaigns that connect brands with the right audience.
-
-:::
-
-:::
-
-<section class="section">
-
-<div class="section-kicker">Professional Focus</div>
-
-<div class="section-title">Marketing work that connects strategy, storytelling, and data.</div>
-
-<p class="section-subtitle">
-My portfolio is designed for employers, professors, and professional connections who want to see how I approach marketing projects from idea to execution. I focus on clear branding, audience understanding, campaign planning, and measurable results.
-</p>
-
-</section>
-
-<section class="feature-band">
-
-<div class="section-kicker">Featured Areas</div>
-
-<div class="section-title">What this portfolio highlights</div>
-
-<div class="card-grid">
-
-<div class="pro-card">
-<h3>Campaign Strategy</h3>
-<p>Projects that show how I plan, position, and communicate marketing ideas for a target audience.</p>
-<a href="projects.html">View Projects →</a>
 </div>
 
-<div class="pro-card">
+</div>
+
+---
+
+## About Me
+
+I am a marketing student focused on learning how brands connect with consumers through strategy, research, content, and data. My coursework and projects have helped me build experience in campaign planning, consumer insights, marketing analytics, and professional presentation design.
+
+My goal is to pursue opportunities in marketing, especially in sports marketing, brand strategy, and data-driven marketing roles. I am continuing to build my technical and creative skills through portfolio projects, analytics work, and real-world marketing experience.
+
+---
+
+## Featured Skills
+
+<div class="skills-grid">
+
+<div class="skill-card">
+<h3>Marketing Strategy</h3>
+<p>Developing campaign ideas, identifying target audiences, and creating positioning strategies for brands and projects.</p>
+</div>
+
+<div class="skill-card">
+<h3>Brand Engagement</h3>
+<p>Understanding how brands communicate with audiences through content, messaging, and customer experience.</p>
+</div>
+
+<div class="skill-card">
 <h3>Marketing Analytics</h3>
-<p>Dashboards and analytics pages that show my ability to organize data and explain insights clearly.</p>
+<p>Using data, dashboards, and visualizations to better understand performance, trends, and consumer behavior.</p>
+</div>
+
+<div class="skill-card">
+<h3>Professional Communication</h3>
+<p>Creating clear presentations, written reports, and portfolio materials for academic and professional settings.</p>
+</div>
+
+</div>
+
+---
+
+## Featured Projects
+
+<div class="project-grid">
+
+<div class="project-card">
+<h3>Super Soakerz Marketing Campaign</h3>
+<p>A student-led campus service project focused on promotion, customer engagement, pricing, and campaign execution.</p>
+<a href="supersoakerz.html">View Project →</a>
+</div>
+
+<div class="project-card">
+<h3>LA Galaxy Campaign</h3>
+<p>A sports marketing project focused on fan engagement, campaign messaging, and audience connection.</p>
+<a href="lagalaxy.html">View Project →</a>
+</div>
+
+<div class="project-card">
+<h3>Marketing Analytics Dashboard</h3>
+<p>A dashboard page showcasing data visualization, key metrics, and marketing performance insights.</p>
 <a href="dashboard.html">View Dashboard →</a>
 </div>
 
-<div class="pro-card">
-<h3>Presentation Skills</h3>
-<p>A Revealjs presentation showing my ability to create polished, web-based professional presentations.</p>
-<a href="presentation.html">View Presentation →</a>
 </div>
 
-</div>
+---
 
-</section>
+## Career Objective
 
-<section class="section">
+My career goal is to grow into a marketing role where I can combine creativity, strategy, and analytics. I am especially interested in sports marketing, brand partnerships, social media strategy, and campaign performance measurement.
 
-<div class="section-kicker">Skills</div>
-
-<div class="section-title">Marketing + technical skills</div>
-
-<div class="tag-list">
-<span class="tag">Marketing Strategy</span>
-<span class="tag">Brand Positioning</span>
-<span class="tag">Campaign Planning</span>
-<span class="tag">Consumer Insights</span>
-<span class="tag">Sports Marketing</span>
-<span class="tag">Social Media Strategy</span>
-<span class="tag">Market Research</span>
-<span class="tag">R</span>
-<span class="tag">Quarto</span>
-<span class="tag">ggplot2</span>
-<span class="tag">Excel</span>
-<span class="tag">Google Analytics</span>
-<span class="tag">GitHub Pages</span>
-</div>
-
-</section>
-
-<section class="section">
-
-<div class="section-kicker">About</div>
-
-<div class="section-title">A portfolio built for marketing opportunities.</div>
-
-<p class="section-subtitle">
-I am interested in how brands use storytelling, data, and customer experience to build stronger connections. My projects reflect both the creative side of marketing and the analytical side needed to evaluate performance.
-</p>
-
-</section>
+This portfolio was created to showcase my marketing projects, technical skills, and professional growth as I prepare for internship and entry-level marketing opportunities.

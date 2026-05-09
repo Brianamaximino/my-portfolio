@@ -1,53 +1,212 @@
 ---
-title: "Revealjs Presentation"
-description: "Quarto Revealjs presentation showcasing technical and communication skills."
+title: "RPE Marketing Analytics Project"
+subtitle: "Quarto Revealjs Presentation"
+author: "Briana Maximino"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    width: 1600
+    height: 900
+    scrollable: true
+    embed-resources: true
+execute:
+  echo: true
+  message: false
+  warning: false
 ---
 
-# Revealjs Presentation
+## RPE Marketing Analytics Project
 
-This page showcases my technical ability to create professional presentations using Quarto Revealjs.
+### Technical Portfolio Presentation
 
-Revealjs presentations are useful because they allow users to combine writing, visuals, code, and design into one polished presentation.
+**Briana Maximino**  
+Business Administration — Marketing Management  
+Cal Poly Pomona
 
 ---
 
-## Presentation Overview
+## Project Overview
 
-For this portfolio, the Revealjs presentation demonstrates my ability to:
+This project analyzed student survey data to better understand how instructor helpfulness may relate to students’ likelihood of participating in a course evaluation survey.
 
-- Organize information clearly  
-- Present marketing ideas professionally  
-- Use Quarto as a technical publishing tool  
-- Combine design and communication skills  
-- Build a web-based presentation  
+The goal was to practice using **R, Quarto, data wrangling, visualization, and interpretation** in a marketing research style project.
+
+---
+
+## Research Question
+
+**How does perceived instructor helpfulness relate to students’ likelihood of participating in a survey?**
+
+This question connects to marketing analytics because it focuses on understanding audience behavior and what factors may influence participation.
 
 ---
 
 ## Why This Matters
 
-In marketing, communication is just as important as strategy. A strong presentation helps explain ideas, support recommendations, and make information easier for an audience to understand.
+Survey participation is important because organizations, schools, and brands often rely on feedback to make better decisions.
+
+If students are more likely to participate when they view instructors as helpful, then communication, trust, and positive experiences may play an important role in response behavior.
 
 ---
 
-## Technical Skills Shown
+## Tools Used
 
-- Quarto  
-- Revealjs  
-- Markdown  
-- GitHub Pages  
-- Website publishing  
-- Professional slide design  
-
----
-
-## Presentation Link
-
-Add your presentation link here:
-
-[View My Revealjs Presentation](#)
+- **R** for data analysis
+- **Quarto** for report building
+- **ggplot2** for visualizations
+- **dplyr** for data wrangling
+- **haven** for reading SPSS data
+- **knitr** for clean tables
 
 ---
 
-## Reflection
+## Data Wrangling Process
 
-This presentation shows my ability to use a professional publishing tool while also communicating marketing ideas in a clear and organized way.
+The data first had to be cleaned and prepared before analysis.
+
+Main steps included:
+
+- Loading the dataset
+- Selecting variables related to instructor helpfulness and survey participation
+- Converting labeled responses into numeric values
+- Removing missing responses
+- Grouping responses by helpfulness level
+- Calculating average participation scores
+
+---
+
+## Example R Code
+
+```{r}
+#| eval: false
+
+library(haven)
+library(dplyr)
+library(ggplot2)
+
+rpe_data <- read_sav("RPE - Combined-2019-12-19.sav")
+
+rpe_clean <- rpe_data |>
+  mutate(
+    R_Helpful_num = as.numeric(as_factor(R_Helpful)),
+    RPE_LikelyParti_num = as.numeric(as_factor(RPE_LikelyParti))
+  ) |>
+  filter(
+    !is.na(R_Helpful_num),
+    !is.na(RPE_LikelyParti_num)
+  )
+```
+
+---
+
+## Variables Used
+
+| Variable | Meaning |
+|---|---|
+| `R_Helpful` | Student rating of instructor helpfulness |
+| `RPE_LikelyParti` | Student likelihood of participating in the survey |
+| `R_Helpful_num` | Numeric version of instructor helpfulness |
+| `RPE_LikelyParti_num` | Numeric version of survey participation likelihood |
+
+---
+
+## Operational Scale
+
+The variables were treated as numeric rating scale variables.
+
+Higher values represented stronger agreement or higher levels of the measured concept.
+
+This made it possible to compare average participation scores across different helpfulness levels.
+
+---
+
+## Summary Table Code
+
+```{r}
+#| eval: false
+
+summary_table <- rpe_clean |>
+  group_by(R_Helpful_num) |>
+  summarise(
+    Average_Participation = mean(RPE_LikelyParti_num, na.rm = TRUE),
+    Count = n()
+  ) |>
+  filter(Count >= 10)
+```
+
+---
+
+## Visualization Code
+
+```{r}
+#| eval: false
+
+ggplot(summary_table, aes(
+  x = R_Helpful_num,
+  y = Average_Participation
+)) +
+  geom_col() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(
+    title = "Instructor Helpfulness and Survey Participation",
+    x = "Instructor Helpfulness",
+    y = "Average Likelihood to Participate"
+  ) +
+  theme_minimal()
+```
+
+---
+
+## Main Finding
+
+The analysis showed a positive relationship between instructor helpfulness and students’ likelihood of participating in the survey.
+
+As instructor helpfulness increased, the average likelihood to participate also increased.
+
+---
+
+## Interpretation
+
+This suggests that students may be more willing to provide feedback when they have a positive experience with the instructor.
+
+For marketing research, this connects to the idea that trust, experience, and perceived value can affect whether people choose to respond or engage.
+
+---
+
+## Skills Demonstrated
+
+This project demonstrates my ability to:
+
+- Work with survey data
+- Clean and transform variables in R
+- Use the pipe operator
+- Create summary tables
+- Build visualizations with ggplot2
+- Interpret data findings
+- Present analysis using Quarto
+
+---
+
+## Connection to Marketing Analytics
+
+Marketing analytics is not only about sales data. It also includes understanding behavior, attitudes, participation, and engagement.
+
+This project helped me practice using data to explain why people may be more likely to respond, participate, or engage with a survey.
+
+---
+
+## Key Takeaway
+
+The RPE project helped me build confidence using R and Quarto to turn raw survey data into a clear research finding.
+
+It shows my ability to combine technical tools with marketing research thinking.
+
+---
+
+## Thank You
+
+**Briana Maximino**  
+Marketing Portfolio  
+R / Quarto / Marketing Analytics

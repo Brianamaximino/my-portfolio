@@ -1,50 +1,188 @@
 ---
-title: "Dashboard"
-description: "Marketing dashboard project showing data visualization and analytics skills."
+title: "Marketing Analytics Dashboard"
+format:
+  html:
+    toc: true
+    toc-location: right
+    embed-resources: true
+execute:
+  echo: false
+  message: false
+  warning: false
 ---
 
-# Marketing Dashboard
+## Dashboard Overview
 
-This dashboard shows my ability to organize data, create visual summaries, and communicate insights in a clear way.
+This dashboard highlights selected marketing performance metrics from my portfolio projects. The goal is to show how marketing data can be organized, visualized, and used to understand campaign performance.
 
-The goal of this page is to demonstrate how marketing data can be used to understand audience behavior, engagement, and performance trends.
-
----
-
-## Dashboard Purpose
-
-A dashboard helps marketers quickly understand what is working and what needs improvement. For this project, I focused on simple performance indicators that could be useful in a campaign or digital marketing setting.
-
----
-
-## Key Metrics
-
-| Metric | What It Shows |
-|---|---|
-| Engagement | How much the audience interacts with content |
-| Reach | How many people saw the campaign or post |
-| Audience Interest | What type of content performs best |
-| Performance Trend | Whether results improved or decreased over time |
+The dashboard focuses on customer response, revenue, profit, and project-level marketing insights.
 
 ---
 
-## Sample Dashboard Insight
+## Key Performance Metrics
 
-Based on the sample analysis, content that feels more personal, visual, and community-focused tends to create stronger engagement. This matters because marketing is not just about posting content, but about understanding what the audience responds to.
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(ggplot2)
+library(dplyr)
+library(knitr)
+
+kpi_data <- data.frame(
+  Metric = c(
+    "Super Soakerz Customers",
+    "Super Soakerz Revenue",
+    "Super Soakerz Profit",
+    "Portfolio Projects",
+    "Main Career Focus"
+  ),
+  Result = c(
+    "18 customers",
+    "$63.00",
+    "$49.50",
+    "4 featured projects",
+    "Marketing Strategy"
+  )
+)
+
+kable(
+  kpi_data,
+  col.names = c("Metric", "Result"),
+  align = "c"
+)
+```
 
 ---
 
-## Tools Used
+## Project Summary
 
-- Quarto  
-- R  
-- ggplot2  
-- Excel  
-- Data Visualization  
-- Marketing Analytics  
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+project_summary <- data.frame(
+  Project = c(
+    "Super Soakerz",
+    "LA Galaxy Campaign",
+    "Tesla Strategy Analysis",
+    "Google Organizational Analysis"
+  ),
+  Focus = c(
+    "Campus service marketing",
+    "Sports marketing and fan engagement",
+    "Brand strategy and sustainability",
+    "Company culture and leadership"
+  ),
+  Skills = c(
+    "Promotion, pricing, customer outreach",
+    "Audience targeting, campaign strategy",
+    "Positioning, corporate strategy",
+    "Research, communication, analysis"
+  )
+)
+
+kable(
+  project_summary,
+  col.names = c("Project", "Marketing Focus", "Skills Demonstrated"),
+  align = "l"
+)
+```
 
 ---
 
-## Reflection
+## Super Soakerz Financial Results
 
-This dashboard helped me practice turning information into visuals and short insights. It also helped me understand how marketers can use data to make better campaign decisions.
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+financials <- data.frame(
+  Category = c("Revenue", "Estimated Profit"),
+  Amount = c(63.00, 49.50)
+)
+
+ggplot(financials, aes(x = Category, y = Amount)) +
+  geom_col(width = 0.6) +
+  labs(
+    title = "Super Soakerz Revenue and Estimated Profit",
+    subtitle = "Financial results from the student-led marketing campaign",
+    x = "",
+    y = "Amount ($)"
+  ) +
+  theme_minimal(base_size = 13)
+```
+
+---
+
+## Customer Response
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+customer_data <- data.frame(
+  Metric = c("Customers Served"),
+  Count = c(18)
+)
+
+ggplot(customer_data, aes(x = Metric, y = Count)) +
+  geom_col(width = 0.5) +
+  labs(
+    title = "Customer Response",
+    subtitle = "Total customers served during the Super Soakerz campaign",
+    x = "",
+    y = "Number of Customers"
+  ) +
+  theme_minimal(base_size = 13)
+```
+
+---
+
+## Marketing Skills Breakdown
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+skills <- data.frame(
+  Skill = c(
+    "Marketing Strategy",
+    "Brand Engagement",
+    "Customer Outreach",
+    "Data Visualization",
+    "Professional Presentation"
+  ),
+  Level = c(5, 4, 4, 4, 4)
+)
+
+ggplot(skills, aes(x = reorder(Skill, Level), y = Level)) +
+  geom_col(width = 0.6) +
+  coord_flip() +
+  labs(
+    title = "Marketing Skills Demonstrated",
+    subtitle = "Skills reflected across portfolio projects",
+    x = "",
+    y = "Skill Strength"
+  ) +
+  theme_minimal(base_size = 13)
+```
+
+---
+
+## Dashboard Insights
+
+The dashboard shows that my strongest portfolio areas are marketing strategy, campaign planning, customer outreach, and brand engagement. The Super Soakerz project provides a real example of applying marketing concepts to a small service-based campaign, while the LA Galaxy project connects directly to my interest in sports marketing.
+
+Together, these projects show my ability to combine marketing strategy, audience understanding, data visualization, and professional communication.
+
+---
+
+## Key Takeaway
+
+This dashboard demonstrates my ability to organize marketing project results, present key metrics clearly, and use visuals to communicate campaign performance. It supports my career interests in sports marketing, brand strategy, and data-driven marketing.
