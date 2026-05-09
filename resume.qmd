@@ -1,113 +1,245 @@
 ---
 title: "Resume"
-page-layout: full
+format: 
+  html:
+    toc: false
+    embed-resources: true
 ---
 
-# Briana Maximino  
+<div class="resume-header">
+  <p class="resume-summary">
+    Marketing student at Cal Poly Pomona with experience in campaign planning, market research,
+    analytics, customer engagement, and outreach strategy. Interested in sports marketing,
+    brand strategy, and data-driven marketing roles.
+  </p>
 
-Los Angeles, CA  
-(323) 568-7781  
-brianamaximino1@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/brianamaximino)
+  [View Full Resume](Maximino,%20Briana%20_%20Resume.pdf){.resume-btn target="_blank"}
+</div>
 
----
+::: {.resume-section}
+## Education
 
-## Education  
+::: {.resume-entry}
+### California State Polytechnic University, Pomona
+**Bachelor of Science, Business Administration – Marketing**  
+Expected December 2026  
 
-**California State Polytechnic University, Pomona**  
-Bachelor of Science in Business Administration – Marketing  
-Expected Graduation: 2027  
-GPA: 3.6  
-Dean’s List: Fall 2024, Spring 2025  
+Dean’s List, Spring 2025
+:::
+:::
 
-**John C. Fremont STEAM Magnet High School**  
-High School Diploma, 2023  
-Honors Graduate (3.9 GPA)  
-Jaime Escalante Math Program  
+::: {.resume-section}
+## Experience
 
----
+::: {.resume-entry}
+### Project Dolphin
+**Marketing Strategist**  
+*Pomona, CA | March 2026 – Present*
 
-## Work Experience  
+- Develop marketing concepts and campaign ideas for an early-stage project.
+- Analyze competitors to identify market positioning and growth opportunities.
+- Organize and track potential leads to support outreach efforts.
+- Collaborate with team members to strengthen branding and messaging strategies.
+- Support outreach planning and audience targeting initiatives.
+:::
 
-**GAP Factory — Sales Associate / Customer Service**  
-Los Angeles, CA | Oct 2024 – Present  
+::: {.resume-entry}
+### GAP Factory
+**Sales Associate / Customer Service**  
+*Los Angeles, CA | October 2024 – Present*
 
-- Assist 40+ customers per shift, improving overall shopping experience through product knowledge and service support  
-- Support store operations during peak traffic, helping maintain efficient customer flow and reduced wait times  
-- Maintain merchandising displays aligned with company standards, reducing misplaced inventory by 25%  
-- Drive sales performance by promoting offers and upselling complementary products  
+- Deliver personalized customer experiences to 40+ shoppers per shift.
+- Support in-store promotional campaigns and visual merchandising strategies.
+- Observe consumer trends and customer feedback to improve customer engagement.
+- Process transactions accurately while maintaining strong service and brand standards.
+- Assist with sales floor recovery and product placement to improve the shopping experience.
+:::
 
-**Dollar Tree — Cashier / Stock Associate**  
-Los Angeles, CA | Sept 2023 – Feb 2024  
+::: {.resume-entry}
+### Dollar Tree
+**Cashier / Stock Associate**  
+*Los Angeles, CA | September 2023 – February 2024*
 
-- Reduced average checkout wait time by 15% through efficient transaction handling  
-- Supported daily store operations in a fast-paced retail environment  
-- Maintained visual merchandising standards and inventory organization  
+- Managed high-volume transactions in a fast-paced retail environment.
+- Supported merchandising and promotional display setup aligned with brand standards.
+- Helped identify service bottlenecks and reduce average wait times.
+:::
 
-**Student2Student Program — Peer Tutor & Mentor**  
-Los Angeles, CA | Sept 2022 – Jul 2023  
+::: {.resume-entry}
+### Student2Student Program
+**Peer Tutor & Student Mentor**  
+*Los Angeles, CA | September 2022 – July 2023*
 
-- Delivered individualized tutoring sessions in math and reading for elementary and middle school students  
-- Created supportive learning environments that improved student academic performance  
-- Facilitated small group instruction tailored to different learning styles  
+- Promoted a positive and supportive environment for student growth.
+- Strengthened math and reading instruction and reinforced lesson objectives.
+- Delivered one-on-one and small-group tutoring for elementary and middle school students.
+:::
+:::
 
----
+::: {.resume-section}
+## Notable Project
 
-## Leadership & Activities  
+::: {.resume-entry}
+### Marketing Campaign & Analytics Projects
+**Cal Poly Pomona**  
+*August 2025 – December 2025*
 
-**Girls Soccer Team — Team Member**  
-John C. Fremont HS | 2019 – 2023  
+- Developed and executed a student-led marketing campaign for **Super Soakerz**.
+- Conducted consumer research, pricing strategy, and promotional planning.
+- Analyzed engagement and campaign performance using Google Analytics.
+- Created dashboards and presented data-driven insights to support marketing recommendations.
+- Conducted competitive analysis and market segmentation to improve campaign positioning.
+:::
+:::
 
-- Participated in 100+ practices and 40+ games across four seasons  
-- Supported team collaboration and communication during competitions  
-- Demonstrated strong time management balancing academics and athletics  
+::: {.resume-grid}
+::: {.resume-box}
+## Leadership & Activities
 
-**Just Keep Livin Program (JKL)**  
-Participant | 2019 – 2023  
+- Latino Business Student Association (LBSA), Member
+- Girls Soccer Team, John C. Fremont HS
+- Just Keep Livin (JKL) Program Participant
+:::
 
-- Attended weekly leadership and wellness workshops  
-- Facilitated peer discussions and group activities  
-- Completed community service and self-development projects  
+::: {.resume-box}
+## Skills
 
----
+- Market Research  
+- Consumer Insights  
+- Digital Campaign Support  
+- Content Marketing  
+- Excel (PivotTables)  
+- Google Analytics 4  
+- Power BI  
+- Canva  
+- Bilingual: English & Spanish
+:::
 
-## Skills  
+::: {.resume-box}
+## Certifications
 
-Marketing Analytics  
-Market Research  
-Content Marketing  
-Social Media Strategy  
-Google Analytics 4  
-Excel (Pivot Tables)  
-Power BI (Beginner)  
-Bilingual: English & Spanish  
+- Google Analytics 4 (GA4) Certification  
+- Power BI Essential Training  
+- Excel: PivotTables in Depth  
+- Project Management Foundations
+:::
+:::
 
----
+<style>
+.resume-header {
+  margin-top: 0.5rem;
+  margin-bottom: 2.5rem;
+  padding: 1.5rem 0 2rem 0;
+  border-bottom: 1px solid #e5e7eb;
+}
 
-## Certifications  
+.resume-summary {
+  max-width: 850px;
+  font-size: 1.08rem;
+  line-height: 1.8;
+  color: #475569;
+  margin-bottom: 1.25rem;
+}
 
-Google Analytics 4 Certification — Google Digital Academy  
-Feb 2026 – Feb 2027  
+.resume-btn {
+  display: inline-block;
+  background: #1d4ed8;
+  color: #ffffff !important;
+  text-decoration: none;
+  padding: 0.8rem 1.25rem;
+  border-radius: 10px;
+  font-weight: 600;
+  transition: all 0.25s ease;
+}
 
-Power BI Essential Training — LinkedIn Learning  
-Feb 2026  
+.resume-btn:hover {
+  background: #1e40af;
+  color: #ffffff !important;
+  text-decoration: none;
+}
 
-Excel PivotTables in Depth — LinkedIn Learning  
-Jan 2026  
+.resume-section {
+  margin-bottom: 2.5rem;
+}
 
-Project Management Foundations — LinkedIn Learning  
-Feb 2025  
+.resume-section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1.25rem;
+  color: #0f172a;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 0.5rem;
+}
 
----
+.resume-entry {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-left: 5px solid #2563eb;
+  border-radius: 12px;
+  padding: 1.25rem 1.25rem 1rem 1.25rem;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.04);
+}
 
-## Relevant Coursework  
+.resume-entry h3 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  color: #111827;
+  font-size: 1.25rem;
+}
 
-Marketing Research  
-Marketing Analytics  
-Consumer Behavior  
-Digital Marketing  
-Business Statistics  
+.resume-entry p {
+  margin-bottom: 0.75rem;
+}
 
-## Download Resume  
+.resume-entry ul {
+  margin-bottom: 0;
+  padding-left: 1.2rem;
+}
 
-<a href="images/Final Resume.pdf" class="btn btn-primary">Download PDF Resume</a>
+.resume-entry li {
+  margin-bottom: 0.45rem;
+  line-height: 1.65;
+  color: #475569;
+}
+
+.resume-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+.resume-box {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1.25rem;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.04);
+}
+
+.resume-box h2 {
+  font-size: 1.25rem;
+  margin-top: 0;
+  margin-bottom: 0.9rem;
+  border-bottom: none;
+  padding-bottom: 0;
+  color: #1d4ed8;
+}
+
+.resume-box ul {
+  padding-left: 1.2rem;
+  margin-bottom: 0;
+}
+
+.resume-box li {
+  margin-bottom: 0.45rem;
+  line-height: 1.6;
+  color: #475569;
+}
+
+@media (max-width: 900px) {
+  .resume-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>

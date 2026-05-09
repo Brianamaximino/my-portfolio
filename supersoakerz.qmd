@@ -1,71 +1,28 @@
 ---
 title: "Super Soakerz Marketing Campaign"
-description: "A student-led service marketing campaign focused on campus outreach, branding, and customer response."
+description: "A student-led service marketing campaign focused on campus outreach, branding, customer response, and campaign results."
 format:
   html:
-    theme: cosmo
     toc: true
     toc-depth: 3
     toc-location: right
-    embed-resources: true
 execute:
   echo: false
   message: false
   warning: false
 ---
 
-## Project Overview
+::: {.project-hero}
 
-Super Soakerz was a student-led car window washing business created as part of a marketing course at Cal Poly Pomona. The goal of the project was to build a service brand from scratch, promote it on campus, and evaluate real customer response.
+# Super Soakerz Marketing Campaign
 
-The campaign focused on convenience, affordability, and visibility within a student commuter environment.
+A student-led service marketing campaign built around campus visibility, affordability, and real customer response at Cal Poly Pomona.
 
-## Marketing Strategy
+<div class="project-meta">
+<span class="meta-pill">Service Marketing</span>
+<span class="meta-pill">Campus Campaign</span>
+<span class="meta-pill">Brand Strategy</span>
+<span class="meta-pill">Sales Results</span>
+</div>
 
-The primary target market included Cal Poly Pomona commuter students ages 18 to 25 who needed a quick and affordable service on campus.
-
-The brand was positioned as:
-
-- Student-run  
-- Affordable  
-- Eco-friendly  
-- Convenient for commuter students  
-
-The marketing approach focused on in-person promotion, visual branding, and simple messaging to build awareness and trust.
-
-## Campaign Execution
-
-The team promoted the service through campus outreach, physical signage, and peer-to-peer communication.
-
-Visual branding included bright colors and easy-to-understand messaging. Promotional materials emphasized value, speed, and convenience. The campaign also used before-and-after visuals to show service quality and build credibility.
-
-## Analytics and Results
-
-### Key Performance Metrics
-
-```{r}
-library(gt)
-
-kpi <- data.frame(
-  Metric = c(
-    "Total Customers Served",
-    "Basic Package Sales",
-    "Premium Package Sales",
-    "Total Revenue",
-    "Total Profit"
-  ),
-  Value = c(
-    "18",
-    "9",
-    "9",
-    "$63",
-    "$49.50"
-  )
-)
-
-gt(kpi) |>
-  tab_header(
-    title = "Super Soakerz Campaign Results",
-    subtitle = "Summary of customers, sales, revenue, and profit"
-  )
-```
+:::
