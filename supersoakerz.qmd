@@ -1,141 +1,131 @@
 ---
 title: "Super Soakerz Marketing Campaign"
+subtitle: "Student-Led Service Brand | Campus Marketing | Promotional Strategy"
 format:
   html:
+    theme: cosmo
     toc: true
+    toc-depth: 3
     toc-location: right
     embed-resources: true
-execute:
-  echo: false
-  message: false
-  warning: false
+    page-layout: full
 ---
 
 ## Project Overview
 
-Super Soakerz was a student-led car window washing service created for a marketing course at Cal Poly Pomona. The project focused on building a service brand from scratch, promoting it to students, and measuring real customer response through campus outreach.
+Super Soakerz was a student-led car window washing business created as part of a marketing course at Cal Poly Pomona. The project gave my team the opportunity to build a small service brand from the ground up and promote it to students on campus.
 
-The campaign positioned Super Soakerz as a convenient, affordable, and student-run service for busy commuter students who wanted a quick way to clean their car windows while on campus.
+The campaign focused on convenience, affordability, and student-to-student trust. Since many Cal Poly Pomona students commute, our team wanted to create a service that felt useful, quick, and easy to access.
 
-## Objective
+---
 
-The main objective was to create and promote a small service-based business while applying marketing concepts such as target market selection, positioning, pricing, promotion, and customer engagement.
+## Project Goal
+
+The goal of this project was to create a simple service brand that could attract student customers and communicate value clearly.
+
+Our main goals were to:
+
+- Build awareness for the Super Soakerz brand
+- Promote a student-led service on campus
+- Identify a clear target audience
+- Create messaging that felt simple and relatable
+- Encourage students to try the service
+
+---
 
 ## Target Audience
 
-The target audience was Cal Poly Pomona students, especially commuter students between the ages of 18 and 25 who drive to campus and may not have time to regularly clean their car windows.
+The primary target audience was Cal Poly Pomona commuter students.
 
-## My Role
+This audience made sense because many students drive to campus and may not always have time to clean their cars. A quick and affordable window washing service could be useful for students who wanted their cars to look cleaner without spending too much time or money.
 
-For this project, I contributed to the campaign planning, customer outreach, service promotion, and overall marketing strategy. I helped shape the project’s messaging around convenience, affordability, and student-to-student service.
+---
 
-## Campaign Strategy
+## Brand Positioning
 
-The campaign used simple and direct messaging to attract students on campus. The strategy focused on:
+Super Soakerz was positioned as a convenient, affordable, and student-run service.
 
-- Promoting the service as quick and affordable
-- Reaching students through in-person campus outreach
-- Building trust by presenting the service as student-run
-- Using clear pricing and simple service benefits
-- Emphasizing convenience for commuter students
+The brand was meant to feel:
 
-## Key Results
+- Easy to approach
+- Budget-friendly
+- Helpful for busy students
+- Simple and direct
+- Connected to the campus community
 
-| Metric | Result |
-|---|---:|
-| Customers Served | 18 |
-| Revenue Generated | $63.00 |
-| Estimated Profit | $49.50 |
-| Main Audience | Cal Poly Pomona commuter students |
-| Service Type | Car window washing |
+---
 
-## Campaign Performance Dashboard
+## Marketing Strategy
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
+The marketing strategy focused on making the service easy for students to understand.
 
-library(ggplot2)
-library(dplyr)
-library(knitr)
+Instead of using complicated messaging, our team focused on clear benefits:
 
-results <- data.frame(
-  Metric = c("Customers Served", "Revenue Generated", "Estimated Profit"),
-  Value = c(18, 63, 49.50)
-)
+- Quick service
+- Affordable pricing
+- Convenient campus access
+- Student-run business
+- Visible before-and-after results
 
-kable(
-  results,
-  col.names = c("Metric", "Value"),
-  align = "c"
-)
-```
+This helped communicate why students should care about the service.
 
-## Revenue and Profit Overview
+---
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
+## Campaign Execution
 
-financials <- data.frame(
-  Category = c("Revenue", "Estimated Profit"),
-  Amount = c(63.00, 49.50)
-)
+Our team promoted Super Soakerz through campus interaction, word-of-mouth, and visual marketing. We focused on reaching students directly and explaining the value of the service in a simple way.
 
-ggplot(financials, aes(x = Category, y = Amount)) +
-  geom_col(width = 0.6) +
-  labs(
-    title = "Super Soakerz Revenue and Profit",
-    subtitle = "Financial results from the student-led campaign",
-    x = "",
-    y = "Amount ($)"
-  ) +
-  theme_minimal(base_size = 13)
-```
+The campaign included:
 
-## Customer Response
+- Creating a service concept
+- Developing brand messaging
+- Promoting the service to students
+- Communicating with potential customers
+- Using visuals to show service value
+- Working as a team to manage the project
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
+---
 
-customers <- data.frame(
-  Category = c("Customers Served"),
-  Count = c(18)
-)
+## Skills Demonstrated
 
-ggplot(customers, aes(x = Category, y = Count)) +
-  geom_col(width = 0.5) +
-  labs(
-    title = "Customer Response",
-    subtitle = "Total customers served during the campaign",
-    x = "",
-    y = "Number of Customers"
-  ) +
-  theme_minimal(base_size = 13)
-```
+::: {.grid}
 
-## Marketing Skills Demonstrated
+::: {.g-col-12 .g-col-md-4}
+### Marketing Strategy
+- Brand positioning
+- Target audience analysis
+- Service marketing
+- Campaign planning
+:::
 
-This project helped demonstrate several marketing skills, including:
+::: {.g-col-12 .g-col-md-4}
+### Communication
+- Customer interaction
+- Simple messaging
+- Value explanation
+- Team communication
+:::
 
-- Target market identification
-- Service positioning
-- Pricing strategy
-- Campus promotion
-- Customer engagement
-- Team collaboration
-- Basic performance tracking
+::: {.g-col-12 .g-col-md-4}
+### Professional Skills
+- Collaboration
+- Planning
+- Problem solving
+- Project execution
+:::
 
-## What I Learned
+:::
 
-Through this project, I learned how important it is to clearly communicate the value of a service. Even with a simple business idea, the marketing message, pricing, and customer interaction all affect whether people are willing to participate.
+---
 
-The project also helped me understand how marketing works in a real setting. Instead of only creating a plan, the team had to actually promote the service, speak with potential customers, and adjust based on customer response.
+## Marketing Lessons Learned
+
+This project helped me understand that marketing is not only about creating a brand. It is also about understanding what customers need and explaining the value in a way that feels clear and useful.
+
+I learned that students are more likely to respond to marketing when the service feels affordable, convenient, and relevant to their daily life.
+
+---
 
 ## Key Takeaway
 
-Super Soakerz showed me how marketing strategy can turn a simple student service into a real campaign. The project helped me build experience in promotion, customer communication, teamwork, and measuring results.
+Super Soakerz helped me practice building a marketing campaign from an idea into a real service concept. It strengthened my understanding of target audiences, promotional strategy, customer needs, and brand communication.
