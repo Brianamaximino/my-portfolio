@@ -11,13 +11,13 @@ website:
       - href: index.qmd
         text: Home
       - href: projects.qmd
-        text: Projects
+        text: Marketing Projects
       - href: dashboard.qmd
-        text: Dashboard
+        text: Marketing Analytics
       - href: presentation.qmd
-        text: Presentation
+        text: Featured Work
       - href: analytics.qmd
-        text: Analytics
+        text: Google Analytics
       - href: resume.qmd
         text: Resume
 

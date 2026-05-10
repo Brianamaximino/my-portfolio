@@ -89,7 +89,7 @@ Sports marketing project focused on fan engagement, campaign messaging, and audi
 
 Dashboard page showcasing data visualization, key metrics, and marketing performance insights.
 
-[View Dashboard →](dashboard.qmd)
+[View Marketing Analytics →](dashboard.qmd)
 :::
 
 :::
