@@ -3,171 +3,188 @@
    Premium Marketing Portfolio CSS
    ============================== */
 
-/* Whole website background */
-html,
+/* Main website styling */
+
 body {
-  background-color: #f3eee7 !important;
-  background-image: linear-gradient(135deg, #f3eee7 0%, #ffffff 45%, #eaf1f8 100%) !important;
-  font-size: 1rem;
-  line-height: 1.7;
+  background: linear-gradient(180deg, #f7f8fc 0%, #ffffff 45%, #f7f8fc 100%);
+  color: #1f2937;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Main white content card */
-main.content {
-  background-color: rgba(255, 255, 255, 0.92) !important;
-  padding: 2.5rem !important;
-  border-radius: 18px !important;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08) !important;
-  max-width: 980px !important;
-  margin: 2rem auto !important;
+/* Navbar */
+
+.navbar {
+  background-color: #0f172a !important;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
 }
 
-/* Headings */
-h1 {
-  font-size: 3rem;
-  font-weight: 700;
-  margin-top: 1.5rem;
+.navbar-title,
+.navbar-nav .nav-link {
+  color: #ffffff !important;
 }
 
-h2 {
-  margin-top: 3rem;
-  padding-top: 1rem;
-  border-top: 1px solid #e5e5e5;
-  font-weight: 700;
+.navbar-nav .nav-link:hover {
+  color: #c7d2fe !important;
 }
 
-h3 {
-  font-weight: 500;
-  color: #444;
-}
+/* Hero section */
 
-/* Buttons */
-.btn {
-  margin-right: 0.5rem;
-  margin-top: 0.5rem;
-  border-radius: 8px;
-  padding: 0.55rem 1rem;
-}
-
-/* Links */
-a {
-  text-decoration: none;
-}
-
-/* Homepage hero */
 .hero-section {
-  background: linear-gradient(135deg, #ffffff 0%, #f6efe7 50%, #eaf1f8 100%);
-  padding: 3rem;
+  background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 50%, #312e81 100%);
+  color: white;
+  padding: 4rem 3rem;
   border-radius: 24px;
-  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.08);
-  margin-top: 2rem;
+  margin-top: 1.5rem;
   margin-bottom: 2rem;
+  box-shadow: 0 16px 35px rgba(15, 23, 42, 0.25);
 }
 
 .hero-section h1 {
-  font-size: 3.4rem;
+  font-size: 3.5rem;
   font-weight: 800;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.5rem;
 }
 
-.hero-section h3 {
-  font-size: 1.3rem;
-  color: #555;
+.hero-section h2 {
+  font-size: 1.5rem;
   font-weight: 500;
+  color: #dbeafe;
   margin-bottom: 1.5rem;
 }
 
-/* Card grid */
-.card-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.25rem;
-  margin-top: 1.5rem;
-  margin-bottom: 2rem;
+.hero-section p {
+  font-size: 1.08rem;
+  line-height: 1.75;
+  max-width: 850px;
 }
 
-/* Individual cards */
-.portfolio-card {
-  background: #ffffff;
-  border: 1px solid #e8e3dc;
-  border-radius: 18px;
-  padding: 1.5rem;
-  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.05);
+.hero-section a {
+  margin-right: 0.5rem;
+  margin-top: 0.75rem;
 }
 
-.portfolio-card h3 {
-  margin-top: 0;
+/* Headings */
+
+h2 {
+  color: #0f172a;
+  font-weight: 750;
+  margin-top: 2.5rem;
+  border-bottom: 2px solid #dbeafe;
+  padding-bottom: 0.4rem;
+}
+
+h3 {
+  color: #1e3a8a;
   font-weight: 700;
 }
 
-/* Skills box */
-.skills-box {
-  background: #f8f4ef;
-  border-left: 5px solid #7b5e45;
-  padding: 1.25rem;
-  border-radius: 14px;
-  font-weight: 500;
+/* Cards / grid blocks */
+
+.grid > div {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
 }
 
-/* Mobile layout */
-@media (max-width: 800px) {
-  .card-grid {
-    grid-template-columns: 1fr;
-  }
+.grid > div:hover {
+  transform: translateY(-3px);
+  transition: 0.2s ease;
+  box-shadow: 0 12px 26px rgba(15, 23, 42, 0.12);
+}
 
+/* Buttons */
+
+.btn {
+  border-radius: 999px;
+  padding: 0.65rem 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.btn-primary {
+  background-color: #2563eb;
+  border-color: #2563eb;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #1d4ed8;
+  border-color: #1d4ed8;
+}
+
+.btn-secondary {
+  background-color: #e0e7ff;
+  border-color: #e0e7ff;
+  color: #1e3a8a;
+}
+
+.btn-secondary:hover {
+  background-color: #c7d2fe;
+  border-color: #c7d2fe;
+  color: #172554;
+}
+
+/* Links */
+
+a {
+  color: #2563eb;
+}
+
+a:hover {
+  color: #1d4ed8;
+}
+
+/* Tables */
+
+table {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+/* Code blocks */
+
+pre {
+  border-radius: 14px;
+}
+
+/* Footer spacing */
+
+.page-columns {
+  padding-bottom: 2rem;
+}
+
+/* Mobile friendly */
+
+@media (max-width: 768px) {
   .hero-section {
-    padding: 2rem;
+    padding: 2.5rem 1.5rem;
   }
 
   .hero-section h1 {
-    font-size: 2.5rem;
+    font-size: 2.4rem;
+  }
+
+  .hero-section h2 {
+    font-size: 1.2rem;
+  }
+
+  .btn {
+    display: inline-block;
+    margin-bottom: 0.5rem;
   }
 }
 
-/* Project showcase cards */
-.project-showcase {
-  background: #ffffff;
-  border: 1px solid #e8e3dc;
-  border-radius: 20px;
-  padding: 2rem;
-  margin: 1.5rem 0 2.5rem 0;
-  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.06);
-}
-
-.project-showcase h3 {
-  margin-top: 1rem;
-  font-weight: 700;
-}
-
-.project-showcase p {
-  margin-bottom: 1rem;
-}
-
-/* Resume page */
-.resume-header {
-  background: linear-gradient(135deg, #ffffff 0%, #f6efe7 100%);
-  border-radius: 22px;
-  padding: 2rem;
-  margin-bottom: 2rem;
-  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.06);
-}
-
-.resume-header h2 {
-  border-top: none;
-  margin-top: 0;
-  padding-top: 0;
-}
-
-.resume-card {
-  background: #ffffff;
-  border: 1px solid #e8e3dc;
-  border-radius: 18px;
-  padding: 1.5rem;
-  margin: 1.25rem 0;
-  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.05);
-}
-
-.resume-card h3 {
-  margin-top: 0;
-  font-weight: 700;
+.pfp {
+  width: 170px;
+  height: 170px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 1.25rem auto;
+  border: 4px solid white;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
 }

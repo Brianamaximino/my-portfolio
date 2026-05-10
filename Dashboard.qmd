@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Marketing Dashboard"
+subtitle: "Data Visualization | Performance Metrics | Marketing Insights"
 format:
   html:
     theme: cosmo
@@ -7,79 +8,94 @@ format:
     toc-depth: 3
     toc-location: right
     embed-resources: true
+    page-layout: full
 ---
 
-# Marketing Analytics 
+## Overview
 
-This page showcases my ability to organize marketing-related data, create visuals, and explain insights in a way that supports business and marketing decisions.
+This dashboard section demonstrates my ability to organize marketing information into a clear and visual format. Dashboards are important in marketing because they help teams track performance, compare results, and make better decisions based on data.
 
----
-
-## Dashboard Overview
-
-::: {.project-showcase}
-
-### Purpose
-
-The purpose of this dashboard is to turn marketing data into clear insights. Instead of only showing numbers, the dashboard helps explain patterns, trends, and possible recommendations.
-
-### Tools Used
-
-R · Quarto · ggplot2 · Excel · Google Analytics 4 · Data Visualization
-
-### Skills Demonstrated
-
-Marketing analytics · Data cleaning · Visual storytelling · Consumer insights · Performance tracking · Insight communication
-
-:::
+This page highlights my interest in marketing analytics and shows how data can be used to understand trends, audience behavior, and campaign performance.
 
 ---
 
-## Key Marketing Metrics
+## Dashboard Purpose
 
-::: {.card-grid}
+The purpose of this dashboard is to present marketing information in a way that is easy to understand.
 
-::: {.portfolio-card}
-### Audience Engagement
+A strong marketing dashboard should help answer questions such as:
 
-Tracks how users interact with marketing content, campaigns, or website pages.
-
-:::
-
-::: {.portfolio-card}
-### Campaign Performance
-
-Shows how marketing efforts perform based on engagement, reach, traffic, or other results.
-
-:::
-
-::: {.portfolio-card}
-### Customer Insights
-
-Uses data to better understand audience behavior, preferences, and trends.
-
-:::
-
-:::
+- What is performing well?
+- What needs improvement?
+- Which audience or campaign is showing the strongest results?
+- What trends are important?
+- What decisions can be made from the data?
 
 ---
 
-## Example Insight
+## Skills Demonstrated
 
-::: {.project-showcase}
+::: {.grid}
 
-Marketing analytics helps connect creative decisions with measurable results. By reviewing data, marketers can better understand what is working, what needs improvement, and how to make stronger campaign decisions.
+::: {.g-col-12 .g-col-md-4}
+### Data Skills
+- Data organization
+- Data cleaning
+- Trend analysis
+- Performance tracking
+- Insight reporting
+:::
 
-For example, if a campaign receives strong traffic but low engagement, the issue may be the message, call-to-action, or audience targeting. A dashboard makes it easier to identify these issues and explain them clearly.
+::: {.g-col-12 .g-col-md-4}
+### Visualization Skills
+- Dashboard layout
+- Charts and graphs
+- Metric summaries
+- Clear labeling
+- Visual communication
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Marketing Skills
+- Campaign analysis
+- Audience insights
+- Engagement tracking
+- Marketing performance
+- Data-driven decisions
+:::
 
 :::
 
 ---
 
-## What I Learned
+## Example Marketing Metrics
 
-::: {.project-showcase}
+| Metric | What It Measures | Why It Matters |
+|---|---|---|
+| Engagement | How users interact with content | Shows if the audience is interested |
+| Reach | How many people see content | Measures brand visibility |
+| Conversion | How many users take action | Shows campaign effectiveness |
+| Traffic Source | Where visitors come from | Helps improve promotion strategy |
+| Page Views | How often pages are viewed | Shows strongest content areas |
 
-This dashboard helped me practice using data to support marketing strategy. I learned that strong marketing is not only about creative ideas, but also about measuring results and using insights to improve future decisions.
+---
 
-:::
+## Dashboard Interpretation
+
+A dashboard is useful when it turns raw data into clear insights. Instead of only looking at numbers, marketers can use dashboards to understand what the numbers mean and how they connect to business goals.
+
+For example, if a campaign has high reach but low engagement, that may mean people are seeing the content but not connecting with it. If a page has strong engagement, that may show that the content is useful or interesting to the audience.
+
+---
+
+## Connection to Marketing Analytics
+
+This dashboard connects to marketing analytics because it shows how data can support strategy. Marketing analytics helps teams understand customers, measure campaign performance, and improve future decisions.
+
+This is important for my career goals because I want to work in marketing roles where I can use both creative thinking and data to improve campaign results.
+
+---
+
+## Key Takeaway
+
+This dashboard section shows my ability to think about marketing performance in a data-driven way. It also demonstrates that I understand how dashboards can help marketers communicate insights clearly and professionally.

@@ -1,30 +1,47 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - files/
 
 website:
   title: "Briana Maximino"
+  description: "Marketing portfolio of Briana Maximino, a Cal Poly Pomona Business Administration student focused on sports marketing, brand strategy, digital marketing, and marketing analytics."
+  site-url: "https://brianamaximino.github.io/my-portfolio/"
   navbar:
+    title: "Briana Maximino"
     left:
-      - href: index.qmd
-        text: Home
-      - href: projects.qmd
-        text: Marketing Projects
-      - href: dashboard.qmd
-        text: Marketing Analytics
-      - href: presentation.qmd
-        text: Featured Work
-      - href: analytics.qmd
-        text: Google Analytics
-      - href: resume.qmd
-        text: Resume
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Marketing Analytics"
+        href: analytics.qmd
+      - text: "Dashboard"
+        href: dashboard.qmd
+      - text: "Presentation"
+        href: presentation.qmd
+      - text: "Google Analytics"
+        href: google.qmd
+      - text: "Resume"
+        href: resume.qmd
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/brianamaximino"
+        aria-label: LinkedIn
+      - icon: github
+        href: "https://github.com/brianamaximino/my-portfolio"
+        aria-label: GitHub
+
+  page-footer:
+    left: "© 2026 Briana Maximino"
+    right: "Built with Quarto and GitHub Pages"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 3
     toc-location: right
     embed-resources: true
+    code-fold: false
+    page-layout: full

@@ -14,6 +14,24 @@ format:
 
 ::: {.hero-section}
 
+![](profile.png){.pfp}
+
+# Briana Maximino
+
+## Marketing Management Student at Cal Poly Pomona
+
+Hi, my name is Briana Maximino, and I am a Business Administration student at Cal Poly Pomona with a concentration in Marketing Management.
+
+I am interested in sports marketing, brand strategy, digital marketing, and marketing analytics.
+
+[View My Projects](projects.html){.btn .btn-primary}
+[Download Resume](Briana-Maximino-Resume.pdf){.btn .btn-secondary}
+[LinkedIn](https://www.linkedin.com/in/brianamaximino){.btn .btn-secondary}
+
+:::
+
+# Briana Maximino
+
 ## Marketing Management Student at Cal Poly Pomona
 
 Hi, my name is Briana Maximino, and I am a Business Administration student at Cal Poly Pomona with a concentration in Marketing Management.
@@ -23,6 +41,10 @@ I am interested in sports marketing, brand strategy, digital marketing, and mark
 My goal is to continue building experience in marketing roles where I can combine creativity, data, and strategy to better understand audiences and improve campaign performance.
 
 [View My Projects](projects.html){.btn .btn-primary} [Download Resume](Briana-Maximino-Resume.pdf){.btn .btn-secondary} [LinkedIn](https://www.linkedin.com/in/brianamaximino){.btn .btn-secondary}
+
+:::
+
+:::
 
 :::
 
@@ -121,7 +143,7 @@ Super Soakerz was a student-led car window washing business created as part of a
 
 **Skills shown:** campaign planning, campus marketing, branding, customer targeting, and promotional strategy.
 
-[View Project](super-soakerz.html){.btn .btn-secondary}
+[View Project](supersoakerz.html){.btn .btn-secondary}
 
 ---
 
@@ -131,17 +153,17 @@ This project connects to my interest in sports marketing by focusing on fan enga
 
 **Skills shown:** sports marketing, audience segmentation, campaign messaging, and digital promotion.
 
-[View Project](la-galaxy.html){.btn .btn-secondary}
+[View Project](lagalaxy.html){.btn .btn-secondary}
 
 ---
 
-### Marketing Analytics Dashboard
+### Tesla Corporate Strategy Analysis
 
-This dashboard demonstrates how marketing data can be organized and visualized to better understand performance, trends, and audience behavior.
+This project analyzes Tesla’s brand strategy, innovation, sustainability messaging, and competitive positioning.
 
-**Skills shown:** dashboard design, data visualization, analytics, and insight reporting.
+**Skills shown:** brand analysis, corporate strategy, research, and marketing insight.
 
-[View Dashboard](dashboard.html){.btn .btn-secondary}
+[View Project](tesla.html){.btn .btn-secondary}
 
 ---
 
@@ -151,7 +173,7 @@ This website is connected to Google Analytics to track visitor activity and unde
 
 Google Analytics helps me connect my interest in marketing analytics to a real digital platform by showing how website traffic, page views, and engagement can be measured.
 
-[View Google Analytics Page](google-analytics.html){.btn .btn-primary}
+[View Google Analytics Page](google.html){.btn .btn-primary}
 
 ---
 
