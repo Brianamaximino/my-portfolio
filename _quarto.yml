@@ -17,7 +17,7 @@ website:
         href: analytics.qmd
       - text: "Dashboard"
         href: dashboard.qmd
-      - text: "Presentation"
+      - text: "Featured Work"
         href: presentation.qmd
       - text: "Google Analytics"
         href: google.qmd
