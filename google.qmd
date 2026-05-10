@@ -1,64 +1,101 @@
 ---
-title: "Google Sustainability-Driven Competitive Strategy Analysis"
+title: "Google Analytics"
+subtitle: "Website Tracking | Digital Performance | Marketing Analytics"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    embed-resources: true
+    page-layout: full
 ---
 
-## Google Organizational Strategy & Brand Ecosystem  
+## Overview
 
-### Core Insight  
-Innovation-driven companies sustain market leadership by fostering adaptable organizational cultures that enable continuous product evolution.
+This portfolio website is connected to Google Analytics to track visitor activity and understand how users interact with my site.
 
----
-
-### Strategic Concept  
-**Ecosystem Innovation Model**  
-
-Google’s competitive advantage emerges from its ability to integrate diverse digital services into a cohesive brand ecosystem.
-
----
-
-### Strategic Focus  
-
-- Encourage cross-functional collaboration  
-- Maintain innovation-oriented culture  
-- Strengthen ecosystem-based brand positioning  
-- Adapt rapidly to technological shifts  
+Google Analytics is important in digital marketing because it helps marketers measure website traffic, user behavior, and engagement. This connects to my interest in marketing analytics because it shows how data can be used to evaluate digital performance.
 
 ---
 
-### Strategic Observations  
+## Purpose of Google Analytics
 
-**Collaborative Structure**  
-Flexible organizational design supports creative problem-solving.
+The purpose of adding Google Analytics to this website is to better understand how visitors use my portfolio.
 
-**Data-Driven Culture**  
-Decision-making processes emphasize analytical insights.
+With Google Analytics, I can track information such as:
 
-**Product Ecosystem Strategy**  
-Integrated services reinforce user dependency.
-
-**Brand Trust Reinforcement**  
-Consistency in innovation strengthens long-term credibility.
-
----
-
-### User Persona  
-
-**Name:** Sofia, 26  
-**Profile:** Digital-native professional  
-**Motivation:** Efficiency and connectivity  
-**Behavior:** Relies on integrated tech solutions  
-**Opportunity:** Reinforce ecosystem value messaging
+- How many people visit my website
+- Which pages receive the most views
+- How visitors move through the website
+- How long users stay on pages
+- Where traffic comes from
+- Which content gets the most engagement
 
 ---
 
-### Strategic Takeaway  
-Organizations that cultivate adaptive innovation cultures maintain sustained relevance in rapidly evolving technological markets.
+## Marketing Value
 
-## Project Presentation Slides
-<a href="https://brianamaximino.my.canva.site" class="btn btn-secondary">View Presentation Slides</a>
+Google Analytics helps turn website activity into useful marketing insights.
 
-## Next Project
+For example, if one project page receives more views than another, that could show which type of content is more interesting to visitors. If visitors leave quickly, that may show that a page needs stronger content, clearer navigation, or a better design.
 
-<div class="project-nav">
-<a href="supersoakerz.html">Next: Super Soaker Marketing Business Project →</a>
-</div>
+This type of information is useful for marketers because it supports better decision-making.
+
+---
+
+## Skills Demonstrated
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### Digital Marketing
+- Website performance tracking
+- Audience behavior
+- Traffic analysis
+- Engagement measurement
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Marketing Analytics
+- Data interpretation
+- Performance metrics
+- Page view analysis
+- User behavior insights
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Website Tools
+- Google Analytics
+- Quarto
+- GitHub Pages
+- SEO basics
+:::
+
+:::
+
+---
+
+## Metrics I Can Monitor
+
+| Metric | What It Shows | Why It Matters |
+|---|---|---|
+| Page views | How many times pages are viewed | Shows which content attracts attention |
+| Users | Number of people visiting the site | Measures audience reach |
+| Traffic source | Where visitors come from | Helps understand how people find the site |
+| Engagement | How users interact with the site | Shows whether content is useful |
+| Popular pages | Most visited pages | Helps identify strongest portfolio sections |
+
+---
+
+## Connection to My Career Goals
+
+Google Analytics connects to my interest in digital marketing and marketing analytics. It allows me to see how real users interact with my portfolio and use that information to improve the website.
+
+This supports my career goal of working in marketing roles that combine creativity, data, and strategy.
+
+---
+
+## Key Takeaway
+
+Adding Google Analytics helped me understand how website data can be used to measure performance. It also made my portfolio stronger because it shows that I can connect marketing content with analytics tools.
