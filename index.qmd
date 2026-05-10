@@ -14,21 +14,9 @@ format:
 
 ::: {.hero-section}
 
-![](profile.png){.pfp}
+::: {.grid .align-items-center}
 
-# Briana Maximino
-
-## Marketing Management Student at Cal Poly Pomona
-
-Hi, my name is Briana Maximino, and I am a Business Administration student at Cal Poly Pomona with a concentration in Marketing Management.
-
-I am interested in sports marketing, brand strategy, digital marketing, and marketing analytics.
-
-[View My Projects](projects.html){.btn .btn-primary}
-[Download Resume](Briana-Maximino-Resume.pdf){.btn .btn-secondary}
-[LinkedIn](https://www.linkedin.com/in/brianamaximino){.btn .btn-secondary}
-
-:::
+::: {.g-col-12 .g-col-md-8}
 
 # Briana Maximino
 
@@ -40,8 +28,14 @@ I am interested in sports marketing, brand strategy, digital marketing, and mark
 
 My goal is to continue building experience in marketing roles where I can combine creativity, data, and strategy to better understand audiences and improve campaign performance.
 
-[View My Projects](projects.html){.btn .btn-primary} [Download Resume](Briana-Maximino-Resume.pdf){.btn .btn-secondary} [LinkedIn](https://www.linkedin.com/in/brianamaximino){.btn .btn-secondary}
+[View My Projects](projects.html){.btn .btn-primary}
+[Download Resume](Briana-Maximino-Resume.pdf){.btn .btn-secondary}
+[LinkedIn](https://www.linkedin.com/in/brianamaximino){.btn .btn-secondary}
 
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](profile.png){.pfp-side}
 :::
 
 :::
