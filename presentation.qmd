@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Featured Work"
 format:
   html:
     theme: cosmo
@@ -9,73 +9,30 @@ format:
     embed-resources: true
 ---
 
-# Revealjs Presentation
+# Featured Work
 
-This page highlights my web-based presentation created with Revealjs and Quarto. The presentation shows my ability to communicate marketing ideas in a professional, visual, and organized format.
+This page highlights selected digital work that shows my ability to present marketing ideas in a clear, organized, and professional format.
 
-
+[← Back to Portfolio](index.qmd){.btn .btn-outline-primary}
 
 ---
 
-## Presentation Overview
+## Digital Marketing Presentation
 
 ::: {.project-showcase}
 
-### Purpose
+### Overview
 
-The purpose of this presentation is to showcase marketing concepts, project findings, and professional storytelling through a digital slide format.
+This project showcases a web-based marketing presentation created with Quarto and Revealjs. It demonstrates my ability to organize marketing ideas, communicate project findings, and present work in a polished digital format.
 
-### Tools Used
+### Skills Used
 
-Quarto · Revealjs · HTML · CSS · GitHub Pages · Visual Presentation Design
+Marketing communication · Digital storytelling · Presentation design · Quarto · Revealjs · HTML · CSS
 
-### Skills Demonstrated
+### Key Takeaway
 
-Presentation design · Marketing communication · Digital storytelling · Visual organization · Professional formatting
+This project helped me practice turning marketing information into a professional digital presentation that can be shared online.
 
 [View Presentation](<Revealjs Presentation.html>){.btn .btn-primary}
 
 :::
-
----
-
-## What the Presentation Shows
-
-::: {.card-grid}
-
-::: {.portfolio-card}
-### Marketing Strategy
-
-Explains key campaign ideas, target audience, positioning, and message strategy.
-
-:::
-
-::: {.portfolio-card}
-### Visual Storytelling
-
-Uses a slide format to make the information easier to follow and more professional.
-
-:::
-
-::: {.portfolio-card}
-### Digital Skills
-
-Shows my ability to create and publish web-based presentations using Quarto and GitHub Pages.
-
-:::
-
-:::
-
----
-
-## What I Learned
-
-::: {.project-showcase}
-
-Creating this presentation helped me practice organizing information for an audience. I learned how to make marketing work more professional by using strong structure, clean visuals, and clear explanations.
-
-:::
-
----
-
-[← Back to Portfolio](index.qmd){.btn .btn-outline-primary}
