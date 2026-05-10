@@ -1,5 +1,6 @@
 ---
-title: "Featured Work"
+title: "Revealjs Presentation"
+subtitle: "Digital Marketing Presentation Created with Quarto"
 format:
   html:
     theme: cosmo
@@ -7,32 +8,74 @@ format:
     toc-depth: 3
     toc-location: right
     embed-resources: true
+    page-layout: full
 ---
 
-# Featured Work
+## Overview
 
-This page highlights selected digital work that shows my ability to present marketing ideas in a clear, organized, and professional format.
+This page showcases my Revealjs presentation created with Quarto. The purpose of this section is to demonstrate my ability to organize marketing ideas, communicate findings, and present information in a polished digital format.
 
-[← Back to Portfolio](index.qmd){.btn .btn-outline-primary}
+Revealjs presentations are useful because they combine professional presentation design with technical website publishing skills.
 
 ---
 
-## Digital Marketing Presentation
+## Presentation Focus
 
-::: {.project-showcase}
+My presentation highlights digital marketing ideas, campaign communication, and professional storytelling. It shows how marketing information can be organized into a clean slide format for an audience.
 
-### Overview
+---
 
-This project showcases a web-based marketing presentation created with Quarto and Revealjs. It demonstrates my ability to organize marketing ideas, communicate project findings, and present work in a polished digital format.
+## Skills Demonstrated
 
-### Skills Used
+::: {.grid}
 
-Marketing communication · Digital storytelling · Presentation design · Quarto · Revealjs · HTML · CSS
+::: {.g-col-12 .g-col-md-4}
+### Technical Skills
+- Quarto
+- Revealjs
+- HTML output
+- GitHub Pages
+- Website publishing
+:::
 
-### Key Takeaway
+::: {.g-col-12 .g-col-md-4}
+### Marketing Skills
+- Campaign communication
+- Audience-focused messaging
+- Brand strategy
+- Digital storytelling
+- Presentation planning
+:::
 
-This project helped me practice turning marketing information into a professional digital presentation that can be shared online.
-
-[View Presentation](<Revealjs Presentation.html>){.btn .btn-primary}
+::: {.g-col-12 .g-col-md-4}
+### Professional Skills
+- Organization
+- Clear writing
+- Visual presentation
+- Project communication
+- Digital portfolio design
+:::
 
 :::
+
+---
+
+## Why This Matters
+
+This presentation page supports my portfolio by showing that I can create more than a basic website. It demonstrates that I can use Quarto to build a professional presentation and connect it to a larger digital portfolio.
+
+This is important for marketing because presentations are often used to explain campaign ideas, summarize data, and communicate strategy to clients, managers, or team members.
+
+---
+
+## View My Revealjs Presentation
+
+Click the button below to open the full Revealjs presentation.
+
+[Open Revealjs Presentation](Revealjs-Presentation.html){.btn .btn-primary}
+
+---
+
+## Key Takeaway
+
+This project helped me practice turning marketing information into a professional presentation that can be shared online. It also shows my ability to use technical tools to create polished marketing deliverables.
