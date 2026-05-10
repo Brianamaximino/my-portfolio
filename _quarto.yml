@@ -4,24 +4,20 @@ project:
 
 website:
   title: "Briana Maximino"
-  site-url: "https://brianamaximino.github.io/my-portfolio/"
-  description: "Marketing portfolio for Briana Maximino, showcasing brand strategy, sports marketing, analytics, dashboards, and digital marketing projects."
   navbar:
-    background: light
-    pinned: true
     left:
-      - text: "Home"
-        href: index.qmd
-      - text: "Marketing Projects"
-        href: projects.qmd
-      - text: "Dashboard"
-        href: dashboard.qmd
-      - text: "Presentation"
-        href: presentation.qmd
-      - text: "Google Analytics"
-        href: analytics.qmd
-      - text: "Resume"
-        href: resume.qmd
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: dashboard.qmd
+        text: Dashboard
+      - href: presentation.qmd
+        text: Presentation
+      - href: analytics.qmd
+        text: Analytics
+      - href: resume.qmd
+        text: Resume
 
 format:
   html:

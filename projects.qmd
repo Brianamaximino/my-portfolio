@@ -1,49 +1,86 @@
 ---
-title: "Marketing Strategy & Campaign Portfolio"
+title: ""
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    embed-resources: true
 ---
 
-## Featured Campaign Strategy
+# Marketing Projects
 
-### LA Galaxy Fan Engagement Strategy
-
-A strategic campaign concept focused on strengthening Gen Z fan loyalty through experiential 
-engagement, digital storytelling, and insight-driven marketing initiatives.
-
-This project demonstrates applied sports marketing strategy and brand positioning development.
-
-<a href="lagalaxy.html" class="primary-link">View Full Case Study →</a>
-
----
-
-## Strategic Marketing Analyses
-
-<div class="strategy-grid">
-
-<div class="strategy-card">
-<div class="strategy-tag">Corporate Strategy</div>
-<h3>Tesla Corporate Strategy Analysis</h3>
-<p>Sustainability positioning, leadership influence, and competitive strategy evaluation.</p>
-<a href="tesla.html" class="secondary-link">View Analysis →</a>
-</div>
+This page highlights selected marketing projects that show my experience with campaign strategy, brand positioning, audience research, analytics, and professional presentation design.
 
 ---
 
-<div class="strategy-card">
-<div class="strategy-tag">Organizational Strategy</div>
-<h3>Google Organizational Behavior Analysis</h3>
-<p>Innovation culture, motivation systems, and organizational performance analysis.</p>
-<a href="google.html" class="secondary-link">View Analysis →</a>
-</div>
+## Super Soakerz Marketing Campaign
+
+::: {.project-showcase}
+
+### Overview
+
+Super Soakerz was a student-led car window washing business created for a marketing course at Cal Poly Pomona. The project focused on building a service brand, promoting it on campus, and connecting with commuter students.
+
+### My Role
+
+I helped develop the campaign strategy, target market, brand messaging, and promotion ideas. The project helped me practice turning a simple service idea into a clear marketing campaign.
+
+### Skills Used
+
+Marketing strategy · Target market analysis · Brand positioning · Campaign planning · Campus promotion · Customer engagement
+
+### Key Takeaway
+
+This project showed me how important it is to understand the audience before creating a campaign. For commuter students, the strongest message was convenience, affordability, and quick service.
+
+:::
 
 ---
 
-<div class="strategy-card">
-<div class="strategy-tag">Brand Strategy</div>
-<h3>Super Soaker Brand Strategy</h3>
-<p>Consumer insight-driven brand positioning and experiential marketing concept.</p>
-<a href="supersoakerz.html" class="secondary-link">View Analysis →</a>
-</div>
+## LA Galaxy Campaign
 
+::: {.project-showcase}
+
+### Overview
+
+This project focused on creating a sports marketing campaign connected to the LA Galaxy brand. The goal was to think about fan engagement, audience connection, and campaign messaging.
+
+### My Role
+
+I worked on campaign ideas that focused on how to connect with fans through branding, social media, and event-style promotion.
+
+### Skills Used
+
+Sports marketing · Fan engagement · Campaign messaging · Social media strategy · Brand awareness
+
+### Key Takeaway
+
+This project helped me see how sports marketing is not only about promoting a team, but also about building emotional connection with fans.
+
+:::
 
 ---
-</div>
+
+## Marketing Analytics Dashboard
+
+::: {.project-showcase}
+
+### Overview
+
+This dashboard project shows how marketing data can be organized and explained visually. It focuses on turning numbers into clear insights that can support marketing decisions.
+
+### My Role
+
+I worked on organizing data, creating visuals, and explaining what the results meant in a marketing context.
+
+### Skills Used
+
+Marketing analytics · Data visualization · R · Quarto · ggplot2 · Excel · Insight communication
+
+### Key Takeaway
+
+This project helped me understand how data can support marketing strategy by showing patterns, trends, and customer-related insights.
+
+:::

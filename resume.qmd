@@ -1,127 +1,101 @@
 ---
-title: "Resume"
-format: 
+title: ""
+format:
   html:
-    toc: false
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-location: right
     embed-resources: true
 ---
 
-<div class="resume-header">
-  <p class="resume-summary">
-    Marketing student at Cal Poly Pomona with experience in campaign planning, market research,
-    analytics, customer engagement, and outreach strategy. Interested in sports marketing,
-    brand strategy, and data-driven marketing roles.
-  </p>
+# Resume
 
-  [View Full Resume](Maximino,%20Briana%20_%20Resume.pdf){.resume-btn target="_blank"}
-</div>
+::: {.resume-header}
+## Briana Maximino
 
-::: {.resume-section}
+Los Angeles, CA  
+[LinkedIn](https://www.linkedin.com/in/brianamaximino)  
+Email: brianamaximino1@gmail.com
+:::
+
+---
+
+## Professional Summary
+
+Business Administration student concentrating in Marketing Management at Cal Poly Pomona. Interested in sports marketing, brand strategy, campaign planning, social media strategy, and marketing analytics. Skilled in creating marketing projects, analyzing consumer insights, and presenting work through professional digital formats.
+
+---
+
 ## Education
 
-::: {.resume-entry}
+::: {.resume-card}
 ### California State Polytechnic University, Pomona
-**Bachelor of Science, Business Administration – Marketing**  
-Expected December 2026  
 
-Dean’s List, Spring 2025
-:::
+**Bachelor of Science in Business Administration**  
+Concentration: Marketing Management  
+
+Relevant coursework includes marketing research, consumer behavior, promotional strategy, digital marketing, business analytics, and brand strategy.
 :::
 
-::: {.resume-section}
+---
+
 ## Experience
 
-::: {.resume-entry}
-### Project Dolphin
-**Marketing Strategist**  
-*Pomona, CA | March 2026 – Present*
+::: {.resume-card}
+### Sales Associate  
+**GAP / GAP Factory**
 
-- Develop marketing concepts and campaign ideas for an early-stage project.
-- Analyze competitors to identify market positioning and growth opportunities.
-- Organize and track potential leads to support outreach efforts.
-- Collaborate with team members to strengthen branding and messaging strategies.
-- Support outreach planning and audience targeting initiatives.
+- Assisted customers with product questions, sizing, and store promotions.
+- Supported daily store operations, cashier backup, and sales floor organization.
+- Helped create a positive customer experience through communication and problem solving.
+- Maintained product displays and supported brand presentation standards.
 :::
 
-::: {.resume-entry}
-### GAP Factory
-**Sales Associate / Customer Service**  
-*Los Angeles, CA | October 2024 – Present*
+::: {.resume-card}
+### Temporary Tutor
 
-- Deliver personalized customer experiences to 40+ shoppers per shift.
-- Support in-store promotional campaigns and visual merchandising strategies.
-- Observe consumer trends and customer feedback to improve customer engagement.
-- Process transactions accurately while maintaining strong service and brand standards.
-- Assist with sales floor recovery and product placement to improve the shopping experience.
+- Helped students understand class material and complete assignments.
+- Explained concepts in a simple and clear way.
+- Supported student learning through patience, organization, and communication.
 :::
 
-::: {.resume-entry}
-### Dollar Tree
-**Cashier / Stock Associate**  
-*Los Angeles, CA | September 2023 – February 2024*
+---
 
-- Managed high-volume transactions in a fast-paced retail environment.
-- Supported merchandising and promotional display setup aligned with brand standards.
-- Helped identify service bottlenecks and reduce average wait times.
+## Projects
+
+::: {.resume-card}
+### Super Soakerz Marketing Campaign
+
+Created a student-led service campaign focused on target market analysis, brand positioning, campus promotion, and customer engagement.
 :::
 
-::: {.resume-entry}
-### Student2Student Program
-**Peer Tutor & Student Mentor**  
-*Los Angeles, CA | September 2022 – July 2023*
+::: {.resume-card}
+### LA Galaxy Campaign
 
-- Promoted a positive and supportive environment for student growth.
-- Strengthened math and reading instruction and reinforced lesson objectives.
-- Delivered one-on-one and small-group tutoring for elementary and middle school students.
-:::
+Developed a sports marketing campaign concept focused on fan engagement, brand awareness, social media strategy, and audience connection.
 :::
 
-::: {.resume-section}
-## Notable Project
+::: {.resume-card}
+### Marketing Analytics Dashboard
 
-::: {.resume-entry}
-### Marketing Campaign & Analytics Projects
-**Cal Poly Pomona**  
-*August 2025 – December 2025*
-
-- Developed and executed a student-led marketing campaign for **Super Soakerz**.
-- Conducted consumer research, pricing strategy, and promotional planning.
-- Analyzed engagement and campaign performance using Google Analytics.
-- Created dashboards and presented data-driven insights to support marketing recommendations.
-- Conducted competitive analysis and market segmentation to improve campaign positioning.
-:::
+Built a dashboard-style page using Quarto and data visualization to explain marketing insights clearly.
 :::
 
-::: {.resume-grid}
-::: {.resume-box}
-## Leadership & Activities
+---
 
-- Latino Business Student Association (LBSA), Member
-- Girls Soccer Team, John C. Fremont HS
-- Just Keep Livin (JKL) Program Participant
-:::
-
-::: {.resume-box}
 ## Skills
 
-- Market Research  
-- Consumer Insights  
-- Digital Campaign Support  
-- Content Marketing  
-- Excel (PivotTables)  
-- Google Analytics 4  
-- Power BI  
-- Canva  
-- Bilingual: English & Spanish
+::: {.skills-box}
+Marketing Strategy · Brand Positioning · Campaign Planning · Consumer Insights · Sports Marketing · Social Media Strategy · Market Research · Customer Service · R · Quarto · ggplot2 · Excel · Google Analytics · GitHub Pages
 :::
 
-::: {.resume-box}
-## Certifications
+::: {.resume-download}
+## Briana Maximino
 
-- Google Analytics 4 (GA4) Certification  
-- Power BI Essential Training  
-- Excel: PivotTables in Depth  
-- Project Management Foundations
-:::
-:::
+Los Angeles, CA  
+[LinkedIn](https://www.linkedin.com/in/brianamaximino)  
+Email: brianamaximino1@gmail.com  
 
+[Download Resume PDF](briana-maximino-resume.pdf){.btn .btn-primary}
+:::

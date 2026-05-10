@@ -1,42 +1,58 @@
 ---
-title: "Home"
+title: ""
 format:
   html:
+    theme: cosmo
     toc: false
+    page-layout: full
     embed-resources: true
 ---
 
-<div class="hero-section">
-
-<div class="hero-text">
-
+::: {.hero-section}
 # Briana Maximino
 
-## Marketing Portfolio
+### Marketing Portfolio
 
-Business Administration student at Cal Poly Pomona with a concentration in Marketing Management. This portfolio highlights my work in marketing strategy, sports marketing, brand engagement, analytics, dashboards, and campaign presentations.
+Business Administration student at Cal Poly Pomona concentrating in Marketing Management. I am focused on marketing strategy, sports marketing, brand engagement, analytics, and campaign storytelling.
 
-I am interested in building marketing campaigns that connect with real audiences through clear strategy, strong storytelling, and data-driven insights.
+I use this portfolio to showcase my marketing projects, technical skills, and professional growth as I prepare for internship and entry-level marketing opportunities.
 
-<div class="hero-buttons">
-<a href="projects.html" class="button-primary">View Projects</a>
-<a href="resume.html" class="button-secondary">View Resume</a>
-</div>
+[View Projects](projects.qmd){.btn .btn-primary}
+[View Resume](resume.qmd){.btn .btn-outline-primary}
+[LinkedIn](https://www.linkedin.com/in/brianamaximino){.btn .btn-outline-primary}
+:::
 
-</div>
+---
 
-<div class="hero-card">
+## What I Do
 
-### Portfolio Snapshot
+::: {.card-grid}
 
-**Focus:** Marketing Strategy, Sports Marketing, Brand Engagement  
-**Tools:** Quarto, R, Excel, Google Analytics, Canva  
-**Career Interest:** Sports Marketing, Brand Strategy, Marketing Analytics  
-**Education:** Cal Poly Pomona, Business Administration — Marketing Management  
+::: {.portfolio-card}
+### Marketing Strategy
 
-</div>
+I create campaign ideas by identifying target audiences, brand positioning, messaging, and customer needs.
 
-</div>
+[View Projects →](projects.qmd)
+:::
+
+::: {.portfolio-card}
+### Sports Marketing
+
+I am interested in fan engagement, brand partnerships, social media strategy, and sports-related campaign planning.
+
+[View LA Galaxy Campaign →](projects.qmd)
+:::
+
+::: {.portfolio-card}
+### Marketing Analytics
+
+I use tools like R, Quarto, Excel, and Google Analytics to organize data, create visuals, and explain marketing insights.
+
+[View Dashboard →](dashboard.qmd)
+:::
+
+:::
 
 ---
 
@@ -44,66 +60,53 @@ I am interested in building marketing campaigns that connect with real audiences
 
 I am a marketing student focused on learning how brands connect with consumers through strategy, research, content, and data. My coursework and projects have helped me build experience in campaign planning, consumer insights, marketing analytics, and professional presentation design.
 
-My goal is to pursue opportunities in marketing, especially in sports marketing, brand strategy, and data-driven marketing roles. I am continuing to build my technical and creative skills through portfolio projects, analytics work, and real-world marketing experience.
+My goal is to grow into a marketing role where I can combine creativity, strategy, and analytics. I am especially interested in sports marketing, brand strategy, social media strategy, and campaign performance measurement.
 
 ---
 
-## Featured Skills
+## Selected Work
 
-<div class="skills-grid">
+::: {.card-grid}
 
-<div class="skill-card">
-<h3>Marketing Strategy</h3>
-<p>Developing campaign ideas, identifying target audiences, and creating positioning strategies for brands and projects.</p>
-</div>
+::: {.portfolio-card}
+### Super Soakerz Marketing Campaign
 
-<div class="skill-card">
-<h3>Brand Engagement</h3>
-<p>Understanding how brands communicate with audiences through content, messaging, and customer experience.</p>
-</div>
+Student-led campus service project focused on promotion, customer engagement, pricing, and campaign execution.
 
-<div class="skill-card">
-<h3>Marketing Analytics</h3>
-<p>Using data, dashboards, and visualizations to better understand performance, trends, and consumer behavior.</p>
-</div>
+[View Project →](projects.qmd)
+:::
 
-<div class="skill-card">
-<h3>Professional Communication</h3>
-<p>Creating clear presentations, written reports, and portfolio materials for academic and professional settings.</p>
-</div>
+::: {.portfolio-card}
+### LA Galaxy Campaign
 
-</div>
+Sports marketing project focused on fan engagement, campaign messaging, and audience connection.
 
----
+[View Project →](projects.qmd)
+:::
 
-## Featured Projects
+::: {.portfolio-card}
+### Marketing Analytics Dashboard
 
-<div class="project-grid">
+Dashboard page showcasing data visualization, key metrics, and marketing performance insights.
 
-<div class="project-card">
-<h3>Super Soakerz Marketing Campaign</h3>
-<p>A student-led campus service project focused on promotion, customer engagement, pricing, and campaign execution.</p>
-<a href="supersoakerz.html">View Project →</a>
-</div>
+[View Dashboard →](dashboard.qmd)
+:::
 
-<div class="project-card">
-<h3>LA Galaxy Campaign</h3>
-<p>A sports marketing project focused on fan engagement, campaign messaging, and audience connection.</p>
-<a href="lagalaxy.html">View Project →</a>
-</div>
-
-<div class="project-card">
-<h3>Marketing Analytics Dashboard</h3>
-<p>A dashboard page showcasing data visualization, key metrics, and marketing performance insights.</p>
-<a href="dashboard.html">View Dashboard →</a>
-</div>
-
-</div>
+:::
 
 ---
 
-## Career Objective
+## Skills
 
-My career goal is to grow into a marketing role where I can combine creativity, strategy, and analytics. I am especially interested in sports marketing, brand partnerships, social media strategy, and campaign performance measurement.
+::: {.skills-box}
+Marketing Strategy · Brand Positioning · Campaign Planning · Consumer Insights · Sports Marketing · Social Media Strategy · Market Research · R · Quarto · ggplot2 · Excel · Google Analytics · GitHub Pages
+:::
 
-This portfolio was created to showcase my marketing projects, technical skills, and professional growth as I prepare for internship and entry-level marketing opportunities.
+---
+
+## Let’s Connect
+
+I am looking to keep building experience in marketing, especially in sports marketing, brand strategy, campaign planning, and marketing analytics.
+
+[View Resume](resume.qmd){.btn .btn-primary}
+[Connect on LinkedIn](https://www.linkedin.com/in/brianamaximino){.btn .btn-outline-primary}
