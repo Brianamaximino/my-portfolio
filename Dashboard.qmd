@@ -9,7 +9,7 @@ format:
     embed-resources: true
 ---
 
-# Marketing Analytics Dashboard
+# Marketing Analytics 
 
 This page showcases my ability to organize marketing-related data, create visuals, and explain insights in a way that supports business and marketing decisions.
 
