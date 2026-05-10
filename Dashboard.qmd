@@ -1,188 +1,85 @@
 ---
-title: "Marketing Analytics Dashboard"
+title: ""
 format:
   html:
+    theme: cosmo
     toc: true
+    toc-depth: 3
     toc-location: right
     embed-resources: true
-execute:
-  echo: false
-  message: false
-  warning: false
+---
+
+# Marketing Analytics Dashboard
+
+This page showcases my ability to organize marketing-related data, create visuals, and explain insights in a way that supports business and marketing decisions.
+
 ---
 
 ## Dashboard Overview
 
-This dashboard highlights selected marketing performance metrics from my portfolio projects. The goal is to show how marketing data can be organized, visualized, and used to understand campaign performance.
+::: {.project-showcase}
 
-The dashboard focuses on customer response, revenue, profit, and project-level marketing insights.
+### Purpose
 
----
+The purpose of this dashboard is to turn marketing data into clear insights. Instead of only showing numbers, the dashboard helps explain patterns, trends, and possible recommendations.
 
-## Key Performance Metrics
+### Tools Used
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
+R · Quarto · ggplot2 · Excel · Google Analytics 4 · Data Visualization
 
-library(ggplot2)
-library(dplyr)
-library(knitr)
+### Skills Demonstrated
 
-kpi_data <- data.frame(
-  Metric = c(
-    "Super Soakerz Customers",
-    "Super Soakerz Revenue",
-    "Super Soakerz Profit",
-    "Portfolio Projects",
-    "Main Career Focus"
-  ),
-  Result = c(
-    "18 customers",
-    "$63.00",
-    "$49.50",
-    "4 featured projects",
-    "Marketing Strategy"
-  )
-)
+Marketing analytics · Data cleaning · Visual storytelling · Consumer insights · Performance tracking · Insight communication
 
-kable(
-  kpi_data,
-  col.names = c("Metric", "Result"),
-  align = "c"
-)
-```
+:::
 
 ---
 
-## Project Summary
+## Key Marketing Metrics
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
+::: {.card-grid}
 
-project_summary <- data.frame(
-  Project = c(
-    "Super Soakerz",
-    "LA Galaxy Campaign",
-    "Tesla Strategy Analysis",
-    "Google Organizational Analysis"
-  ),
-  Focus = c(
-    "Campus service marketing",
-    "Sports marketing and fan engagement",
-    "Brand strategy and sustainability",
-    "Company culture and leadership"
-  ),
-  Skills = c(
-    "Promotion, pricing, customer outreach",
-    "Audience targeting, campaign strategy",
-    "Positioning, corporate strategy",
-    "Research, communication, analysis"
-  )
-)
+::: {.portfolio-card}
+### Audience Engagement
 
-kable(
-  project_summary,
-  col.names = c("Project", "Marketing Focus", "Skills Demonstrated"),
-  align = "l"
-)
-```
+Tracks how users interact with marketing content, campaigns, or website pages.
+
+:::
+
+::: {.portfolio-card}
+### Campaign Performance
+
+Shows how marketing efforts perform based on engagement, reach, traffic, or other results.
+
+:::
+
+::: {.portfolio-card}
+### Customer Insights
+
+Uses data to better understand audience behavior, preferences, and trends.
+
+:::
+
+:::
 
 ---
 
-## Super Soakerz Financial Results
+## Example Insight
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
+::: {.project-showcase}
 
-financials <- data.frame(
-  Category = c("Revenue", "Estimated Profit"),
-  Amount = c(63.00, 49.50)
-)
+Marketing analytics helps connect creative decisions with measurable results. By reviewing data, marketers can better understand what is working, what needs improvement, and how to make stronger campaign decisions.
 
-ggplot(financials, aes(x = Category, y = Amount)) +
-  geom_col(width = 0.6) +
-  labs(
-    title = "Super Soakerz Revenue and Estimated Profit",
-    subtitle = "Financial results from the student-led marketing campaign",
-    x = "",
-    y = "Amount ($)"
-  ) +
-  theme_minimal(base_size = 13)
-```
+For example, if a campaign receives strong traffic but low engagement, the issue may be the message, call-to-action, or audience targeting. A dashboard makes it easier to identify these issues and explain them clearly.
+
+:::
 
 ---
 
-## Customer Response
+## What I Learned
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
+::: {.project-showcase}
 
-customer_data <- data.frame(
-  Metric = c("Customers Served"),
-  Count = c(18)
-)
+This dashboard helped me practice using data to support marketing strategy. I learned that strong marketing is not only about creative ideas, but also about measuring results and using insights to improve future decisions.
 
-ggplot(customer_data, aes(x = Metric, y = Count)) +
-  geom_col(width = 0.5) +
-  labs(
-    title = "Customer Response",
-    subtitle = "Total customers served during the Super Soakerz campaign",
-    x = "",
-    y = "Number of Customers"
-  ) +
-  theme_minimal(base_size = 13)
-```
-
----
-
-## Marketing Skills Breakdown
-
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
-
-skills <- data.frame(
-  Skill = c(
-    "Marketing Strategy",
-    "Brand Engagement",
-    "Customer Outreach",
-    "Data Visualization",
-    "Professional Presentation"
-  ),
-  Level = c(5, 4, 4, 4, 4)
-)
-
-ggplot(skills, aes(x = reorder(Skill, Level), y = Level)) +
-  geom_col(width = 0.6) +
-  coord_flip() +
-  labs(
-    title = "Marketing Skills Demonstrated",
-    subtitle = "Skills reflected across portfolio projects",
-    x = "",
-    y = "Skill Strength"
-  ) +
-  theme_minimal(base_size = 13)
-```
-
----
-
-## Dashboard Insights
-
-The dashboard shows that my strongest portfolio areas are marketing strategy, campaign planning, customer outreach, and brand engagement. The Super Soakerz project provides a real example of applying marketing concepts to a small service-based campaign, while the LA Galaxy project connects directly to my interest in sports marketing.
-
-Together, these projects show my ability to combine marketing strategy, audience understanding, data visualization, and professional communication.
-
----
-
-## Key Takeaway
-
-This dashboard demonstrates my ability to organize marketing project results, present key metrics clearly, and use visuals to communicate campaign performance. It supports my career interests in sports marketing, brand strategy, and data-driven marketing.
+:::

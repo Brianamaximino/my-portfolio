@@ -97,5 +97,5 @@ Los Angeles, CA
 [LinkedIn](https://www.linkedin.com/in/brianamaximino)  
 Email: brianamaximino1@gmail.com  
 
-[Download Resume PDF](briana-maximino-resume.pdf){.btn .btn-primary}
+[Download Resume PDF](files/briana-maximino-resume.pdf){.btn .btn-primary}
 :::
