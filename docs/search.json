@@ -499,43 +499,64 @@
   {
     "objectID": "analytics.html",
     "href": "analytics.html",
-    "title": "Google Analytics",
+    "title": "Marketing Analytics",
     "section": "",
-    "text": "This page highlights my understanding of Google Analytics and how it connects to digital marketing strategy.\nGoogle Analytics helps marketers understand how users find, visit, and interact with websites. It can be used to measure traffic, engagement, conversions, and audience behavior.\n\n\n\nGoogle Analytics is important because it helps marketers make decisions based on data instead of guessing. It can show which pages are getting attention, where visitors are coming from, and what content is helping reach marketing goals.\n\n\n\n\n\nUnderstanding website traffic\n\nMeasuring user engagement\n\nIdentifying audience behavior\n\nEvaluating campaign performance\n\nConnecting data to marketing strategy\n\n\n\n\n\n\n\n\nTerm\nMeaning\n\n\n\n\nUsers\nPeople who visit the website\n\n\nSessions\nVisits to the website\n\n\nEngagement Rate\nHow often users interact with the site\n\n\nTraffic Source\nWhere visitors came from\n\n\nConversions\nImportant actions users complete\n\n\n\n\n\n\n\nFor my portfolio, Google Analytics connects to the goal of understanding how visitors interact with my website. This can help me improve the site, strengthen my personal brand, and make the portfolio more useful for future employers.\n\n\n\n\nLearning Google Analytics helps me connect marketing strategy with measurable results. It also shows that I can think beyond creative ideas and understand how performance is tracked."
+    "text": "This page highlights my work in marketing analytics, data visualization, and data-driven decision-making. Marketing analytics is important because it helps marketers understand customer behavior, measure performance, and improve future strategies.\nMy analytics work shows my ability to organize data, create visuals, interpret results, and communicate insights in a clear way."
   },
   {
-    "objectID": "analytics.html#why-google-analytics-matters",
-    "href": "analytics.html#why-google-analytics-matters",
-    "title": "Google Analytics",
+    "objectID": "analytics.html#overview",
+    "href": "analytics.html#overview",
+    "title": "Marketing Analytics",
     "section": "",
-    "text": "Google Analytics is important because it helps marketers make decisions based on data instead of guessing. It can show which pages are getting attention, where visitors are coming from, and what content is helping reach marketing goals."
+    "text": "This page highlights my work in marketing analytics, data visualization, and data-driven decision-making. Marketing analytics is important because it helps marketers understand customer behavior, measure performance, and improve future strategies.\nMy analytics work shows my ability to organize data, create visuals, interpret results, and communicate insights in a clear way."
+  },
+  {
+    "objectID": "analytics.html#what-marketing-analytics-means-to-me",
+    "href": "analytics.html#what-marketing-analytics-means-to-me",
+    "title": "Marketing Analytics",
+    "section": "What Marketing Analytics Means to Me",
+    "text": "What Marketing Analytics Means to Me\nMarketing analytics connects creativity with data. Instead of making decisions only based on opinion, marketers can use data to better understand what audiences want, how campaigns perform, and where improvements can be made.\nThis connects to my career interests because I want to work in marketing roles that combine brand strategy, digital marketing, and performance measurement."
   },
   {
     "objectID": "analytics.html#skills-demonstrated",
     "href": "analytics.html#skills-demonstrated",
-    "title": "Google Analytics",
-    "section": "",
-    "text": "Understanding website traffic\n\nMeasuring user engagement\n\nIdentifying audience behavior\n\nEvaluating campaign performance\n\nConnecting data to marketing strategy"
+    "title": "Marketing Analytics",
+    "section": "Skills Demonstrated",
+    "text": "Skills Demonstrated\n\n\nData Analysis\n\nCleaning data\nOrganizing variables\nComparing groups\nFinding trends\nInterpreting results\n\n\n\nVisualization\n\nCharts and graphs\nDashboards\nTables\nTrend lines\nClear labels\n\n\n\nMarketing Insights\n\nAudience behavior\nCampaign performance\nCustomer needs\nEngagement patterns\nData-driven decisions"
   },
   {
-    "objectID": "analytics.html#key-analytics-terms",
-    "href": "analytics.html#key-analytics-terms",
-    "title": "Google Analytics",
-    "section": "",
-    "text": "Term\nMeaning\n\n\n\n\nUsers\nPeople who visit the website\n\n\nSessions\nVisits to the website\n\n\nEngagement Rate\nHow often users interact with the site\n\n\nTraffic Source\nWhere visitors came from\n\n\nConversions\nImportant actions users complete"
+    "objectID": "analytics.html#tools-used",
+    "href": "analytics.html#tools-used",
+    "title": "Marketing Analytics",
+    "section": "Tools Used",
+    "text": "Tools Used\n\n\n\nTool\nHow I Use It\n\n\n\n\nR\nData cleaning, summaries, charts, and analysis\n\n\nExcel\nOrganizing data, creating tables, and reviewing metrics\n\n\nQuarto\nCreating professional reports and publishing work online\n\n\nGoogle Analytics\nTracking website activity and visitor behavior\n\n\nGitHub Pages\nPublishing my portfolio and analytics work"
   },
   {
-    "objectID": "analytics.html#portfolio-connection",
-    "href": "analytics.html#portfolio-connection",
-    "title": "Google Analytics",
-    "section": "",
-    "text": "For my portfolio, Google Analytics connects to the goal of understanding how visitors interact with my website. This can help me improve the site, strengthen my personal brand, and make the portfolio more useful for future employers."
+    "objectID": "analytics.html#featured-analytics-work",
+    "href": "analytics.html#featured-analytics-work",
+    "title": "Marketing Analytics",
+    "section": "Featured Analytics Work",
+    "text": "Featured Analytics Work\n\nCustomer and Audience Insights\nOne focus of my analytics work is understanding how people respond to marketing efforts. This includes looking at behavior, preferences, engagement, and patterns that can help improve marketing decisions.\n\n\nData Visualization\nData visualization helps make information easier to understand. Instead of only showing raw numbers, charts and dashboards can communicate trends, comparisons, and key takeaways more clearly.\n\n\nPerformance Tracking\nPerformance tracking is useful because it helps marketers understand whether a campaign, website, or strategy is working. Metrics such as page views, engagement, and conversions can help guide future decisions."
   },
   {
-    "objectID": "analytics.html#reflection",
-    "href": "analytics.html#reflection",
-    "title": "Google Analytics",
-    "section": "",
-    "text": "Learning Google Analytics helps me connect marketing strategy with measurable results. It also shows that I can think beyond creative ideas and understand how performance is tracked."
+    "objectID": "analytics.html#example-insight-process",
+    "href": "analytics.html#example-insight-process",
+    "title": "Marketing Analytics",
+    "section": "Example Insight Process",
+    "text": "Example Insight Process\nA strong marketing analytics process usually includes:\n\nIdentifying the marketing question\nCollecting or organizing the data\nCleaning the data\nCreating charts or summaries\nInterpreting the results\nTurning the results into recommendations\n\nThis process helps marketers move from data to action."
+  },
+  {
+    "objectID": "analytics.html#connection-to-my-portfolio-website",
+    "href": "analytics.html#connection-to-my-portfolio-website",
+    "title": "Marketing Analytics",
+    "section": "Connection to My Portfolio Website",
+    "text": "Connection to My Portfolio Website\nThis portfolio itself is part of my analytics learning. By connecting it to Google Analytics, I can track how visitors interact with my website and use that information to improve the design, content, and navigation.\nFor example, if one project page receives more attention, that may show which type of work is most interesting to visitors. If users leave a page quickly, that may mean the page needs stronger content or clearer organization."
+  },
+  {
+    "objectID": "analytics.html#key-takeaway",
+    "href": "analytics.html#key-takeaway",
+    "title": "Marketing Analytics",
+    "section": "Key Takeaway",
+    "text": "Key Takeaway\nMarketing analytics helps turn information into better decisions. This page shows my interest in using data to understand audiences, improve campaigns, and support marketing strategy."
   }
 ]

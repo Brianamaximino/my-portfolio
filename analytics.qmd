@@ -1,50 +1,118 @@
 ---
-title: "Google Analytics"
-description: "Google Analytics page showing digital marketing and analytics knowledge."
+title: "Marketing Analytics"
+subtitle: "Data Analysis | Visualization | Customer Insights | Performance Metrics"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    embed-resources: true
+    page-layout: full
 ---
 
-# Google Analytics
+## Overview
 
-This page highlights my understanding of Google Analytics and how it connects to digital marketing strategy.
+This page highlights my work in marketing analytics, data visualization, and data-driven decision-making. Marketing analytics is important because it helps marketers understand customer behavior, measure performance, and improve future strategies.
 
-Google Analytics helps marketers understand how users find, visit, and interact with websites. It can be used to measure traffic, engagement, conversions, and audience behavior.
+My analytics work shows my ability to organize data, create visuals, interpret results, and communicate insights in a clear way.
 
 ---
 
-## Why Google Analytics Matters
+## What Marketing Analytics Means to Me
 
-Google Analytics is important because it helps marketers make decisions based on data instead of guessing. It can show which pages are getting attention, where visitors are coming from, and what content is helping reach marketing goals.
+Marketing analytics connects creativity with data. Instead of making decisions only based on opinion, marketers can use data to better understand what audiences want, how campaigns perform, and where improvements can be made.
+
+This connects to my career interests because I want to work in marketing roles that combine brand strategy, digital marketing, and performance measurement.
 
 ---
 
 ## Skills Demonstrated
 
-- Understanding website traffic  
-- Measuring user engagement  
-- Identifying audience behavior  
-- Evaluating campaign performance  
-- Connecting data to marketing strategy  
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### Data Analysis
+- Cleaning data
+- Organizing variables
+- Comparing groups
+- Finding trends
+- Interpreting results
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Visualization
+- Charts and graphs
+- Dashboards
+- Tables
+- Trend lines
+- Clear labels
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Marketing Insights
+- Audience behavior
+- Campaign performance
+- Customer needs
+- Engagement patterns
+- Data-driven decisions
+:::
+
+:::
 
 ---
 
-## Key Analytics Terms
+## Tools Used
 
-| Term | Meaning |
+| Tool | How I Use It |
 |---|---|
-| Users | People who visit the website |
-| Sessions | Visits to the website |
-| Engagement Rate | How often users interact with the site |
-| Traffic Source | Where visitors came from |
-| Conversions | Important actions users complete |
+| R | Data cleaning, summaries, charts, and analysis |
+| Excel | Organizing data, creating tables, and reviewing metrics |
+| Quarto | Creating professional reports and publishing work online |
+| Google Analytics | Tracking website activity and visitor behavior |
+| GitHub Pages | Publishing my portfolio and analytics work |
 
 ---
 
-## Portfolio Connection
+## Featured Analytics Work
 
-For my portfolio, Google Analytics connects to the goal of understanding how visitors interact with my website. This can help me improve the site, strengthen my personal brand, and make the portfolio more useful for future employers.
+### Customer and Audience Insights
+
+One focus of my analytics work is understanding how people respond to marketing efforts. This includes looking at behavior, preferences, engagement, and patterns that can help improve marketing decisions.
+
+### Data Visualization
+
+Data visualization helps make information easier to understand. Instead of only showing raw numbers, charts and dashboards can communicate trends, comparisons, and key takeaways more clearly.
+
+### Performance Tracking
+
+Performance tracking is useful because it helps marketers understand whether a campaign, website, or strategy is working. Metrics such as page views, engagement, and conversions can help guide future decisions.
 
 ---
 
-## Reflection
+## Example Insight Process
 
-Learning Google Analytics helps me connect marketing strategy with measurable results. It also shows that I can think beyond creative ideas and understand how performance is tracked.
+A strong marketing analytics process usually includes:
+
+1. Identifying the marketing question
+2. Collecting or organizing the data
+3. Cleaning the data
+4. Creating charts or summaries
+5. Interpreting the results
+6. Turning the results into recommendations
+
+This process helps marketers move from data to action.
+
+---
+
+## Connection to My Portfolio Website
+
+This portfolio itself is part of my analytics learning. By connecting it to Google Analytics, I can track how visitors interact with my website and use that information to improve the design, content, and navigation.
+
+For example, if one project page receives more attention, that may show which type of work is most interesting to visitors. If users leave a page quickly, that may mean the page needs stronger content or clearer organization.
+
+---
+
+## Key Takeaway
+
+Marketing analytics helps turn information into better decisions. This page shows my interest in using data to understand audiences, improve campaigns, and support marketing strategy.
