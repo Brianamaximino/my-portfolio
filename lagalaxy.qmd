@@ -1,90 +1,123 @@
-## LA Galaxy Fan Engagement Campaign  
+---
+title: "LA Galaxy Mock Campaign"
+subtitle: "Sports Marketing | Fan Engagement | Digital Campaign Strategy"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    embed-resources: true
+    page-layout: full
+---
 
-### Core Insight  
-Gen Z fans view sports as a social identity experience rather than purely entertainment.  
-Their engagement is driven by shareable moments, digital interaction, and community belonging.
+## Project Overview
+
+This LA Galaxy mock campaign was created to showcase my interest in sports marketing, fan engagement, and digital campaign strategy. The project focuses on how a professional sports team can connect with younger audiences and build stronger relationships with fans.
+
+The campaign highlights the importance of creating marketing content that feels exciting, accessible, and connected to the fan experience.
 
 ---
 
-### Campaign Concept  
-**Next Gen Galaxy**  
+## Project Goal
 
-A digital-first engagement strategy designed to strengthen emotional connection between Gen Z audiences and the LA Galaxy brand through immersive fan experiences.
+The goal of this project was to create a sports marketing campaign idea that could increase fan engagement and strengthen brand connection.
 
----
+The campaign focuses on:
 
-## Campaign Moodboard  
-
-The visual direction for this campaign focuses on energetic matchday culture, digital fan interaction, and community-driven sports identity.
-
-Visual themes explored:
-
-- Stadium atmosphere and fan emotion  
-- Digital-first content aesthetics  
-- Youth culture and streetwear influence  
-- Bold typography and motion-driven visuals  
-- Social media storytelling formats  
-
-This moodboard supports the development of immersive brand experiences that resonate with Gen Z audiences.
+- Reaching younger fans
+- Building excitement around game-day experiences
+- Increasing social media engagement
+- Creating relatable digital content
+- Strengthening fan loyalty
 
 ---
 
-### Strategic Focus  
+## Target Audience
 
-- Expand digital matchday engagement  
-- Strengthen brand community identity  
-- Increase experiential value of live events  
-- Build peer-driven brand advocacy  
+The target audience includes young adults, college students, and casual soccer fans who may be interested in attending games, following the team online, or engaging with sports content on social media.
 
----
-
-### Activation Ideas  
-
-**Digital Social Challenge**  
-Interactive matchday challenges encouraging fan-generated content.
-
-**Influencer Matchday Takeovers**  
-Local Gen Z creators documenting real fan experiences.
-
-**Limited Edition Drops**  
-Timed merchandise releases to create urgency and exclusivity.
-
-**In-Stadium Digital Participation**  
-Real-time interactive content moments during matches.
+This audience is important because younger fans often connect with teams through digital content, social media, lifestyle branding, and memorable experiences.
 
 ---
 
-### Audience Persona  
+## Campaign Strategy
 
-**Name:** Jordan, 21  
-**Profile:** College student, highly social media active  
-**Motivation:** Community belonging + entertainment experiences  
-**Behavior:** Engages with sports primarily through digital platforms  
-**Opportunity:** Deliver immersive and shareable brand moments
+The campaign strategy focuses on making the LA Galaxy brand feel more connected to younger fans.
 
----
+Key strategy ideas include:
 
-### Projected Campaign Impact  
-
-- +28% projected increase in Gen Z social engagement  
-- +18% projected growth in matchday interest  
-- +22% improvement in digital brand interaction  
+- Short-form video content for social media
+- Behind-the-scenes player content
+- Student-friendly promotions
+- Game-day experience highlights
+- Fan-centered posts and stories
+- Community-based marketing
 
 ---
 
-### Strategic Takeaway  
-Modern sports marketing success depends on creating participatory experiences that extend beyond live events into digital community spaces. 
+## Brand Message
 
-## Social Media Post Mockup
+The campaign message focuses on energy, community, and fan connection.
 
-### Campaign Visual Concept  
+The main idea is that attending or following LA Galaxy is not only about watching soccer. It is also about being part of a shared experience with other fans.
 
-This mockup represents the visual direction of the proposed Gen Z engagement campaign, emphasizing digital interaction, experiential branding, and community-driven fan experiences.
+---
 
-![](images/la%20galaxy%20post.png){width="500"}
+## Digital Marketing Approach
 
-## Next Project
+Digital marketing would play a major role in this campaign because younger audiences are active on platforms such as Instagram, TikTok, and YouTube Shorts.
 
-<div class="project-nav">
-<a href="tesla.html">Next: Tesla Marketing Strategy →</a>
-</div>
+The campaign would use digital content to:
+
+- Build awareness
+- Encourage game attendance
+- Highlight fan experiences
+- Promote team personality
+- Make the brand feel more relatable
+
+---
+
+## Skills Demonstrated
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### Sports Marketing
+- Fan engagement
+- Game-day promotion
+- Team branding
+- Audience connection
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Digital Marketing
+- Social media planning
+- Short-form content ideas
+- Online engagement
+- Campaign messaging
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Strategy
+- Target audience analysis
+- Brand positioning
+- Campaign planning
+- Creative direction
+:::
+
+:::
+
+---
+
+## Marketing Lessons Learned
+
+This project helped me understand that sports marketing is about more than promoting a team or game. It is about creating an experience that fans want to be part of.
+
+I learned that younger audiences are more likely to connect with a sports brand when the content feels personal, exciting, and easy to share.
+
+---
+
+## Key Takeaway
+
+This project strengthened my interest in sports marketing by helping me practice campaign planning, audience targeting, fan engagement, and digital strategy.
