@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Resume"
+subtitle: "Education | Marketing Experience | Skills | Professional Development"
 format:
   html:
     theme: cosmo
@@ -7,95 +8,126 @@ format:
     toc-depth: 3
     toc-location: right
     embed-resources: true
+    page-layout: full
 ---
 
-# Resume
+## Resume Overview
 
-::: {.resume-header}
-## Briana Maximino
+This page provides a professional overview of my education, skills, experience, and career interests in marketing.
 
-Los Angeles, CA  
-[LinkedIn](https://www.linkedin.com/in/brianamaximino)  
-Email: brianamaximino1@gmail.com
-:::
+I am currently building experience in brand strategy, sports marketing, digital marketing, campaign planning, and marketing analytics.
+
+[Download My Resume](Briana-Maximino-Resume.pdf){.btn .btn-primary}
 
 ---
 
-## Professional Summary
+## Contact Information
 
-Business Administration student concentrating in Marketing Management at Cal Poly Pomona. Interested in sports marketing, brand strategy, campaign planning, social media strategy, and marketing analytics. Skilled in creating marketing projects, analyzing consumer insights, and presenting work through professional digital formats.
+**Briana Maximino**  
+Los Angeles, California  
+**LinkedIn:** [www.linkedin.com/in/brianamaximino](https://www.linkedin.com/in/brianamaximino)  
+**Email:** Add your email here  
 
 ---
 
 ## Education
 
-::: {.resume-card}
-### California State Polytechnic University, Pomona
-
-**Bachelor of Science in Business Administration**  
+**California State Polytechnic University, Pomona**  
+Bachelor of Science in Business Administration  
 Concentration: Marketing Management  
 
-Relevant coursework includes marketing research, consumer behavior, promotional strategy, digital marketing, business analytics, and brand strategy.
+Relevant coursework includes marketing research, consumer behavior, digital marketing, business strategy, marketing analytics, and professional communication.
+
+---
+
+## Career Objective
+
+I am seeking marketing opportunities where I can continue developing skills in sports marketing, brand strategy, campaign planning, digital marketing, and marketing analytics.
+
+My goal is to contribute to marketing teams by combining creativity, audience understanding, and data-driven decision-making.
+
+---
+
+## Skills
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### Marketing Skills
+- Brand strategy
+- Campaign planning
+- Target audience analysis
+- Sports marketing
+- Consumer behavior
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Technical Skills
+- Quarto
+- GitHub Pages
+- Google Analytics
+- Excel
+- R
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Professional Skills
+- Customer service
+- Communication
+- Team collaboration
+- Organization
+- Problem solving
+:::
+
 :::
 
 ---
 
 ## Experience
 
-::: {.resume-card}
-### Sales Associate  
-**GAP / GAP Factory**
+### Sales Associate — GAP / GAP Factory
 
-- Assisted customers with product questions, sizing, and store promotions.
-- Supported daily store operations, cashier backup, and sales floor organization.
-- Helped create a positive customer experience through communication and problem solving.
-- Maintained product displays and supported brand presentation standards.
-:::
+In this role, I gained experience in customer service, retail operations, communication, and teamwork. This experience helped me better understand consumer behavior, customer needs, and how brands create in-store experiences.
 
-::: {.resume-card}
-### Temporary Tutor
+**Skills developed:**
 
-- Helped students understand class material and complete assignments.
-- Explained concepts in a simple and clear way.
-- Supported student learning through patience, organization, and communication.
-:::
+- Assisted customers with product questions and purchases
+- Supported sales floor organization and store presentation
+- Helped create a positive customer experience
+- Worked with team members in a fast-paced retail environment
+- Strengthened communication and problem-solving skills
 
 ---
 
-## Projects
+## Projects and Portfolio Work
 
-::: {.resume-card}
-### Super Soakerz Marketing Campaign
+My portfolio includes marketing projects, analytics work, dashboards, and a Revealjs presentation created with Quarto.
 
-Created a student-led service campaign focused on target market analysis, brand positioning, campus promotion, and customer engagement.
-:::
+These projects demonstrate my ability to:
 
-::: {.resume-card}
-### LA Galaxy Campaign
-
-Developed a sports marketing campaign concept focused on fan engagement, brand awareness, social media strategy, and audience connection.
-:::
-
-::: {.resume-card}
-### Marketing Analytics Dashboard
-
-Built a dashboard-style page using Quarto and data visualization to explain marketing insights clearly.
-:::
+- Create marketing campaign ideas
+- Analyze target audiences
+- Build data visualizations
+- Present findings professionally
+- Use digital tools to publish professional work online
 
 ---
 
-## Skills
+## Professional Interests
 
-::: {.skills-box}
-Marketing Strategy · Brand Positioning · Campaign Planning · Consumer Insights · Sports Marketing · Social Media Strategy · Market Research · Customer Service · R · Quarto · ggplot2 · Excel · Google Analytics · GitHub Pages
-:::
+I am especially interested in marketing roles connected to:
 
-::: {.resume-download}
-## Briana Maximino
+- Sports marketing
+- Brand strategy
+- Social media marketing
+- Digital marketing
+- Marketing analytics
+- Campaign planning
 
-Los Angeles, CA  
-[LinkedIn](https://www.linkedin.com/in/brianamaximino)  
-Email: brianamaximino1@gmail.com  
+---
 
-[Download Resume PDF](files/briana-maximino-resume.pdf){.btn .btn-primary}
-:::
+## Download Resume
+
+Use the button below to download my resume as a PDF.
+
+[Download My Resume](Briana-Maximino-Resume.pdf){.btn .btn-primary}
