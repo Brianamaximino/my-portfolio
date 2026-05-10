@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Marketing Projects"
+subtitle: "Campaign Strategy | Brand Positioning | Sports Marketing | Digital Marketing"
 format:
   html:
     theme: cosmo
@@ -7,80 +8,141 @@ format:
     toc-depth: 3
     toc-location: right
     embed-resources: true
+    page-layout: full
 ---
 
-# Marketing Projects
+## Overview
 
-This page highlights selected marketing projects that show my experience with campaign strategy, brand positioning, audience research, analytics, and professional presentation design.
+This page highlights marketing projects that show my ability to think strategically, understand target audiences, create campaign ideas, and connect marketing decisions to real business goals.
+
+My projects focus on brand strategy, customer needs, digital promotion, sports marketing, and campaign execution. These examples show both creative marketing thinking and professional communication.
+
+---
+
+## Featured Projects
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Super Soakerz Marketing Campaign
+
+Super Soakerz was a student-led car window washing business created for a marketing course at Cal Poly Pomona. The project focused on building a small service brand, promoting it to students, and understanding customer interest on campus.
+
+**Main focus:** student marketing, service branding, pricing, and promotion.
+
+[View Full Project](super-soakerz.html){.btn .btn-primary}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### LA Galaxy Mock Campaign
+
+This project connects to my career interest in sports marketing. The campaign focuses on fan engagement, younger audiences, digital content, and brand connection for a professional sports team.
+
+**Main focus:** sports marketing, fan engagement, social media, and audience targeting.
+
+[View Full Project](la-galaxy.html){.btn .btn-primary}
+:::
+
+:::
 
 ---
 
 ## Super Soakerz Marketing Campaign
 
-::: {.project-showcase}
+### Project Goal
 
-### Overview
+The goal of this project was to create and promote a student-led service business that could attract Cal Poly Pomona students. Our team wanted to offer a simple, affordable, and convenient car window washing service for students who commute to campus.
 
-Super Soakerz was a student-led car window washing business created for a marketing course at Cal Poly Pomona. The project focused on building a service brand, promoting it on campus, and connecting with commuter students.
+### Target Audience
 
-### My Role
+The main target audience was Cal Poly Pomona commuter students, especially students who drive to campus often and may not have time to clean their cars regularly.
 
-I helped develop the campaign strategy, target market, brand messaging, and promotion ideas. The project helped me practice turning a simple service idea into a clear marketing campaign.
+This audience was important because many students balance school, work, and commuting. A quick and affordable service on campus could meet a real need.
+
+### Marketing Strategy
+
+The campaign focused on convenience, affordability, and student-to-student trust. Since the service was created by students, the brand felt relatable and easy to approach.
+
+Our strategy included:
+
+- Promoting the service directly to students
+- Using simple and clear messaging
+- Making the service feel affordable and convenient
+- Showing the value through before-and-after visuals
+- Building awareness through campus interaction
 
 ### Skills Used
 
-Marketing strategy · Target market analysis · Brand positioning · Campaign planning · Campus promotion · Customer engagement
+- Target audience analysis
+- Brand positioning
+- Service marketing
+- Campus promotion
+- Customer communication
+- Team collaboration
 
 ### Key Takeaway
 
-This project showed me how important it is to understand the audience before creating a campaign. For commuter students, the strongest message was convenience, affordability, and quick service.
-
-:::
+This project helped me understand how marketing works beyond just ideas. I learned how important it is to understand customer needs, communicate value clearly, and create a brand that feels useful to the audience.
 
 ---
 
-## LA Galaxy Campaign
+## LA Galaxy Mock Campaign
 
-::: {.project-showcase}
+### Project Goal
 
-### Overview
+The goal of this project was to create a sports marketing campaign idea that could help strengthen fan engagement and connect with younger audiences.
 
-This project focused on creating a sports marketing campaign connected to the LA Galaxy brand. The goal was to think about fan engagement, audience connection, and campaign messaging.
+This project connects to my interest in sports marketing because it focuses on how a team can build stronger relationships with fans through digital content, experiences, and brand storytelling.
 
-### My Role
+### Target Audience
 
-I worked on campaign ideas that focused on how to connect with fans through branding, social media, and event-style promotion.
+The target audience includes young adults, college students, and casual sports fans who may be interested in attending games, following the team online, or engaging with sports content on social media.
+
+### Marketing Strategy
+
+The campaign focuses on making the LA Galaxy brand feel more exciting, accessible, and connected to younger fans.
+
+The strategy includes:
+
+- Social media content focused on fan experiences
+- Game-day promotion ideas
+- Student-friendly messaging
+- Short-form video content
+- Community and lifestyle-based sports marketing
 
 ### Skills Used
 
-Sports marketing · Fan engagement · Campaign messaging · Social media strategy · Brand awareness
+- Sports marketing strategy
+- Audience segmentation
+- Social media planning
+- Campaign messaging
+- Brand engagement
+- Digital promotion
 
 ### Key Takeaway
 
-This project helped me see how sports marketing is not only about promoting a team, but also about building emotional connection with fans.
-
-:::
+This project helped me practice connecting marketing strategy to sports and entertainment. I learned that sports marketing is not only about promoting games, but also about building emotional connections with fans.
 
 ---
 
-## Marketing Analytics Dashboard
+## Project Strengths
 
-::: {.project-showcase}
+These projects show my ability to:
 
-### Overview
+- Think from the customer’s point of view
+- Create marketing ideas for specific audiences
+- Build campaign messages around customer needs
+- Connect creativity with strategy
+- Present marketing work in a professional digital format
 
-This dashboard project shows how marketing data can be organized and explained visually. It focuses on turning numbers into clear insights that can support marketing decisions.
+---
 
-### My Role
+## Tools and Platforms Used
 
-I worked on organizing data, creating visuals, and explaining what the results meant in a marketing context.
-
-### Skills Used
-
-Marketing analytics · Data visualization · R · Quarto · ggplot2 · Excel · Insight communication
-
-### Key Takeaway
-
-This project helped me understand how data can support marketing strategy by showing patterns, trends, and customer-related insights.
-
-:::
+- Quarto
+- GitHub Pages
+- Google Analytics
+- Excel
+- R
+- Canva
+- Social media platforms
