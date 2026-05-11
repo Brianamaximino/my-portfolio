@@ -30,7 +30,7 @@ Super Soakerz was a student-led car window washing business created for a market
 
 **Main focus:** student marketing, service branding, pricing, and promotion.
 
-[View Full Project](super-soakerz.html){.btn .btn-primary}
+[View Full Project](supersoakerz.html){.project-btn}
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -40,7 +40,7 @@ This project connects to my career interest in sports marketing. The campaign fo
 
 **Main focus:** sports marketing, fan engagement, social media, and audience targeting.
 
-[View Full Project](la-galaxy.html){.btn .btn-primary}
+[View Full Project](lagalaxy.html){.project-btn}
 :::
 
 :::

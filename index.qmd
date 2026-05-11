@@ -28,8 +28,8 @@ I am interested in sports marketing, brand strategy, digital marketing, and mark
 
 My goal is to continue building experience in marketing roles where I can combine creativity, data, and strategy to better understand audiences and improve campaign performance.
 
-[View My Projects](projects.html){.btn .btn-primary}
-[Download Resume](Briana-Maximino-Resume.pdf){.btn .btn-secondary}
+[View Projects](projects.html){.btn .btn-primary}
+[View Resume](resume.html){.btn .btn-secondary}
 [LinkedIn](https://www.linkedin.com/in/brianamaximino){.btn .btn-secondary}
 
 :::
@@ -118,11 +118,11 @@ My analytics work highlights data-driven thinking through visualizations, dashbo
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### Revealjs Presentation
+### Dashboard
 
-My presentation page demonstrates my ability to organize marketing ideas and present professional findings using Quarto and Revealjs.
+My dashboard section demonstrates how marketing information can be organized and visualized to support better decisions.
 
-[View Presentation](presentation.html){.btn .btn-primary}
+[View Dashboard](dashboard.html){.btn .btn-primary}
 :::
 
 :::
@@ -137,7 +137,7 @@ Super Soakerz was a student-led car window washing business created as part of a
 
 **Skills shown:** campaign planning, campus marketing, branding, customer targeting, and promotional strategy.
 
-[View Project](supersoakerz.html){.btn .btn-secondary}
+[View Super Soakerz Project](supersoakerz.html){.btn .btn-secondary}
 
 ---
 
@@ -147,7 +147,7 @@ This project connects to my interest in sports marketing by focusing on fan enga
 
 **Skills shown:** sports marketing, audience segmentation, campaign messaging, and digital promotion.
 
-[View Project](lagalaxy.html){.btn .btn-secondary}
+[View LA Galaxy Campaign](lagalaxy.html){.btn .btn-secondary}
 
 ---
 
@@ -157,7 +157,15 @@ This project analyzes Tesla’s brand strategy, innovation, sustainability messa
 
 **Skills shown:** brand analysis, corporate strategy, research, and marketing insight.
 
-[View Project](tesla.html){.btn .btn-secondary}
+[View Tesla Analysis](tesla.html){.btn .btn-secondary}
+
+---
+
+## Presentation
+
+This section showcases my Revealjs presentation created with Quarto. It demonstrates my ability to organize marketing ideas and present information in a polished digital format.
+
+[View Featured Work](presentation.html){.btn .btn-primary}
 
 ---
 
@@ -179,7 +187,7 @@ I am currently seeking opportunities where I can continue growing my skills in m
 **Email:** Add your email here  
 **LinkedIn:** [www.linkedin.com/in/brianamaximino](https://www.linkedin.com/in/brianamaximino)
 
-[Download Resume](Briana-Maximino-Resume.pdf){.btn .btn-primary}
+[View Resume](resume.html){.btn .btn-primary}
 
 ---
 

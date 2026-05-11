@@ -1,6 +1,6 @@
 ---
-title: "Revealjs Presentation"
-subtitle: "Digital Marketing Presentation Created with Quarto"
+title: "Featured Work"
+subtitle: "Revealjs Presentation | Digital Marketing Presentation Created with Quarto"
 format:
   html:
     theme: cosmo
