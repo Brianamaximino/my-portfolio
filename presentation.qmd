@@ -72,7 +72,7 @@ This is important for marketing because presentations are often used to explain 
 
 Click the button below to open the full Revealjs presentation.
 
-[Open Revealjs Presentation](Revealjs-Presentation.html){.btn .btn-primary}
+[Open Revealjs Presentation](revealjs-presentation.html){.project-btn target="_blank"}
 
 ---
 
