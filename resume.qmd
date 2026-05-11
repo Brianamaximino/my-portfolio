@@ -17,7 +17,7 @@ This page provides a professional overview of my education, skills, experience, 
 
 I am currently building experience in brand strategy, sports marketing, digital marketing, campaign planning, and marketing analytics.
 
-[Download My Resume](Briana-Maximino-Resume.pdf){.btn .btn-primary}
+[View Full Resume](files/briana-maximino-resume.pdf){.resume-btn target="_blank"}
 
 ---
 
@@ -130,4 +130,4 @@ I am especially interested in marketing roles connected to:
 
 Use the button below to download my resume as a PDF.
 
-[Download My Resume](Briana-Maximino-Resume.pdf){.btn .btn-primary}
+[View Full Resume](files/briana-maximino-resume.pdf){.resume-btn target="_blank"}
