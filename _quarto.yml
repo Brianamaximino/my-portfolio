@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - group-3-presentation.html
 
 website:
   title: "Briana Maximino"
